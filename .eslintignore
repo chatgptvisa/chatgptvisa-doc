@@ -129,13 +129,5 @@ static/openapi
 .tsbuild.info
 .tsbuild.jsx.info
 
-# Yarn
-.yarn/*
-!.yarn/patches
-!.yarn/releases
-!.yarn/plugins
-!.yarn/sdks
-!.yarn/versions
-.pnp.*
-
-website/version.json
+website/docusaurus.config.js
+website/babel.config.js
