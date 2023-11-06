@@ -40,6 +40,206 @@ const redocusaurus: PresetEntry = [
         spec: 'openapi/single-file/openapi.yaml',
         // NOTE: no `route` passed, instead data used in custom React Component ('custom-layout/index.jsx')
       },
+      {
+        id: 'using_eb1a',
+        spec: 'openapi/immigration/eb1a/openapi.yaml',
+        // NOTE: no `route` passed, instead data used in custom React Component ('custom-layout/index.jsx')
+      },
+      {
+        id: 'using_eb1b',
+        spec: 'openapi/immigration/eb1b/openapi.yaml',
+      },
+      {
+        id: 'using_eb1c',
+        spec: 'openapi/immigration/eb1c/openapi.yaml',
+      },
+      {
+        id: 'using_eb2-perm',
+        spec: 'openapi/immigration/eb2-perm/openapi.yaml',
+
+      },
+      {
+        id: 'using_eb2-niw',
+        spec: 'openapi/immigration/eb2-niw/openapi.yaml',
+
+      },
+      {
+        id: 'using_eb3',
+        spec: 'openapi/immigration/eb3/openapi.yaml',
+
+      },
+      {
+        id: 'using_eb4',
+        spec: 'openapi/immigration/eb4/openapi.yaml',
+
+      },
+      {
+        id: 'using_eb5',
+        spec: 'openapi/immigration/eb5/openapi.yaml',
+
+      },
+      {
+        id: 'using_f1-immigration',
+        spec: 'openapi/immigration/f1-immigration/openapi.yaml',
+
+      },
+      {
+        id: 'using_f2a-immigration',
+        spec: 'openapi/immigration/f2a-immigration/openapi.yaml',
+
+      },
+      {
+        id: 'using_f2b-immigration',
+        spec: 'openapi/immigration/f2b-immigration/openapi.yaml',
+
+      },
+      {
+        id: 'using_f3-immigration',
+        spec: 'openapi/immigration/f3-immigration/openapi.yaml',
+
+      },
+      {
+        id: 'using_f4-immigration',
+        spec: 'openapi/immigration/f4-immigration/openapi.yaml',
+
+      },
+// nonimmigration
+      {
+        id: 'using_b1',
+        spec: 'openapi/nonimmigration/b1/openapi.yaml',
+      },
+      {
+        id: 'using_b2',
+        spec: 'openapi/nonimmigration/b2/openapi.yaml',
+      },
+      {
+        id: 'using_f1-nonimmigration',
+        spec: 'openapi/nonimmigration/f1-nonimmigration/openapi.yaml',
+      },
+      {
+        id: 'using_f2-nonimmigration',
+        spec: 'openapi/nonimmigration/f2-nonimmigration/openapi.yaml',
+      },
+      {
+        id: 'using_m1',
+        spec: 'openapi/nonimmigration/m1/openapi.yaml',
+      },
+      {
+        id: 'using_m2',
+        spec: 'openapi/nonimmigration/m2/openapi.yaml',
+      },
+      {
+        id: 'using_j1',
+        spec: 'openapi/nonimmigration/j1/openapi.yaml',
+      },
+      {
+        id: 'using_j2',
+        spec: 'openapi/nonimmigration/j2/openapi.yaml',
+      },
+      {
+        id: 'using_h1b',
+        spec: 'openapi/nonimmigration/h1b/openapi.yaml',
+      },
+      {
+        id: 'using_h4',
+        spec: 'openapi/nonimmigration/h4/openapi.yaml',
+      },
+      {
+        id: 'using_h2a',
+        spec: 'openapi/nonimmigration/h2a/openapi.yaml',
+      },
+      {
+        id: 'using_h2b',
+        spec: 'openapi/nonimmigration/h2b/openapi.yaml',
+      },
+      {
+        id: 'using_h3',
+        spec: 'openapi/nonimmigration/h3/openapi.yaml',
+      },
+      {
+        id: 'using_l1',
+        spec: 'openapi/nonimmigration/l1/openapi.yaml',
+      },
+      {
+        id: 'using_l2',
+        spec: 'openapi/nonimmigration/l2/openapi.yaml',
+      },
+      {
+        id: 'using_01a',
+        spec: 'openapi/nonimmigration/01a/openapi.yaml',
+      },
+      {
+        id: 'using_01b',
+        spec: 'openapi/nonimmigration/01b/openapi.yaml',
+      },
+      {
+        id: 'using_p1',
+        spec: 'openapi/nonimmigration/p1/openapi.yaml',
+      },
+      {
+        id: 'using_q1',
+        spec: 'openapi/nonimmigration/q1/openapi.yaml',
+      },
+      {
+        id: 'using_k1',
+        spec: 'openapi/nonimmigration/k1/openapi.yaml',
+      },
+      {
+        id: 'using_k3',
+        spec: 'openapi/nonimmigration/k3/openapi.yaml',
+      },
+      {
+        id: 'using_u',
+        spec: 'openapi/nonimmigration/u/openapi.yaml',
+      },
+      {
+        id: 'using_t',
+        spec: 'openapi/nonimmigration/t/openapi.yaml',
+      },
+      {
+        id: 'using_v',
+        spec: 'openapi/nonimmigration/v/openapi.yaml',
+      },
+      {
+        id: 'using_a',
+        spec: 'openapi/nonimmigration/a/openapi.yaml',
+      },
+      {
+        id: 'using_nato',
+        spec: 'openapi/nonimmigration/nato/openapi.yaml',
+      },
+      {
+        id: 'using_c1',
+        spec: 'openapi/nonimmigration/c1/openapi.yaml',
+      },
+      {
+        id: 'using_c2',
+        spec: 'openapi/nonimmigration/c2/openapi.yaml',
+      },
+      {
+        id: 'using_c3',
+        spec: 'openapi/nonimmigration/c3/openapi.yaml',
+      },
+      {
+        id: 'using_e1',
+        spec: 'openapi/nonimmigration/e1/openapi.yaml',
+      },
+      {
+        id: 'using_e2',
+        spec: 'openapi/nonimmigration/e2/openapi.yaml',
+      },
+      {
+        id: 'using_e3',
+        spec: 'openapi/nonimmigration/e3/openapi.yaml',
+      },
+      {
+        id: 'using_r1',
+        spec: 'openapi/nonimmigration/r1/openapi.yaml',
+      },
+      {
+        id: 'using_r2',
+        spec: 'openapi/nonimmigration/r2/openapi.yaml',
+      },
     ],
     theme: {
       /**
