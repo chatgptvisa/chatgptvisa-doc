@@ -24,8 +24,8 @@ An object to pass as layout props. Useful to set title/description of the page. 
 
 ### config (optional)
 
-:::warning
+:::caution
 Deprecated: Use `redocly.yaml` to specify theme. See [example](https://github.com/rohit-gohri/redocusaurus/blob/main/website/redocly.yaml).
 :::
 
-Same as config option in [root options](./Installation.md#config-optional) but specific for loading data.
+Same as config option in [root options](Installation.md#config-optional) but specific for loading data.
