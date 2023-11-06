@@ -288,46 +288,205 @@ const config: Config = {
       title: 'Redocusaurus',
       items: [
         {
-          label: 'Docs',
+          label: 'Immigration',
           position: 'left',
           to: '/docs',
+          items: [
+            {
+              label: 'EB1A',
+              to: '/immigration/eb1a/'
+            },
+            {
+              label: 'EB1B',
+              to: '/immigration/eb1b/',
+            },
+            {
+              label: 'EB1C',
+              to: '/immigration/eb1c/',
+            },
+            {
+              label: 'EB2-PERM',
+              to: '/immigration/eb2-perm/',
+            },
+            {
+              label: 'EB2-NIW',
+              to: '/immigration/eb2-niw/',
+            },
+            {
+              label: 'EB3',
+              to: '/immigration/eb3/',
+            },
+            {
+              label: 'EB4',
+              to: '/immigration/eb4/',
+            },
+            {
+              label: 'EB5',
+              to: '/immigration/eb5/',
+            },
+            {
+              label: 'F1-immigration',
+              to: '/immigration/f1-immigration/',
+            },
+            {
+              label: 'F2A-immigration',
+              to: '/immigration/f2a-immigration/',
+            },
+            {
+              label: 'F2B-immigration',
+              to: '/immigration/f2b-immigration/',
+            },
+            {
+              label: 'F3-immigration',
+              to: '/immigration/f3-immigration/',
+            },
+            {
+              label: 'F4-immigration',
+              to: '/immigration/f4-immigration/',
+            }
+          ],
         },
         {
-          label: 'Examples',
+          label: 'NonImmigration',
           position: 'left',
           items: [
             {
-              label: 'All',
-              to: '/examples',
+              label: 'B1',
+              to: '/nonimmigration/b1/',
             },
             {
-              label: 'Using Single YAML',
-              to: '/examples/using-single-yaml/',
+              label: 'B2',
+              to: '/nonimmigration/b2/',
             },
             {
-              label: 'Using Remote URL',
-              to: '/examples/using-remote-url/',
+              label: 'F1',
+              to: '/nonimmigration/f1-nonimmigration/',
             },
             {
-              label: 'Using Multiple YAMLs',
-              to: '/examples/using-multi-file-yaml/',
+              label: 'F2',
+              to: '/nonimmigration/f2-nonimmigration',
             },
             {
-              label: 'Using Swagger',
-              to: '/examples/using-swagger-json/',
+              label: 'M1',
+              to: '/nonimmigration/m1/',
             },
             {
-              label: 'Custom Page',
-              to: '/examples/custom-page/',
+              label: 'M2',
+              to: '/nonimmigration/m2/',
             },
             {
-              label: 'Custom Layout',
-              to: '/examples/custom-layout/',
+              label: 'J1',
+              to: '/nonimmigration/j1/',
             },
             {
-              label: 'Client Only',
-              to: '/examples/client-only/',
+              label: 'J2',
+              to: '/nonimmigration/j2/',
             },
+            {
+              label: 'H1B',
+              to: '/nonimmigration/h1b/',
+            },
+            {
+              label: 'H4',
+              to: '/nonimmigration/h4/',
+            },
+            {
+              label: 'H2A',
+              to: '/nonimmigration/h2a/',
+            },
+            {
+              label: 'H2B',
+              to: '/nonimmigration/h2b/',
+            },
+            {
+              label: 'H3',
+              to: '/nonimmigration/h3/',
+            },
+            {
+              label: 'L1',
+              to: '/nonimmigration/l1/',
+            },
+            {
+              label: 'L2',
+              to: '/nonimmigration/l2/',
+            },
+            {
+              label: 'O1A',
+              to: '/nonimmigration/01a/',
+            },
+            {
+              label: 'O1B',
+              to: '/nonimmigration/01b/',
+            },
+            {
+              label: 'P1',
+              to: '/nonimmigration/p1/',
+            },
+            {
+              label: 'Q1',
+              to: '/nonimmigration/q1/',
+            },
+            {
+              label: 'K1',
+              to: '/nonimmigration/k1/',
+            },
+            {
+              label: 'K3',
+              to: '/nonimmigration/k3/',
+            },
+            {
+              label: 'U',
+              to: '/nonimmigration/u/',
+            },
+            {
+              label: 'T',
+              to: '/nonimmigration/t/',
+            },
+            {
+              label: 'V',
+              to: '/nonimmigration/v/',
+            },
+            {
+              label: 'A',
+              to: '/nonimmigration/a/',
+            },
+            {
+              label: 'NATO',
+              to: '/nonimmigration/nato/',
+            },
+            {
+              label: 'C1',
+              to: '/nonimmigration/c1/',
+            },
+            {
+              label: 'C2',
+              to: '/nonimmigration/c2/',
+            },
+            {
+              label: 'C3',
+              to: '/nonimmigration/c3/',
+            },
+            {
+              label: 'E1',
+              to: '/nonimmigration/e1/',
+            },
+            {
+              label: 'E2',
+              to: '/nonimmigration/e2/',
+            },
+            {
+              label: 'E3',
+              to: '/nonimmigration/e3/',
+            },
+            {
+              label: 'R1',
+              to: '/nonimmigration/r1/',
+            },
+            {
+              label: 'R2',
+              to: '/nonimmigration/r2/',
+            },
+
           ],
         },
         {
