@@ -6,79 +6,42 @@ servers:
     description: Sandbox server
 info:
   description: |
-    # O-1B Visa Detailed Overview
-    
-    ## What is the O-1B Visa?
-    
-      The O-1B visa is a non-immigrant visa for individuals who possess extraordinary ability in the arts or extraordinary achievement in the motion picture or television industry. It enables these talented individuals to work in their field of expertise in the United States on a temporary basis.
-      
-      ## Qualifications for O-1B Visa
-      
-      To qualify for an O-1B visa, applicants must demonstrate a record of extraordinary achievement, which is a high standard of accomplishment in the field of arts or entertainment.
-    
-    ### Criteria for Demonstrating Extraordinary Ability in the Arts:
-    
-    - Evidence of having been nominated for, or the recipient of, significant national or international awards or prizes such as an Academy Award, an Emmy, a Grammy, or a Director's Guild Award, or
-    - At least three of the following:
-        - Performed or will perform services as a lead or starring participant in productions or events with distinguished reputations.
-        - National or international recognition for achievements through critical reviews, publications, press articles, or testimonials.
-        - A record of major commercial or critically acclaimed successes.
-        - Significant recognition from organizations, critics, government agencies, or other recognized experts in the field.
-        - A high salary or substantial remuneration compared to others in the field, as evidenced by contracts or other reliable evidence.
-    
-    ## Application Process for O-1B Visa
-    
-      1. **Petition and Sponsorship:** An O-1B petition can only be filed by a U.S. employer, a U.S. agent, or a foreign employer through a U.S. agent.
-      
-      2. **Form I-129:** The U.S. employer or agent must file Form I-129, Petition for Nonimmigrant Worker, with USCIS. This form should be filed with evidence of the individual's extraordinary ability and the job offer.
-      
-      3. **Advisory Opinion:** A written advisory opinion from a peer group, labor union, or person with expertise in the beneficiary's area of ability is often required.
-      
-      4. **Evidence Submission:** The petition must include substantial evidence that the beneficiary meets the criteria for O-1B classification, including contracts, itineraries, and letters from industry experts.
-      
-      5. **Visa Application:** Once the petition is approved, the beneficiary can apply for the O-1B visa at a U.S. Embassy or Consulate.
-    
-    ## Duration and Limits of O-1B Visa
-    
-    - The initial period of stay is usually granted for up to three years. Extensions may be granted in one-year increments, or less, as necessary to complete the event or activity.
-    
-    ## FAQs about O-1B Visa
-    
-    ### Can family members accompany O-1B visa holders?
-    
-    - Yes, spouses and children under the age of 21 may obtain O-3 nonimmigrant status.
-    
-    ### Can O-1B visa holders apply for a green card?
-    
-    - O-1B visa holders can pursue a green card if they meet the qualifications for an immigrant visa category, such as the EB-1A for individuals with extraordinary ability.
-    
-    ### Is there a cap on O-1B visas?
-    
-    - No, there is no annual limit on the number of O-1B visas that can be issued.
-    
-    ### Can an individual on a different visa status apply for an O-1B visa?
-    
-    - Yes, individuals may change their visa status to O-1B if they fulfill the necessary criteria.
-    
-    ### Do O-1B visa holders need to maintain a residence abroad?
-    
-    - O-1B visa holders are not required to maintain a foreign residence and may seek permanent residency in the U.S.
-    
-    ### How long does the O-1B visa application process take?
-    
-    - Processing times vary, but USCIS offers a Premium Processing Service for faster adjudication.
-    
-    ## Tips for O-1B Visa Applicants
-    
-    - Compile a comprehensive portfolio of your work, press about your achievements, and letters from esteemed colleagues or industry leaders.
-    - Engage an immigration attorney experienced in O-1B visas to assist with the complex application process.
-    - Plan for your U.S. stay, including arranging appropriate accommodations and domestic transportation in advance.
-      
-      This Markdown guide is designed to provide an in-depth look at the O-1B visa, ideal for artists and entertainers with extraordinary ability or achievement looking to expand their career opportunities in the United States.
+    This is a sample server Petstore server.
+    You can find out more about Swagger at
+    [http://swagger.io](http://swagger.io) or on [irc.freenode.net, #swagger](http://swagger.io/irc/).
+    For this sample, you can use the api key `special-key` to test the authorization filters.
+
+    # Introduction  sss
+    This API is documented in **OpenAPI format** and is based on
+    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
+    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
+    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
+    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
+
+    # OpenAPI Specification
+    This API is documented in **OpenAPI format** and is based on
+    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
+    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
+    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
+    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
+
+    # Cross-Origin Resource Sharing   ssssss
+    This API features Cross-Origin Resource Sharing (CORS) implemented in compliance with  [W3C spec](https://www.w3.org/TR/cors/).
+    And that allows cross-domain communication from the browser.
+    All responses have a wildcard same-origin which makes them completely public and accessible to everyone, including any code on any site.
+
+    # Authentication
+
+    Petstore offers two forms of authentication:
+      - API Key
+      - OAuth2
+    OAuth2 - an open protocol to allow secure authorization in a simple
+    and standard method from web, mobile and desktop applications.
+
     <SecurityDefinitions />
 
   version: 1.0.0
-  title: 这是eb1b页面
+  title: 这是a页面
   termsOfService: 'http://swagger.io/terms/'
   contact:
     name: API Support

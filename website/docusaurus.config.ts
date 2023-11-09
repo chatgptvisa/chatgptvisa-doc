@@ -201,8 +201,16 @@ const redocusaurus: PresetEntry = [
         spec: 'openapi/nonimmigration/v/openapi.yaml',
       },
       {
-        id: 'using_a',
-        spec: 'openapi/nonimmigration/a/openapi.yaml',
+        id: 'using_a1',
+        spec: 'openapi/nonimmigration/a1/openapi.yaml',
+      },
+      {
+        id: 'using_a2',
+        spec: 'openapi/nonimmigration/a2/openapi.yaml',
+      },
+      {
+        id: 'using_a3',
+        spec: 'openapi/nonimmigration/a3/openapi.yaml',
       },
       {
         id: 'using_nato',
@@ -447,8 +455,16 @@ const config: Config = {
               to: '/nonimmigration/v/',
             },
             {
-              label: 'A',
-              to: '/nonimmigration/a/',
+              label: 'A1',
+              to: '/nonimmigration/a1/',
+            },
+            {
+              label: 'A2',
+              to: '/nonimmigration/a2/',
+            },
+            {
+              label: 'A3',
+              to: '/nonimmigration/a3/',
             },
             {
               label: 'NATO',
