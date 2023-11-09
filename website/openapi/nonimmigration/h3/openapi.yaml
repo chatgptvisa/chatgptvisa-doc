@@ -6,38 +6,75 @@ servers:
     description: Sandbox server
 info:
   description: |
-    This is a sample server Petstore server.
-    You can find out more about Swagger at
-    [http://swagger.io](http://swagger.io) or on [irc.freenode.net, #swagger](http://swagger.io/irc/).
-    For this sample, you can use the api key `special-key` to test the authorization filters.
-
-    # Introduction  sss
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # OpenAPI Specification
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # Cross-Origin Resource Sharing   ssssss
-    This API features Cross-Origin Resource Sharing (CORS) implemented in compliance with  [W3C spec](https://www.w3.org/TR/cors/).
-    And that allows cross-domain communication from the browser.
-    All responses have a wildcard same-origin which makes them completely public and accessible to everyone, including any code on any site.
-
-    # Authentication
-
-    Petstore offers two forms of authentication:
-      - API Key
-      - OAuth2
-    OAuth2 - an open protocol to allow secure authorization in a simple
-    and standard method from web, mobile and desktop applications.
-
+    # H-3 Visa Detailed Overview
+    
+    ## What is the H-3 Visa?
+      
+      The H-3 visa is a non-immigrant visa that allows foreign nationals to enter the United States temporarily as either a trainee or a special education exchange visitor. The program is designed to provide the applicant with job-related training for work that will ultimately be performed outside the U.S.
+    
+    ## Qualifications for H-3 Visa
+    
+    Eligibility for the H-3 visa includes:
+      
+      ### For Trainees:
+      - The proposed training is not available in the applicant's home country.
+      - The applicant will not be placed in a position which is in the normal operation of the business and in which citizens and resident workers are regularly employed.
+      - The training will benefit the applicant in pursuing a career outside the U.S.
+      - The applicant must have a background suitable to the training program.
+      
+      ### For Special Education Exchange Visitors:
+      - The applicant must be coming to the U.S. to participate in a special education exchange visitor training program that provides for practical training and experience in the education of children with physical, mental, or emotional disabilities.
+      - There is a cap of 50 such visas available each fiscal year.
+    
+    ## H-3 Visa Application Process
+    
+    1. **Petition Approval**: The U.S. employer or sponsor must file Form I-129, Petition for Nonimmigrant Worker, with USCIS and have it approved.
+    
+    2. **DS-160 Form**: Complete the Online Nonimmigrant Visa Application and print the confirmation page.
+    
+    3. **Visa Fee**: Pay the non-refundable visa application fee.
+    
+    4. **Schedule an Interview**: Book an interview at the U.S. Embassy or Consulate in the applicant's home country.
+    
+    5. **Prepare Documentation**: Gather all necessary documents, including the DS-160 confirmation page, a valid passport, the I-129 petition receipt, and documents supporting the training plan or special education program.
+    
+    6. **Attend the Visa Interview**: A consular officer will interview the applicant to determine eligibility based on the H-3 visa requirements.
+      
+      ## Duration and Limits of H-3 Visa
+    
+      - The H-3 visa for trainees is typically valid for the length of the training program, up to two years.
+      - For special education exchange visitors, the visa is valid for up to 18 months.
+      - The H-3 visa does not generally provide a path to permanent residency.
+      
+      ## FAQs about H-3 Visa
+      
+      ### Can H-3 visa holders change their status to another non-immigrant visa?
+    
+      - Yes, they may change to another non-immigrant status if eligible.
+      
+      ### Can H-3 visa holders bring their family members?
+    
+      - Yes, spouses and children under 21 may apply for H-4 status but are not permitted to work in the U.S.
+      
+      ### Can H-3 visa holders work during their stay?
+    
+      - They may work only for the petitioning employer or sponsor in the activity described in the petition.
+      
+      ### What if the training program or special education visitor program is extended?
+    
+      - Extensions of stay for H-3 visa holders are not generally permitted beyond the maximum allowed periods.
+      
+      ### Is participation in medical training programs permitted under the H-3 visa?
+    
+      - No, foreign nationals cannot come to the U.S. for the purpose of receiving graduate medical education or training.
+      
+      ## Tips for H-3 Visa Applicants
+    
+      - Ensure the training program is outlined in detail, including the structure, supervision, and benefit to the foreign national's career outside the U.S.
+      - Maintain clear records of educational qualifications and professional background that support the need for the training.
+      - Be prepared to demonstrate the unavailability of the training in your home country.
+      
+      This Markdown document provides an informative guide for individuals and organizations interested in the H-3 visa, which facilitates temporary stay in the U.S. for job-related training and special education programs, highlighting the application process, eligibility criteria, and key considerations for prospective applicants.
     <SecurityDefinitions />
 
   version: 1.0.0

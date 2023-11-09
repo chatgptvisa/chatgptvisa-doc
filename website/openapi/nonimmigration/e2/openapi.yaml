@@ -6,38 +6,71 @@ servers:
     description: Sandbox server
 info:
   description: |
-    This is a sample server Petstore server.
-    You can find out more about Swagger at
-    [http://swagger.io](http://swagger.io) or on [irc.freenode.net, #swagger](http://swagger.io/irc/).
-    For this sample, you can use the api key `special-key` to test the authorization filters.
-
-    # Introduction  sss
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # OpenAPI Specification
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # Cross-Origin Resource Sharing   ssssss
-    This API features Cross-Origin Resource Sharing (CORS) implemented in compliance with  [W3C spec](https://www.w3.org/TR/cors/).
-    And that allows cross-domain communication from the browser.
-    All responses have a wildcard same-origin which makes them completely public and accessible to everyone, including any code on any site.
-
-    # Authentication
-
-    Petstore offers two forms of authentication:
-      - API Key
-      - OAuth2
-    OAuth2 - an open protocol to allow secure authorization in a simple
-    and standard method from web, mobile and desktop applications.
-
+    # E-2 Visa Detailed Overview
+    
+    ## What is the E-2 Visa?
+      
+      The E-2 visa is a non-immigrant visa that allows individuals, or employees of companies, from treaty countries to work in the United States based on a substantial investment in a U.S. business. It is also known as the Treaty Investor visa.
+    
+    ## Qualifications for E-2 Visa
+    
+    To qualify for an E-2 visa:
+    
+      - **Treaty Country Citizenship**: Applicants must be a national of a country with which the United States maintains a treaty of commerce and navigation.
+      - **Substantial Investment**: Applicants must have invested, or be actively in the process of investing, a substantial amount of capital in a bona fide enterprise in the U.S.
+      - **Business Viability**: The investment must be in a real operating enterprise, producing goods or services. Speculative or idle investments do not qualify.
+      - **Control of Funds**: The investment must be at risk, and the investor must have control over the funds. Loans secured with the assets of the investment enterprise are not allowed.
+      - **Significant Investment**: There is no minimum dollar amount, but the investment must be substantial relative to the total cost of purchasing or creating the enterprise.
+      - **Non-Marginal Enterprise**: The business must generate significantly more income than just to provide a living to the investor and family, or it must have a significant economic impact in the United States.
+      - **Intent to Depart**: Applicants must intend to depart the U.S. when their business in the U.S. is completed, although there is no requirement to maintain a residence abroad.
+    
+    ## E-2 Visa Application Process
+    
+    1. **Company Registration**: If applicable, the business must be registered with the U.S. Embassy or Consulate.
+    2. **Form DS-160**: Complete the Online Nonimmigrant Visa Application.
+    3. **Visa Fee**: Pay the non-refundable visa application fee.
+    4. **Schedule an Interview**: Book an interview at the U.S. Embassy or Consulate in the applicant's home country.
+    5. **Prepare Documentation**: Gather documentation proving substantial investment, ownership, and active management of the enterprise. This includes financial statements, business plans, and evidence of funds transfer.
+    6. **Attend the Visa Interview**: A consular officer will assess whether the applicant meets the E-2 visa criteria.
+      
+      ## Duration and Limits of E-2 Visa
+    
+      - The E-2 visa may be issued for up to five years, depending on the treaty country. Stay in the U.S. is granted for up to two years per entry, with unlimited two-year extensions as long as the investor continues to run the business and it meets E-2 visa requirements.
+      
+      ## FAQs about E-2 Visa
+      
+      ### Can E-2 visa holders bring their families?
+    
+      - Yes, spouses and unmarried children under 21 may apply for derivative E-2 visas.
+      
+      ### Can E-2 visa holders travel in and out of the U.S.?
+    
+      - Yes, E-2 visa holders may travel abroad and will generally be granted an automatic two-year period of readmission when returning to the U.S.
+      
+      ### Can E-2 visa holders apply for a green card?
+    
+      - The E-2 visa is a non-immigrant visa, but holders may apply for a green card through other eligible categories.
+      
+      ### Is there a minimum investment amount for the E-2 visa?
+    
+      - There is no minimum investment amount defined by law, but the investment must be substantial and sufficient to ensure the successful operation of the enterprise.
+      
+      ### Can the investment be a loan?
+    
+      - The investment must be at risk, meaning the investor must be subject to loss if the enterprise fails. Secured loans do not typically qualify.
+      
+      ### Can E-2 visa holders work for another employer?
+    
+      - No, E-2 visa holders are restricted to work only for the enterprise they invested in.
+      
+      ## Tips for E-2 Visa Applicants
+    
+      - Ensure your business plan is detailed and demonstrates the capacity for job creation or economic impact.
+      - Keep meticulous records of your investment and business operations.
+      - Renew your visa or status as needed, well before expiration.
+      - Consider consulting with an immigration lawyer experienced in E-2 visas, especially for complex cases or large investments.
+      
+      This Markdown document serves as an informative guide for individuals considering the E-2 Treaty Investor visa, detailing qualifications, application steps, and providing answers to common questions about investing and working in the United States under this category.
     <SecurityDefinitions />
 
   version: 1.0.0

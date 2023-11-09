@@ -6,38 +6,67 @@ servers:
     description: Sandbox server
 info:
   description: |
-    This is a sample server Petstore server.
-    You can find out more about Swagger at
-    [http://swagger.io](http://swagger.io) or on [irc.freenode.net, #swagger](http://swagger.io/irc/).
-    For this sample, you can use the api key `special-key` to test the authorization filters.
-
-    # Introduction  sss
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # OpenAPI Specification
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # Cross-Origin Resource Sharing   ssssss
-    This API features Cross-Origin Resource Sharing (CORS) implemented in compliance with  [W3C spec](https://www.w3.org/TR/cors/).
-    And that allows cross-domain communication from the browser.
-    All responses have a wildcard same-origin which makes them completely public and accessible to everyone, including any code on any site.
-
-    # Authentication
-
-    Petstore offers two forms of authentication:
-      - API Key
-      - OAuth2
-    OAuth2 - an open protocol to allow secure authorization in a simple
-    and standard method from web, mobile and desktop applications.
-
+    # H-2A Visa Detailed Overview
+    
+    ## What is the H-2A Visa?
+      
+      The H-2A visa is a non-immigrant visa program for foreign nationals to enter the United States for temporary or seasonal agricultural work. It is designed to allow U.S. employers who meet specific regulatory requirements to bring foreign nationals to the country to fill temporary agricultural jobs.
+    
+    ## Qualifications for H-2A Visa
+    
+    To qualify for an H-2A visa:
+    
+      - The applicant must be a citizen of a country with which the United States maintains a treaty of commerce and navigation or which is designated by the U.S. Secretary of Homeland Security as eligible to participate in the H-2A program.
+      - The U.S. employer must demonstrate that there are not enough U.S. workers who are able, willing, qualified, and available to do the temporary work.
+      - The employer must also show that employing H-2A workers will not adversely affect the wages and working conditions of similarly employed U.S. workers.
+      - The job must be of a temporary or seasonal nature.
+      - The applicant must have a job offer from a U.S. employer to perform agricultural labor or services.
+    
+    ## H-2A Visa Application Process
+    
+    1. **Temporary Labor Certification**: The employer must first apply for and receive a Temporary Labor Certification for H-2A workers with the U.S. Department of Labor.
+    
+    2. **Form I-129**: After receiving the Labor Certification, the employer must file Form I-129, Petition for Nonimmigrant Worker, with USCIS.
+    
+    3. **Consular Application**: Once the I-129 petition is approved, the prospective worker can apply for the H-2A visa with the U.S. Department of State at a U.S. Embassy or Consulate and seek entry to the United States with U.S. Customs and Border Protection (CBP).
+    
+    4. **Interview**: Some visa applicants may need to attend a visa interview at the U.S. Embassy or Consulate.
+    
+    5. **Entry into the United States**: Upon approval, the worker is granted the H-2A visa, allowing them to enter the U.S. for the agricultural work specified in the petition.
+      
+      ## Duration and Limits of H-2A Visa
+    
+      - The H-2A visa is valid for the duration of the Labor Certification, up to a maximum of one year. Extensions may be granted in increments of up to one year each. The total stay may not exceed three years.
+      
+      ## FAQs about H-2A Visa
+      
+      ### Can H-2A visa holders bring their family members?
+    
+      - Yes, spouses and unmarried children under 21 years of age may seek admission under the H-4 nonimmigrant classification. However, H-4 visa holders are not permitted to work in the United States.
+      
+      ### Are H-2A workers protected by U.S. labor laws?
+    
+      - Yes, H-2A workers are protected by U.S. labor laws, and employers must meet certain regulatory requirements regarding wages, housing, transportation, and meals.
+      
+      ### Can H-2A visa holders change employers?
+    
+      - H-2A workers may change employers, but the new employer must also have an approved Temporary Labor Certification and file a new Form I-129.
+      
+      ### What if the agricultural work ends earlier than expected?
+    
+      - If the work ends early, the H-2A worker must depart the United States unless they have secured a new H-2A job and the new employer has filed a petition on their behalf.
+      
+      ### Is health insurance required for H-2A workers?
+    
+      - Health insurance is not a requirement for the visa, but some employers may offer it, and it is highly advisable to have coverage due to the high cost of healthcare in the United States.
+      
+      ## Tips for H-2A Visa Applicants
+    
+      - Ensure that the job offer and terms of employment are clearly outlined and comply with H-2A visa requirements.
+      - Keep records of employment terms and conditions provided by the employer.
+      - Stay informed about your rights as an H-2A worker, including fair wages and safe working conditions.
+      
+      This Markdown document provides an informative guide for individuals and employers navigating the H-2A visa program, outlining the process, qualifications, and conditions for foreign nationals coming to the United States for temporary agricultural work.
     <SecurityDefinitions />
 
   version: 1.0.0

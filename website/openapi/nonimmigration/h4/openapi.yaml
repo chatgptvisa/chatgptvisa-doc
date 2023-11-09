@@ -6,38 +6,64 @@ servers:
     description: Sandbox server
 info:
   description: |
-    This is a sample server Petstore server.
-    You can find out more about Swagger at
-    [http://swagger.io](http://swagger.io) or on [irc.freenode.net, #swagger](http://swagger.io/irc/).
-    For this sample, you can use the api key `special-key` to test the authorization filters.
-
-    # Introduction  sss
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # OpenAPI Specification
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # Cross-Origin Resource Sharing   ssssss
-    This API features Cross-Origin Resource Sharing (CORS) implemented in compliance with  [W3C spec](https://www.w3.org/TR/cors/).
-    And that allows cross-domain communication from the browser.
-    All responses have a wildcard same-origin which makes them completely public and accessible to everyone, including any code on any site.
-
-    # Authentication
-
-    Petstore offers two forms of authentication:
-      - API Key
-      - OAuth2
-    OAuth2 - an open protocol to allow secure authorization in a simple
-    and standard method from web, mobile and desktop applications.
-
+    # H-4 Visa Detailed Overview
+    
+    ## What is the H-4 Visa?
+  
+      The H-4 visa is a non-immigrant visa issued to the immediate family members (spouse and children under 21 years of age) of H visa holders, which includes H-1B, H-2A, H-2B, and H-3 visa holders. This visa allows them to lawfully reside in the United States.
+  
+    ## Qualifications for H-4 Visa
+  
+    To be eligible for an H-4 visa:
+  
+      - The applicant must be the spouse or an unmarried child under the age of 21 of an H visa holder.
+      - The H visa holder must have valid status in the U.S. under one of the H visa categories.
+  
+    ## H-4 Visa Application Process
+  
+    1. **Form DS-160**: Complete the Online Nonimmigrant Visa Application and print the confirmation page.
+  
+    2. **Visa Fee**: Pay the non-refundable visa application fee.
+  
+    3. **Schedule an Interview**: Book an interview at the U.S. Embassy or Consulate in the applicant's home country, especially if the applicant is between 14 and 79 years of age.
+  
+    4. **Prepare Documentation**: Gather required documents, including a valid passport, DS-160 confirmation page, marriage certificate or birth certificate (as applicable), and proof of the H visa holder's status.
+  
+    5. **Attend the Visa Interview**: Applicants must attend a visa interview, where a consular officer will determine their eligibility for the H-4 visa.
+  
+      ## Duration and Limits of H-4 Visa
+  
+      - The H-4 visa's validity matches that of the primary H visa holder's duration of stay. It can be extended if the primary H visa holder's status is extended.
+  
+      ## FAQs about H-4 Visa
+  
+      ### Can H-4 visa holders work in the U.S.?
+  
+      - H-4 visa holders may be eligible to apply for work authorization if the primary H-1B visa holder has started the process of seeking employment-based lawful permanent resident status.
+  
+      ### Can H-4 visa holders study in the U.S.?
+  
+      - Yes, H-4 visa holders can enroll in U.S. educational institutions.
+  
+      ### Can H-4 visa holders apply for a Social Security Number (SSN)?
+  
+      - H-4 visa holders with work authorization can apply for an SSN.
+  
+      ### What is the process for H-4 visa holders to change their status?
+  
+      - They may change their status to another non-immigrant visa category if they meet the eligibility requirements for that category.
+  
+      ### Can H-4 visa holders travel outside the U.S. and re-enter?
+  
+      - Yes, H-4 visa holders can travel outside the U.S. and re-enter as long as they have a valid H-4 visa and the primary H visa holder maintains their status.
+  
+      ## Tips for H-4 Visa Applicants
+  
+      - Ensure all documentation reflects the current and accurate status of the primary H visa holder.
+      - Be prepared to clearly articulate your relationship with the primary H visa holder during the visa interview.
+      - Stay informed about the rules regarding employment and study to maintain lawful status.
+  
+      This Markdown document provides a comprehensive guide to the H-4 visa, offering insights into the application process, eligibility requirements, and benefits and restrictions for dependents of H visa holders residing in the United States.
     <SecurityDefinitions />
 
   version: 1.0.0

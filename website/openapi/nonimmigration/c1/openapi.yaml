@@ -6,38 +6,72 @@ servers:
     description: Sandbox server
 info:
   description: |
-    This is a sample server Petstore server.
-    You can find out more about Swagger at
-    [http://swagger.io](http://swagger.io) or on [irc.freenode.net, #swagger](http://swagger.io/irc/).
-    For this sample, you can use the api key `special-key` to test the authorization filters.
-
-    # Introduction  sss
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # OpenAPI Specification
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # Cross-Origin Resource Sharing   ssssss
-    This API features Cross-Origin Resource Sharing (CORS) implemented in compliance with  [W3C spec](https://www.w3.org/TR/cors/).
-    And that allows cross-domain communication from the browser.
-    All responses have a wildcard same-origin which makes them completely public and accessible to everyone, including any code on any site.
-
-    # Authentication
-
-    Petstore offers two forms of authentication:
-      - API Key
-      - OAuth2
-    OAuth2 - an open protocol to allow secure authorization in a simple
-    and standard method from web, mobile and desktop applications.
-
+    # C-1 Visa Detailed Overview
+    
+    ## What is the C-1 Visa?
+    
+      The C-1 visa is a non-immigrant visa for individuals in immediate and continuous transit through the United States en route to another country, with few exceptions. This visa category is commonly referred to as a transit visa.
+    
+    ## Qualifications for C-1 Visa
+    
+    To be eligible for a C-1 visa, applicants must demonstrate that:
+    
+      - They are in immediate and continuous transit through the United States.
+      - They have a valid entry visa for the country of destination (if a visa is required).
+      - They intend to depart the U.S. to the final destination within a reasonable time.
+      - They have sufficient funds to complete the transit journey.
+    
+    ## C-1 Visa Application Process
+    
+      1. **DS-160 Form:** Complete the Online Nonimmigrant Visa Application, Form DS-160. Print the confirmation page to bring to the interview.
+      
+      2. **Photo:** Upload a photo that meets the specific requirements while completing the DS-160 form.
+      
+      3. **Visa Fee:** Pay the non-refundable visa application fee, if required before your interview.
+      
+      4. **Schedule an Interview:** Book an interview at the nearest U.S. Embassy or Consulate.
+      
+      5. **Prepare Documentation:** Organize required documentation, including a passport valid for at least six months beyond the period of transit, the DS-160 confirmation page, and evidence of onward travel.
+      
+      6. **Attend the Visa Interview:** During the interview, a consular officer will determine whether you qualify for the transit visa.
+    
+    ## Duration and Limits of C-1 Visa
+    
+    - The C-1 visa is valid for a maximum of 29 days and cannot be extended. Transit visa holders must have a ticket for onward travel to a destination outside the United States.
+    
+    ## FAQs about C-1 Visa
+    
+    ### Can C-1 visa holders leave the airport in the U.S.?
+    
+    - C-1 visa holders are typically allowed to leave the airport if they are in transit, but they must stay within the vicinity of the airport or seaport and depart within 29 days.
+    
+    ### What if my transit involves a layover in the U.S.?
+    
+    - If your layover is simply to change planes but you won't leave the airport, you still need a C-1 visa unless you qualify for visa-free travel or are eligible for the Visa Waiver Program (VWP).
+    
+    ### Can C-1 visa holders change to another non-immigrant visa?
+    
+    - C-1 visa holders generally cannot change their status to another non-immigrant visa category.
+    
+    ### Is a C-1 visa the same as a crewmember (D) visa?
+    
+    - No, the C-1 visa is specifically for transit through the U.S., while the D visa is for crewmembers serving onboard sea vessels or international airlines in the U.S.
+    
+    ### Can family members accompany a C-1 visa holder?
+    
+    - Yes, family members who are also in transit can apply for their own C-1 visas.
+    
+    ### What is "immediate and continuous transit"?
+    
+    - It means that the primary purpose of your journey is to pass in immediate and continuous transit through the U.S. en route to another country.
+    
+    ## Tips for C-1 Visa Applicants
+    
+    - Plan your travel itinerary to ensure you meet the transit requirements of the C-1 visa.
+    - Maintain proof of your destination and intent to depart the U.S., such as a ticket for onward travel.
+    - Keep your stay in the U.S. as brief as possible to align with the transit visa's purpose.
+      
+      This Markdown document is designed to provide a thorough guide for individuals who need to understand the C-1 transit visa, outlining the qualifications, application process, and commonly asked questions for those transiting through the United States.
     <SecurityDefinitions />
 
   version: 1.0.0

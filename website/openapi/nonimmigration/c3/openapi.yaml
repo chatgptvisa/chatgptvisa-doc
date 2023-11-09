@@ -6,38 +6,66 @@ servers:
     description: Sandbox server
 info:
   description: |
-    This is a sample server Petstore server.
-    You can find out more about Swagger at
-    [http://swagger.io](http://swagger.io) or on [irc.freenode.net, #swagger](http://swagger.io/irc/).
-    For this sample, you can use the api key `special-key` to test the authorization filters.
-
-    # Introduction  sss
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # OpenAPI Specification
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # Cross-Origin Resource Sharing   ssssss
-    This API features Cross-Origin Resource Sharing (CORS) implemented in compliance with  [W3C spec](https://www.w3.org/TR/cors/).
-    And that allows cross-domain communication from the browser.
-    All responses have a wildcard same-origin which makes them completely public and accessible to everyone, including any code on any site.
-
-    # Authentication
-
-    Petstore offers two forms of authentication:
-      - API Key
-      - OAuth2
-    OAuth2 - an open protocol to allow secure authorization in a simple
-    and standard method from web, mobile and desktop applications.
-
+    # C-3 Visa Detailed Overview
+    
+    ## What is the C-3 Visa?
+    
+      The C-3 visa is a non-immigrant visa category for foreign government officials, representatives, and their immediate family members transiting through the United States to another country. The C-3 visa also covers attendants, servants, or personal employees of the principal C-3 visa holder.
+    
+    ## Qualifications for C-3 Visa
+    
+    Eligibility for the C-3 visa includes:
+    
+      - Foreign government officials, representatives, and their immediate family members in transit.
+      - Employees, servants, or personal attendants of the C-3 visa holder, provided they are accompanying them.
+    
+    ## C-3 Visa Application Process
+    
+      1. **DS-160 Form:** Complete the Online Nonimmigrant Visa Application, Form DS-160, and print the confirmation page for the interview.
+      
+      2. **Photo:** A visa photograph must be uploaded during the DS-160 application process, adhering to the specified format requirements.
+      
+      3. **Visa Fee:** There may be no visa application fee for government officials traveling on official business; however, this can vary based on reciprocity agreements.
+      
+      4. **Schedule an Interview:** While interviews are typically required for visa applicants, foreign government officials traveling for official duties may be exempt.
+      
+      5. **Prepare Documentation:** Gather necessary documents, which may include diplomatic notes, official letters of transit, and other evidence of the government official's transit through the U.S.
+      
+      6. **Attend the Visa Interview:** If required, attend the interview where a consular officer will determine your eligibility for the C-3 visa.
+    
+    ## Duration and Limits of C-3 Visa
+    
+    - C-3 visas are typically valid for the duration necessary to transit through the U.S., usually several days.
+    
+    ## FAQs about C-3 Visa
+    
+    ### Can C-3 visa holders travel within the U.S.?
+    
+    - The primary purpose of the C-3 visa is transit, and holders are expected to proceed directly to their intended destination.
+    
+    ### Can C-3 visa holders change to another non-immigrant visa status?
+    
+    - Generally, C-3 visa holders are not allowed to change to another visa status due to the specific and limited nature of their travel purpose.
+    
+    ### What activities are permitted under a C-3 visa?
+    
+    - Only activities related to transiting through the U.S. are permitted. Engaging in any form of work or extended stay is not allowed.
+    
+    ### What is the process for attendants or personal employees on a C-3 visa?
+    
+    - They must prove their employment with the principal C-3 visa holder and show that they have the means to be supported financially during the transit.
+    
+    ### How long can officials stay in the U.S. with a C-3 visa?
+    
+    - The stay is typically very brief, just long enough to allow for transit to the next destination.
+    
+    ## Tips for C-3 Visa Applicants
+    
+    - Clarify the official nature of your travel and ensure all documentation reflects the purpose of transit.
+    - Ensure you have confirmed onward travel arrangements to demonstrate intent to transit through the U.S. without delay.
+    - Be aware of the restrictions on your travel within the U.S. and plan accordingly to avoid any violation of visa terms.
+      
+      This Markdown document provides an in-depth guide to the C-3 visa for foreign government officials and their attendants or personal employees, highlighting the application process, qualifications, and common questions associated with transiting through the United States.
     <SecurityDefinitions />
 
   version: 1.0.0

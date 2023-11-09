@@ -6,38 +6,71 @@ servers:
     description: Sandbox server
 info:
   description: |
-    This is a sample server Petstore server.
-    You can find out more about Swagger at
-    [http://swagger.io](http://swagger.io) or on [irc.freenode.net, #swagger](http://swagger.io/irc/).
-    For this sample, you can use the api key `special-key` to test the authorization filters.
-
-    # Introduction  sss
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # OpenAPI Specification
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # Cross-Origin Resource Sharing   ssssss
-    This API features Cross-Origin Resource Sharing (CORS) implemented in compliance with  [W3C spec](https://www.w3.org/TR/cors/).
-    And that allows cross-domain communication from the browser.
-    All responses have a wildcard same-origin which makes them completely public and accessible to everyone, including any code on any site.
-
-    # Authentication
-
-    Petstore offers two forms of authentication:
-      - API Key
-      - OAuth2
-    OAuth2 - an open protocol to allow secure authorization in a simple
-    and standard method from web, mobile and desktop applications.
-
+    # F-1 Visa Detailed Overview
+    
+    ## What is the F-1 Visa?
+    
+      The F-1 visa is a non-immigrant student visa that allows international students to enter the United States to pursue academic studies and language training programs. F-1 students must maintain a full course of study at an accredited college, university, seminary, conservatory, academic high school, elementary school, or other academic institution or in a language training program.
+    
+    ## Qualifications for F-1 Visa
+    
+    To be eligible for an F-1 visa:
+    
+      - Applicants must be enrolled in an "academic" educational program, a language-training program, or a vocational program.
+      - Their school must be approved by the Student and Exchange Visitors Program, Immigration & Customs Enforcement.
+      - They must be enrolled as a full-time student at the institution.
+      - They must demonstrate they have the financial support to cover tuition and living costs during their stay in the U.S.
+      - They must prove they have no intention of abandoning their foreign residency.
+    
+    ## F-1 Visa Application Process
+    
+    1. **School Acceptance**: Before applying for an F-1 visa, applicants must be accepted by a U.S. school certified by the Student Exchange and Visitor Program (SEVP).
+    
+    2. **Pay the SEVIS Fee**: After acceptance, the applicant will be registered in the SEVIS system and must pay the SEVIS I-901 fee.
+    
+    3. **Form DS-160**: Complete the Online Nonimmigrant Visa Application and print the confirmation page.
+    
+    4. **Visa Fee**: Pay the non-refundable visa application fee.
+    
+    5. **Schedule an Interview**: Interviews are required for applicants between ages 14 and 79. Schedule an interview at the U.S. Embassy or Consulate in the applicant's home country.
+    
+    6. **Prepare Documentation**: Gather required documentation, including a valid passport, DS-160 confirmation page, Form I-20, and financial evidence.
+    
+    7. **Attend the Visa Interview**: During the interview, a consular officer will determine if the applicant is qualified to receive an F-1 visa.
+    
+      ## Duration and Limits of F-1 Visa
+    
+      - The F-1 visa is valid for as long as it takes the student to finish their course of study and any authorized practical training plus 60 days. Extensions may be available if the student maintains their status and requires more time for their studies.
+    
+      ## FAQs about F-1 Visa
+    
+      ### Can F-1 visa holders work in the U.S.?
+    
+      - F-1 students can work on-campus up to 20 hours per week during the academic year and full-time during breaks. Off-campus employment is restricted and requires authorization.
+    
+      ### Can F-1 visa holders travel outside the U.S. and re-enter?
+    
+      - Yes, F-1 students can travel abroad and re-enter if they maintain their F-1 status and have the required documents.
+    
+      ### What happens if F-1 students fail to maintain their status?
+    
+      - If students violate the terms of their visa, they may lose their F-1 status and be required to leave the U.S.
+    
+      ### Can F-1 students change their major or program?
+    
+      - Yes, but they must notify their school and may need to update their SEVIS record and I-20 form.
+    
+      ### Can F-1 visa holders bring their families?
+    
+      - Spouses and unmarried children under 21 may apply for F-2 dependent visas.
+    
+      ## Tips for F-1 Visa Applicants
+    
+      - Keep proof of financial support and your ties to your home country readily available.
+      - Be prepared to discuss your study plans and post-graduation intentions in your home country during the visa interview.
+      - Maintain communication with your Designated School Official (DSO) for guidance on maintaining status.
+    
+      This Markdown document serves as an informative guide for prospective international students considering studying in the United States on an F-1 visa, detailing the application process, eligibility requirements, and common queries regarding their stay and study.
     <SecurityDefinitions />
 
   version: 1.0.0

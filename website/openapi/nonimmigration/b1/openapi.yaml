@@ -6,38 +6,73 @@ servers:
     description: Sandbox server
 info:
   description: |
-    This is a sample server Petstore server.
-    You can find out more about Swagger at
-    [http://swagger.io](http://swagger.io) or on [irc.freenode.net, #swagger](http://swagger.io/irc/).
-    For this sample, you can use the api key `special-key` to test the authorization filters.
-
-    # Introduction  xxxxx
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # OpenAPI Specification
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # Cross-Origin Resource Sharing   ssssss
-    This API features Cross-Origin Resource Sharing (CORS) implemented in compliance with  [W3C spec](https://www.w3.org/TR/cors/).
-    And that allows cross-domain communication from the browser.
-    All responses have a wildcard same-origin which makes them completely public and accessible to everyone, including any code on any site.
-
-    # Authentication
-
-    Petstore offers two forms of authentication:
-      - API Key
-      - OAuth2
-    OAuth2 - an open protocol to allow secure authorization in a simple
-    and standard method from web, mobile and desktop applications.
-
+    # B-1 Visa Detailed Overview
+    
+    ## What is the B-1 Visa?
+    
+      The B-1 visa is a non-immigrant visa for individuals planning to travel to the United States temporarily for business-related activities. These activities include consulting with business associates, attending scientific, educational, professional, or business conventions/conferences, settling an estate, or negotiating contracts.
+    
+    ## Qualifications for B-1 Visa
+    
+    To be eligible for a B-1 visa, applicants must demonstrate that:
+    
+      - The purpose of their trip is for a business activity that does not involve receiving salary or income from a U.S. source.
+      - They plan to remain in the U.S. for a specific, limited period.
+      - They have sufficient funds to cover the expenses of the trip and their stay in the U.S.
+      - They have a residence outside the U.S. as well as other binding ties that will ensure their return abroad at the end of the visit.
+    
+    ## B-1 Visa Application Process
+    
+      1. **DS-160 Form:** Complete the Online Nonimmigrant Visa Application, Form DS-160. Print the application form confirmation page to bring to the interview.
+      
+      2. **Photo:** Upload a photo while completing the online Form DS-160. Photos must meet the format requirements outlined by the U.S. Department of State.
+      
+      3. **Visa Fee:** Pay the non-refundable visa application fee, if required to do so before your interview.
+      
+      4. **Schedule an Interview:** Schedule an interview at the U.S. Embassy or Consulate in the country where you live.
+      
+      5. **Prepare Documentation:** Assemble documentation, including the confirmation page of Form DS-160, a passport valid for at least six months beyond your period of stay in the U.S., and financial evidence showing you can support yourself during your stay.
+      
+      6. **Attend the Visa Interview:** During your visa interview, a consular officer will determine whether you are qualified to receive a visa and which visa category is appropriate for your purpose of travel.
+    
+    ## Duration and Limits of B-1 Visa
+    
+    - The B-1 visa is typically issued for the period necessary to conduct your business, generally not exceeding six months. The initial period of stay granted by the Customs and Border Protection officer at the port of entry can be up to 6 months and can be extended for a maximum of another 6 months.
+    
+    ## FAQs about B-1 Visa
+    
+    ### What activities are allowed under a B-1 visa?
+    
+    - Activities can include business meetings, consultations, conferences, contract negotiations, and some types of professional training.
+    
+    ### Can I be paid by a U.S. company while on a B-1 visa?
+    
+    - You cannot receive payment or compensation from a U.S. source. However, you may receive reimbursement for travel and living expenses.
+    
+    ### Can I convert my B-1 visa into a work visa?
+    
+    - You must apply for the appropriate work visa separately. A B-1 visa does not automatically change to a work visa.
+    
+    ### Can I study on a B-1 visa?
+    
+    - The B-1 visa is not a student visa, and holders are not typically allowed to enroll in school or academic study.
+    
+    ### Can B-1 visa holders bring dependents?
+    
+    - No, dependents must apply for their own B visas and must qualify on their own merits.
+    
+    ### Is health insurance required for B-1 visa holders?
+    
+    - While not a requirement for the visa, it is strongly recommended due to the high cost of healthcare in the U.S.
+    
+    ## Tips for B-1 Visa Applicants
+    
+    - Clearly define the purpose of your visit and ensure it aligns with permissible B-1 visa activities.
+    - Provide solid evidence of your intent to return to your home country after your visit.
+    - Maintain a detailed itinerary of your business activities and contacts in the U.S.
+    - Seek advice from an immigration attorney if your trip involves complex business arrangements.
+      
+      This Markdown document provides an extensive guide for individuals seeking to understand the B-1 business visa, covering the qualifications, application process, allowed activities, and commonly asked questions for those aiming to conduct business activities in the United States.
     <SecurityDefinitions />
 
   version: 1.0.0

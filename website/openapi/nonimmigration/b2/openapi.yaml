@@ -6,38 +6,77 @@ servers:
     description: Sandbox server
 info:
   description: |
-    This is a sample server Petstore server.
-    You can find out more about Swagger at
-    [http://swagger.io](http://swagger.io) or on [irc.freenode.net, #swagger](http://swagger.io/irc/).
-    For this sample, you can use the api key `special-key` to test the authorization filters.
-
-    # Introduction 
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # OpenAPI Specification
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # Cross-Origin Resource Sharing   ssssss
-    This API features Cross-Origin Resource Sharing (CORS) implemented in compliance with  [W3C spec](https://www.w3.org/TR/cors/).
-    And that allows cross-domain communication from the browser.
-    All responses have a wildcard same-origin which makes them completely public and accessible to everyone, including any code on any site.
-
-    # Authentication
-
-    Petstore offers two forms of authentication:
-      - API Key
-      - OAuth2
-    OAuth2 - an open protocol to allow secure authorization in a simple
-    and standard method from web, mobile and desktop applications.
-
+    # B-2 Visa Detailed Overview
+    
+    ## What is the B-2 Visa?
+    
+      The B-2 visa is a non-immigrant visa for individuals traveling to the United States temporarily for tourism, pleasure, visiting friends or relatives, medical treatment, or participation in social events hosted by fraternal, social, or service organizations.
+    
+    ## Qualifications for B-2 Visa
+    
+    To be eligible for a B-2 visa, applicants must demonstrate:
+    
+      - The purpose of their trip is for pleasure, tourism, or medical treatment.
+      - They plan to stay for a specific and limited period.
+      - They have funds to cover expenses in the United States.
+      - They have a residence outside the U.S. and other binding ties that ensure their return at the end of the visit.
+    
+    ## B-2 Visa Application Process
+    
+      1. **DS-160 Form:** Complete the Online Nonimmigrant Visa Application, Form DS-160. Print the application form confirmation page for the interview.
+      
+      2. **Photo:** A photo should be uploaded while completing the online Form DS-160, following the specified format requirements.
+      
+      3. **Visa Fee:** Pay the non-refundable visa application fee prior to your interview, if required.
+      
+      4. **Schedule an Interview:** Book an interview at the U.S. Embassy or Consulate in the country where you live, particularly if you are between 14 and 79 years old. Some applicants may not require an interview.
+      
+      5. **Prepare Documentation:** Gather necessary documentation, including the Form DS-160 confirmation page, a valid passport, and financial or other evidence that shows you have reasons to return to your home country after your U.S. visit.
+      
+      6. **Attend the Visa Interview:** A consular officer will interview you to determine if you are eligible for a B-2 visa.
+    
+    ## Duration and Limits of B-2 Visa
+    
+    - B-2 visas are typically granted for the time needed to conduct your visit, up to six months, and can be extended for another six months under certain circumstances.
+    
+    ## FAQs about B-2 Visa
+    
+    ### What are the reasons for a B-2 visa denial?
+    
+    - Common reasons for denial include insufficient evidence of ties to the home country or inability to support oneself financially during the visit.
+    
+    ### Can I study on a B-2 visa?
+    
+    - The B-2 visa is not designed for study. Enrollment in a course of study is not permitted on a B-2 visa.
+    
+    ### Can I work on a B-2 visa?
+    
+    - No, you cannot accept employment while on a B-2 visa.
+    
+    ### Can B-2 visa holders receive medical treatment in the U.S.?
+    
+    - Yes, receiving medical treatment is one of the purposes of the B-2 visa.
+    
+    ### Can B-2 visa holders change their status to another visa category?
+    
+    - Yes, it's possible to change to another visa status if you meet the eligibility requirements for that visa category and you apply before the B-2 visa expires.
+    
+    ### Can I visit the U.S. territories with a B-2 visa?
+    
+    - Yes, the B-2 visa allows travel to U.S. territories such as Puerto Rico, Guam, and the U.S. Virgin Islands.
+    
+    ### What if my travel plans change after getting a B-2 visa?
+    
+    - If your plans change, it’s important to carry documentation regarding your new plans when traveling to inform the Customs and Border Protection officer at the port of entry.
+    
+    ## Tips for B-2 Visa Applicants
+    
+    - Be honest and clear about the intention of your trip when applying and speaking to the consular officer.
+    - Keep evidence of your employment, property ownership, or family ties to your home country to prove your intent to return.
+    - Consider purchasing travel insurance that covers medical emergencies for your peace of mind during your stay.
+    - Check the latest travel advisories and U.S. entry requirements before planning your trip.
+      
+      This Markdown document offers an in-depth look at the B-2 tourist visa, detailing the application process, qualifications, allowed activities, and frequently asked questions for individuals looking to visit the United States for leisure or medical treatment purposes.
     <SecurityDefinitions />
 
   version: 1.0.0

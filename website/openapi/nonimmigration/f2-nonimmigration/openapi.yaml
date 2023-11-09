@@ -6,38 +6,68 @@ servers:
     description: Sandbox server
 info:
   description: |
-    This is a sample server Petstore server.
-    You can find out more about Swagger at
-    [http://swagger.io](http://swagger.io) or on [irc.freenode.net, #swagger](http://swagger.io/irc/).
-    For this sample, you can use the api key `special-key` to test the authorization filters.
-
-    # Introduction  sss
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # OpenAPI Specification
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # Cross-Origin Resource Sharing   ssssss
-    This API features Cross-Origin Resource Sharing (CORS) implemented in compliance with  [W3C spec](https://www.w3.org/TR/cors/).
-    And that allows cross-domain communication from the browser.
-    All responses have a wildcard same-origin which makes them completely public and accessible to everyone, including any code on any site.
-
-    # Authentication
-
-    Petstore offers two forms of authentication:
-      - API Key
-      - OAuth2
-    OAuth2 - an open protocol to allow secure authorization in a simple
-    and standard method from web, mobile and desktop applications.
-
+    # F-2 Visa Detailed Overview
+    
+    ## What is the F-2 Visa?
+      
+      The F-2 visa is a non-immigrant visa which allows dependents of F-1 student visa holders to enter and reside in the United States. Dependents include the F-1 visa holder's spouse and unmarried children under the age of 21.
+    
+    ## Qualifications for F-2 Visa
+    
+    Eligibility for the F-2 visa is dependent on the status of the F-1 visa holder. To qualify:
+    
+      - The primary F-1 visa holder must be enrolled in a full-time academic program or in a language-training program.
+      - The F-1 visa holder must provide evidence of strong financial support to cover the living expenses and schooling costs (if applicable) for the F-2 dependents.
+      - The F-2 dependents must intend to leave the United States upon the termination of the F-1 visa holder's status.
+    
+    ## F-2 Visa Application Process
+    
+    1. **SEVIS Fee**: The primary F-1 student must pay the SEVIS I-901 fee, which also covers F-2 dependents.
+    
+    2. **Form DS-160**: Each F-2 dependent must complete the Online Nonimmigrant Visa Application, Form DS-160.
+    
+    3. **Visa Fee**: Pay the non-refundable visa application fee for each F-2 applicant.
+    
+    4. **Schedule an Interview**: F-2 applicants should schedule an interview at the U.S. Embassy or Consulate, usually along with or after the F-1 visa holder's interview.
+    
+    5. **Prepare Documentation**: Assemble the necessary documents, including valid passports, DS-160 confirmation pages, a copy of the F-1 visa holder's I-20 form, and financial evidence.
+    
+    6. **Attend the Visa Interview**: F-2 applicants will need to attend a visa interview, unless they are minors or as otherwise exempted.
+      
+      ## Duration and Limits of F-2 Visa
+    
+      - The F-2 visa's validity is contingent on the status of the F-1 visa holder. It allows for entry into the United States and stay as long as the F-1 visa holder maintains valid student status.
+      
+      ## FAQs about F-2 Visa
+      
+      ### Can F-2 visa holders study in the U.S.?
+    
+      - F-2 visa holders may engage in study that is avocational or recreational in nature. F-2 children can study in elementary or secondary school. F-2 spouses and children wishing to pursue higher education must change their status to F-1.
+      
+      ### Can F-2 visa holders work in the U.S.?
+    
+      - No, F-2 dependents are not permitted to work under the F-2 status.
+      
+      ### Can F-2 visa holders change their status to F-1?
+    
+      - Yes, F-2 dependents can apply to change their status to F-1 if they want to study full-time in the United States.
+      
+      ### What happens to F-2 status if the F-1 visa holder changes status?
+    
+      - If the F-1 visa holder changes status to another non-immigrant category, F-2 dependents must also change their status to maintain lawful presence in the U.S.
+      
+      ### Are F-2 visa holders eligible for a Social Security Number (SSN)?
+    
+      - No, since they are not allowed to work, F-2 visa holders are not eligible for an SSN but can apply for an Individual Taxpayer Identification Number (ITIN) for tax purposes.
+      
+      ## Tips for F-2 Visa Applicants
+    
+      - Ensure that all documents align with the F-1 visa holder's information and status.
+      - Demonstrate the intent to depart the U.S. upon the conclusion of the F-1 visa holder's academic program.
+      - Review the specific regulations that govern the study and volunteer activities for F-2 dependents.
+      - Maintain legal F-2 status by refraining from unauthorized employment.
+      
+      This Markdown document provides a comprehensive guide for the dependents of F-1 student visa holders, detailing the F-2 visa application process, eligibility criteria, restrictions, and key points for maintaining legal status while in the United States.
     <SecurityDefinitions />
 
   version: 1.0.0

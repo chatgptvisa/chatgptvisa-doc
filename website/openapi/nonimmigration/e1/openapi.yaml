@@ -6,38 +6,70 @@ servers:
     description: Sandbox server
 info:
   description: |
-    This is a sample server Petstore server.
-    You can find out more about Swagger at
-    [http://swagger.io](http://swagger.io) or on [irc.freenode.net, #swagger](http://swagger.io/irc/).
-    For this sample, you can use the api key `special-key` to test the authorization filters.
-
-    # Introduction  sss
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # OpenAPI Specification
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # Cross-Origin Resource Sharing   ssssss
-    This API features Cross-Origin Resource Sharing (CORS) implemented in compliance with  [W3C spec](https://www.w3.org/TR/cors/).
-    And that allows cross-domain communication from the browser.
-    All responses have a wildcard same-origin which makes them completely public and accessible to everyone, including any code on any site.
-
-    # Authentication
-
-    Petstore offers two forms of authentication:
-      - API Key
-      - OAuth2
-    OAuth2 - an open protocol to allow secure authorization in a simple
-    and standard method from web, mobile and desktop applications.
-
+    # E-1 Visa Detailed Overview
+    
+    ## What is the E-1 Visa?
+    
+      The E-1 visa, also known as the Treaty Trader visa, is a non-immigrant visa for nationals of countries with which the United States maintains a treaty of commerce and navigation. It's designed for individuals who wish to enter the U.S. solely to engage in substantial trade, principally between the United States and the treaty country.
+    
+    ## Qualifications for E-1 Visa
+    
+    To be eligible for an E-1 visa, applicants must meet the following criteria:
+    
+      - Be a national of a treaty country.
+      - The trading firm for which the applicant is coming to the U.S. must have the nationality of the treaty country.
+      - The international trade must be substantial, meaning there is a sizable and continuing volume of trade.
+      - More than 50% of the international trade involved must be between the U.S. and the treaty country.
+      - The applicant must be an essential employee, employed in a supervisory or executive capacity, or possess highly specialized skills essential to the operation of the firm.
+      - The applicant must intend to depart the U.S. when their E-1 status ends.
+    
+    ## E-1 Visa Application Process
+    
+      1. **Company Registration:** The treaty trader's company must be registered with the U.S. Embassy or Consulate and meet all treaty trader requirements.
+      
+      2. **Form DS-160:** Complete the Online Nonimmigrant Visa Application and print the confirmation page.
+      
+      3. **Visa Fee:** Pay the non-refundable visa application fee.
+      
+      4. **Schedule an Interview:** Book an interview at the U.S. Embassy or Consulate in the applicant's home country.
+      
+      5. **Prepare Documentation:** Assemble required documentation, including evidence of substantial trade activities, the treaty company's qualifications, the applicant's role in the company, and intent to return to the home country.
+      
+      6. **Attend the Visa Interview:** A consular officer will interview the applicant to determine eligibility based on the E-1 visa requirements.
+    
+    ## Duration and Limits of E-1 Visa
+    
+    - The E-1 visa may be granted for up to five years, but the holder can stay in the U.S. for up to two years per entry. Extensions of stay may be granted in increments of up to two years, with no maximum limit to the number of extensions.
+    
+    ## FAQs about E-1 Visa
+    
+    ### Can E-1 visa holders bring their families?
+    
+    - Yes, spouses and unmarried children under 21 may apply for E-1 dependent visas.
+    
+    ### Is there a minimum trade volume required for an E-1 visa?
+    
+    - There is no minimum monetary threshold, but the trade must be substantial in terms of value or volume.
+    
+    ### Can E-1 visa holders apply for a green card?
+    
+    - The E-1 visa is a non-immigrant visa, but holders may apply for a green card through other eligible categories.
+    
+    ### Are E-1 visa holders allowed to work for another employer?
+    
+    - E-1 visa holders are only authorized to work for the specific employer or self-owned business that acted as the E-1 treaty trader.
+    
+    ### What happens if the trade between the U.S. and the treaty country falls below 50%?
+    
+    - If the trade no longer meets the E-1 visa requirements, the visa may not be renewed.
+    
+    ## Tips for E-1 Visa Applicants
+    
+    - Maintain detailed records and evidence of continuous trade between the U.S. and the treaty country.
+    - Ensure the business qualifies for the E-1 visa before investing or taking any legal steps.
+    - Consider seeking advice from an immigration attorney specializing in E-1 visas to navigate complex cases.
+      
+      This Markdown document provides a comprehensive guide for individuals and businesses seeking to understand the E-1 Treaty Trader visa, including the qualifications, application process, and frequently asked questions for those looking to conduct significant trade activities with the United States.
     <SecurityDefinitions />
 
   version: 1.0.0

@@ -6,38 +6,66 @@ servers:
     description: Sandbox server
 info:
   description: |
-    This is a sample server Petstore server.
-    You can find out more about Swagger at
-    [http://swagger.io](http://swagger.io) or on [irc.freenode.net, #swagger](http://swagger.io/irc/).
-    For this sample, you can use the api key `special-key` to test the authorization filters.
-
-    # Introduction  sss
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # OpenAPI Specification
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # Cross-Origin Resource Sharing   ssssss
-    This API features Cross-Origin Resource Sharing (CORS) implemented in compliance with  [W3C spec](https://www.w3.org/TR/cors/).
-    And that allows cross-domain communication from the browser.
-    All responses have a wildcard same-origin which makes them completely public and accessible to everyone, including any code on any site.
-
-    # Authentication
-
-    Petstore offers two forms of authentication:
-      - API Key
-      - OAuth2
-    OAuth2 - an open protocol to allow secure authorization in a simple
-    and standard method from web, mobile and desktop applications.
-
+    # C-2 Visa Detailed Overview
+    
+    ## What is the C-2 Visa?
+    
+      The C-2 visa is a non-immigrant visa which allows foreign nationals to travel to the United Nations (U.N.) headquarters district and remain there for as long as required to conduct their United Nations business. The U.N. headquarters district is defined as the area within a 25-mile radius of Columbus Circle in New York City.
+    
+    ## Qualifications for C-2 Visa
+    
+    To be eligible for a C-2 visa, applicants must:
+    
+      - Be representatives of a U.N. member state or officials of the U.N. traveling to the U.N. headquarters for official U.N. business.
+      - Have a clear purpose for visiting the U.N. headquarters that pertains to their role or duties within the organization.
+    
+    ## C-2 Visa Application Process
+    
+      1. **DS-160 Form:** Complete the Online Nonimmigrant Visa Application, Form DS-160, and print the confirmation page for your interview.
+      
+      2. **Photo:** Upload a photo meeting the U.S. visa requirements during the online DS-160 submission.
+      
+      3. **Visa Fee:** Pay the non-refundable visa application fee, if applicable.
+      
+      4. **Schedule an Interview:** Interviews are generally required for visa applicants between 14 and 79 years of age. Schedule an interview at the U.S. Embassy or Consulate in the applicant's country of residence.
+      
+      5. **Prepare Documentation:** Collect necessary documentation, including a valid passport, DS-160 confirmation page, and documents that support the purpose of your trip to the U.N.
+      
+      6. **Attend the Visa Interview:** A consular officer will interview you to determine eligibility for the C-2 visa.
+    
+    ## Duration and Limits of C-2 Visa
+    
+    - The C-2 visa is typically issued with a validity that matches the period of work at the United Nations, not exceeding 29 days. C-2 visa holders are expected to depart the U.S. immediately upon completion of their U.N. business.
+    
+    ## FAQs about C-2 Visa
+    
+    ### Can C-2 visa holders travel outside the U.N. headquarters district?
+    
+    - C-2 visa holders are restricted to travel within the 25-mile radius of the U.N. headquarters in New York City unless specifically authorized to travel elsewhere.
+    
+    ### Can C-2 visa holders convert their visa to another category?
+    
+    - No, C-2 visas are strictly for transit or stay within the U.N. headquarters district, and holders cannot change to another visa status.
+    
+    ### Can family members accompany a C-2 visa holder?
+    
+    - Yes, immediate family members can apply for C-2 visas if they will accompany the principal visa holder to the U.N. headquarters.
+    
+    ### What if the U.N. visit is canceled or postponed?
+    
+    - If the U.N. visit is canceled or postponed, the visa holder should not use the C-2 visa to enter the U.S. A new DS-160 form should be filled out according to the new dates.
+    
+    ### Do C-2 visa holders need to maintain a residence in their home country?
+    
+    - C-2 visa holders should maintain ties to their home country to show intent to return after their U.N. business is concluded.
+    
+    ## Tips for C-2 Visa Applicants
+    
+    - Ensure clarity on the purpose and duration of the visit to the U.N. headquarters.
+    - Provide evidence of your role within the U.N. or as a representative of a U.N. member state.
+    - Verify that all your travel plans are within the allowed limits of the C-2 visa.
+      
+      This Markdown document offers a comprehensive overview of the C-2 visa, intended for those conducting official business at the United Nations headquarters in New York City, detailing the qualifications, application process, and travel limitations associated with the visa.
     <SecurityDefinitions />
 
   version: 1.0.0

@@ -6,38 +6,72 @@ servers:
     description: Sandbox server
 info:
   description: |
-    This is a sample server Petstore server.
-    You can find out more about Swagger at
-    [http://swagger.io](http://swagger.io) or on [irc.freenode.net, #swagger](http://swagger.io/irc/).
-    For this sample, you can use the api key `special-key` to test the authorization filters.
-
-    # Introduction  sss
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # OpenAPI Specification
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # Cross-Origin Resource Sharing   ssssss
-    This API features Cross-Origin Resource Sharing (CORS) implemented in compliance with  [W3C spec](https://www.w3.org/TR/cors/).
-    And that allows cross-domain communication from the browser.
-    All responses have a wildcard same-origin which makes them completely public and accessible to everyone, including any code on any site.
-
-    # Authentication
-
-    Petstore offers two forms of authentication:
-      - API Key
-      - OAuth2
-    OAuth2 - an open protocol to allow secure authorization in a simple
-    and standard method from web, mobile and desktop applications.
-
+    # E-3 Visa Detailed Overview
+    
+    ## What is the E-3 Visa?
+    
+      The E-3 visa is a non-immigrant visa specifically for nationals of Australia who wish to enter the United States to work temporarily in a specialty occupation. A specialty occupation requires theoretical and practical application of specialized knowledge and at least a bachelor's degree or its equivalent in the specific specialty.
+    
+    ## Qualifications for E-3 Visa
+    
+    Eligibility criteria for the E-3 visa include:
+    
+      - **Australian Nationality**: The applicant must be a national of Australia.
+      - **Job Offer**: The applicant must have a legitimate offer of employment in the U.S.
+      - **Specialty Occupation**: The job must qualify as a specialty occupation, requiring a bachelor's degree or higher (or its equivalent) in a field related to the position.
+      - **Degree Requirement**: The applicant must have the necessary academic qualifications, typically a bachelor's degree or higher.
+      - **Labor Condition Application (LCA)**: The U.S. employer must file an LCA with the Department of Labor.
+    
+    ## E-3 Visa Application Process
+    
+    1. **Job Offer**: Secure a job offer from a U.S. employer in a specialty occupation.
+    
+    2. **Labor Condition Application**: The employer must obtain an LCA specifically for the E-3 visa, which declares that the employer will pay the appropriate wage and provide fair working conditions.
+    
+    3. **Form DS-160**: Complete the Online Nonimmigrant Visa Application and print the confirmation page.
+    
+    4. **Visa Fee**: Pay the non-refundable visa application fee.
+    
+    5. **Schedule an Interview**: Book an interview at the U.S. Embassy or Consulate in Australia.
+    
+    6. **Prepare Documentation**: Gather all required documents, including evidence of Australian nationality, academic qualifications, job offer, and LCA.
+    
+    7. **Attend the Visa Interview**: A consular officer will evaluate the application to determine if the applicant qualifies for the E-3 visa.
+    
+      ## Duration and Limits of E-3 Visa
+    
+      - The E-3 visa is typically granted for a two-year period and can be renewed indefinitely in two-year increments.
+    
+      ## FAQs about E-3 Visa
+    
+      ### Can E-3 visa holders bring their families?
+    
+      - Yes, spouses and unmarried children under 21 can apply for E-3D (dependent) visas.
+    
+      ### Is there a cap on E-3 visas?
+    
+      - Yes, there is an annual cap of 10,500 E-3 visas, not including spouses and children or renewals.
+    
+      ### Can E-3 visa holders apply for a green card?
+    
+      - While the E-3 visa is a non-immigrant visa, holders may seek permanent residency through the usual channels if eligible.
+    
+      ### Can E-3 visa holders change employers?
+    
+      - Yes, but the new employer must file a new LCA, and in some cases, a new E-3 visa application.
+    
+      ### Do E-3 visa holders need to maintain ties to Australia?
+    
+      - They should demonstrate nonimmigrant intent but aren't required to maintain a residence in Australia.
+    
+      ## Tips for E-3 Visa Applicants
+    
+      - Ensure that the job offer and qualifications meet the specialty occupation requirements.
+      - Maintain comprehensive records of your employment, including the job offer and LCA.
+      - Stay informed about the renewal process and apply well before your visa expires.
+      - Consider consulting with an immigration attorney to facilitate the application process.
+    
+      This Markdown document provides a comprehensive guide to the E-3 visa category, tailored for Australian nationals seeking temporary employment in specialty occupations within the United States, with details on qualifications, application steps, and practical advice.
     <SecurityDefinitions />
 
   version: 1.0.0

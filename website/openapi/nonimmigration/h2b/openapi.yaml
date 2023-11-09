@@ -6,38 +6,72 @@ servers:
     description: Sandbox server
 info:
   description: |
-    This is a sample server Petstore server.
-    You can find out more about Swagger at
-    [http://swagger.io](http://swagger.io) or on [irc.freenode.net, #swagger](http://swagger.io/irc/).
-    For this sample, you can use the api key `special-key` to test the authorization filters.
-
-    # Introduction  sss
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # OpenAPI Specification
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # Cross-Origin Resource Sharing   ssssss
-    This API features Cross-Origin Resource Sharing (CORS) implemented in compliance with  [W3C spec](https://www.w3.org/TR/cors/).
-    And that allows cross-domain communication from the browser.
-    All responses have a wildcard same-origin which makes them completely public and accessible to everyone, including any code on any site.
-
-    # Authentication
-
-    Petstore offers two forms of authentication:
-      - API Key
-      - OAuth2
-    OAuth2 - an open protocol to allow secure authorization in a simple
-    and standard method from web, mobile and desktop applications.
-
+    # H-2B Visa Detailed Overview
+    
+    ## What is the H-2B Visa?
+    
+      The H-2B visa is a non-immigrant visa that permits U.S. employers to hire foreign workers to come temporarily to the United States and perform non-agricultural labor or services on a seasonal, intermittent, a peak load need, or a one-time occurrence basis.
+    
+    ## Qualifications for H-2B Visa
+    
+    Eligibility for the H-2B visa includes:
+    
+      - The applicant must be from a country that is eligible to participate in the H-2B program as determined by the U.S. government.
+      - The U.S. employer must establish that there are not enough U.S. workers who are able, willing, qualified, and available to do the temporary work.
+      - The employer must also show that the employment of H-2B workers will not adversely affect the wages and working conditions of similarly employed U.S. workers.
+      - The job must be temporary in nature and for a period of less than one year.
+      - The applicant must have a job offer for temporary non-agricultural work from a U.S. employer.
+    
+    ## H-2B Visa Application Process
+    
+    1. **Temporary Labor Certification**: The employer must file for and receive a Temporary Labor Certification for H-2B workers from the U.S. Department of Labor.
+    
+    2. **Form I-129**: With the Labor Certification approved, the employer must file Form I-129, Petition for Nonimmigrant Worker, with USCIS.
+    
+    3. **Consular Application**: Once Form I-129 is approved, the prospective worker may apply for an H-2B visa at a U.S. Embassy or Consulate.
+    
+    4. **Interview**: Visa applicants may be required to attend an interview at the U.S. Embassy or Consulate.
+    
+    5. **Entry into the United States**: If the H-2B visa is granted, the worker can then seek entry into the United States through CBP at a U.S. port of entry.
+    
+      ## Duration and Limits of H-2B Visa
+    
+      - The H-2B visa is granted for the period of time authorized on the Temporary Labor Certification. H-2B classification may be extended for qualifying employment in increments of up to one year each. The maximum period of stay in H-2B classification is three years.
+    
+      ## FAQs about H-2B Visa
+    
+      ### Can H-2B visa holders bring their families?
+    
+      - Yes, spouses and unmarried children under 21 years of age may apply for H-4 nonimmigrant status. However, they are not permitted to work in the United States.
+    
+      ### Are there any protections for H-2B workers?
+    
+      - H-2B workers are protected under U.S. wage laws, workers' compensation laws, and other standards as established by the Temporary Labor Certification.
+    
+      ### Is there an annual cap on H-2B visas?
+    
+      - Yes, there is a statutory numerical limit, or "cap," on the total number of individuals who may receive H-2B nonimmigrant classification during a fiscal year.
+    
+      ### Can H-2B visa holders switch employers?
+    
+      - They may change employers, but the new employer must file a new Form I-129 and obtain a new Temporary Labor Certification.
+    
+      ### What happens if the job situation changes?
+    
+      - If the job situation changes significantly, the employer must notify USCIS, and the worker may need to change their visa status or return to their home country.
+    
+      ### Is health insurance required for H-2B workers?
+    
+      - Health insurance is not mandated by the visa program, but it is recommended due to the high cost of healthcare in the U.S.
+    
+      ## Tips for H-2B Visa Applicants
+    
+      - Verify that the employer has obtained the necessary Labor Certification.
+      - Understand the terms of the job offer, including duration, pay, and conditions of employment.
+      - Maintain documentation of qualifications and eligibility for the H-2B visa category.
+      - Be aware of your rights and protections as an H-2B worker in the United States.
+    
+      This Markdown document offers a comprehensive overview of the H-2B visa, providing guidance for foreign nationals seeking temporary non-agricultural jobs in the United States, as well as for U.S. employers looking to fill their temporary needs with international workers.
     <SecurityDefinitions />
 
   version: 1.0.0

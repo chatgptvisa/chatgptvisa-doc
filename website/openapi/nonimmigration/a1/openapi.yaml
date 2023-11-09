@@ -6,38 +6,75 @@ servers:
     description: Sandbox server
 info:
   description: |
-    This is a sample server Petstore server.
-    You can find out more about Swagger at
-    [http://swagger.io](http://swagger.io) or on [irc.freenode.net, #swagger](http://swagger.io/irc/).
-    For this sample, you can use the api key `special-key` to test the authorization filters.
-
-    # Introduction  sss
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # OpenAPI Specification
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # Cross-Origin Resource Sharing   ssssss
-    This API features Cross-Origin Resource Sharing (CORS) implemented in compliance with  [W3C spec](https://www.w3.org/TR/cors/).
-    And that allows cross-domain communication from the browser.
-    All responses have a wildcard same-origin which makes them completely public and accessible to everyone, including any code on any site.
-
-    # Authentication
-
-    Petstore offers two forms of authentication:
-      - API Key
-      - OAuth2
-    OAuth2 - an open protocol to allow secure authorization in a simple
-    and standard method from web, mobile and desktop applications.
-
+    # A Visa Overview
+    
+    ## What is the A Visa?
+    
+    The A visa is a non-immigrant visa category in the United States designated for diplomatic personnel and their families. It comprises three types: A-1 for diplomatic officers, A-2 for full-time employees of foreign governments, and A-3 for attendants, servants, or personal employees of A-1 and A-2 visa holders.
+    
+    ## Qualifications for A Visa
+    
+    The A visa is available to individuals who meet the following criteria:
+    
+      ### A-1 Visa:
+    
+      - Ambassadors, public ministers, career diplomatic or consular officers.
+      - Immediate family members of A-1 visa holders.
+    
+      ### A-2 Visa:
+    
+      - Other accredited officials or employees of foreign governments.
+      - Immediate family members of A-2 visa holders.
+    
+      ### A-3 Visa:
+    
+      - Attendants, servants, personal employees, or domestic workers of A-1 and A-2 visa holders.
+      - Must demonstrate they are receiving a fair wage, sufficient to financially support themselves, comparable to that being offered in the area of employment within the U.S.
+    
+    ## A Visa Application Process
+    
+      1. **Diplomatic Note:** The application process usually begins with a diplomatic note from the foreign government confirming the individual's status and assignment.
+      
+      2. **DS-160 Form:** Applicants must complete the Online Nonimmigrant Visa Application, Form DS-160.
+      
+      3. **Interview Waiver:** Diplomats and other government officials traveling on official business are generally not required to attend a visa interview.
+      
+      4. **Visa Issuance:** After approval, the A visa is typically issued.
+    
+    ## Duration and Limits of A Visa
+    
+    - A visas are usually valid for the duration of the visa holder’s mission, up to a maximum of five years, with extensions available if the mission continues.
+    - A-3 visa holders must have a signed employment contract and may need to show evidence of the employer's ability to pay the promised wage.
+    
+    ## FAQs about A Visa
+    
+    ### Do A visa holders have immunity from U.S. law?
+    
+    - A-1 and A-2 visa holders may have diplomatic immunity, while A-3 visa holders typically do not.
+    
+    ### Can family members of A visa holders work in the U.S.?
+    
+    - Family members with derivative A visas may apply for work authorization.
+    
+    ### Can A visa holders apply for a green card?
+    
+    - It is possible under specific circumstances, but it may require waiving diplomatic immunity and privileges.
+    
+    ### Are A visa holders required to maintain a residence abroad?
+    
+    - There is no requirement for A visa holders to maintain a residence abroad, given their status in the U.S. is based on their official duties.
+    
+    ### Can A visa holders travel freely within the U.S.?
+    
+    - Yes, A visa holders can travel freely within the U.S., but they may be subject to certain restrictions or requirements from their own government or the U.S. Department of State.
+    
+    ## Tips for A Visa Applicants
+    
+    - Ensure your passport is valid for at least six months beyond your period of stay in the United States.
+    - Keep all required documentation organized, including the diplomatic note and any contracts for A-3 visa applicants.
+    - A-3 visa applicants should understand their rights and protections under U.S. law, including labor rights.
+      
+      This Markdown document serves as a comprehensive guide for individuals seeking to understand the A visa category, relevant for diplomats, government officials, and their personal employees planning to enter the United States for official duties.
     <SecurityDefinitions />
 
   version: 1.0.0
