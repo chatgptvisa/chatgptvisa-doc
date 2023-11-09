@@ -6,37 +6,79 @@ servers:
     description: Sandbox server
 info:
   description: |
-    This is a sample server Petstore server.
-    You can find out more about Swagger at
-    [http://swagger.io](http://swagger.io) or on [irc.freenode.net, #swagger](http://swagger.io/irc/).
-    For this sample, you can use the api key `special-key` to test the authorization filters.
-
-    # Introduction 
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # OpenAPI Specification
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # Cross-Origin Resource Sharing   ssssss
-    This API features Cross-Origin Resource Sharing (CORS) implemented in compliance with  [W3C spec](https://www.w3.org/TR/cors/).
-    And that allows cross-domain communication from the browser.
-    All responses have a wildcard same-origin which makes them completely public and accessible to everyone, including any code on any site.
-
-    # Authentication
-
-    Petstore offers two forms of authentication:
-      - API Key
-      - OAuth2
-    OAuth2 - an open protocol to allow secure authorization in a simple
-    and standard method from web, mobile and desktop applications.
+    # EB-1B Overview
+    
+    ## What is EB-1B?
+    
+      EB-1B is a United States employment-based immigration category reserved for outstanding professors and researchers. These individuals must be internationally recognized for their exceptional achievements in an academic field.
+    
+      **Advantages:**
+    - Requires employer sponsorship
+    - Fast processing speed
+    - Access to a green card
+    
+    ## Requirements for EB-1B
+    
+    To qualify for EB-1B, candidates must meet the following criteria:
+    
+      - International recognition as outstanding in a specific academic area
+      - At least three years of experience in teaching or research in the academic field
+      - Intent to pursue tenure or tenure-track teaching or a comparable research position in the United States
+    
+    ## Application Requirements for EB-1B
+    
+    Required materials for an EB-1B application include:
+    
+      - Documentation of international recognition and outstanding achievements
+      - Evidence of at least three years of teaching or research experience
+      - Offer of employment from a qualifying U.S. institution
+    
+    ## EB-1B Application Process
+    
+    The EB-1B application typically involves:
+    
+      1. **Obtaining a Job Offer:** The offer must be from a U.S. institution for a tenure or tenure-track teaching position or a permanent research position.
+      2. **Form I-140 Petition:** Filed by the U.S. employer along with the required evidence of the professor or researcher's outstanding achievements.
+      3. **USCIS Decision:** The petition is reviewed by USCIS, which may take several months.
+      4. **Adjustment of Status (Form I-485):** If outside the U.S., consular processing is pursued to obtain a green card. If inside the U.S., Form I-485 is filed after I-140 approval.
+      5. **Final Decision:** The applicant may be required to attend an interview before a final decision is rendered.
+    
+    ## Forms
+    
+    - **Form I-140:** Filed by the U.S. employer for an immigrant visa on behalf of the professor or researcher.
+    - **Form I-485:** For applicants in the United States, used to apply for lawful permanent resident status.
+    
+    ## FAQs
+    
+    ### What if the EB-1B petition is denied?
+      
+      Applicants may refile with additional evidence or appeal the decision. Timely action following a denial is critical.
+      
+      ### Is a labor certification required for EB-1B?
+      
+      No, unlike other employment-based categories, EB-1B does not require a labor certification.
+      
+      ### Can EB-1B lead to permanent residence?
+      
+      Yes, successful EB-1B applicants can obtain a green card and permanent resident status in the U.S.
+      
+      ### How long does the EB-1B process take?
+      
+      The timeline varies, but it generally includes the I-140 processing time and, if applicable, the I-485 processing time for adjustment of status.
+      
+      ### Are dependents included in the EB-1B application?
+      
+      Yes, spouses and children under 21 can apply for green cards as dependents of the EB-1B applicant.
+      
+      ### Is a job offer necessary for EB-1B?
+      
+      Yes, a permanent job offer from a U.S. institution is a primary requirement for EB-1B eligibility.
+      
+      ### Should applicants hire an immigration attorney for EB-1B?
+      
+      While not mandatory, legal guidance can be beneficial due to the complexity of the EB-1B petition and evidence required.
+      
+      This Markdown document provides a structured overview of the EB-1B visa category, maintaining the content's integrity while presenting it in an organized and navigable format.
 
     <SecurityDefinitions />
 

@@ -6,38 +6,73 @@ servers:
     description: Sandbox server
 info:
   description: |
-    This is a sample server Petstore server.
-    You can find out more about Swagger at
-    [http://swagger.io](http://swagger.io) or on [irc.freenode.net, #swagger](http://swagger.io/irc/).
-    For this sample, you can use the api key `special-key` to test the authorization filters.
-
-    # Introduction  sss
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # OpenAPI Specification
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # Cross-Origin Resource Sharing   ssssss
-    This API features Cross-Origin Resource Sharing (CORS) implemented in compliance with  [W3C spec](https://www.w3.org/TR/cors/).
-    And that allows cross-domain communication from the browser.
-    All responses have a wildcard same-origin which makes them completely public and accessible to everyone, including any code on any site.
-
-    # Authentication
-
-    Petstore offers two forms of authentication:
-      - API Key
-      - OAuth2
-    OAuth2 - an open protocol to allow secure authorization in a simple
-    and standard method from web, mobile and desktop applications.
-
+    # F1 Visa Overview
+    
+    ## What is the F1 Visa?
+    
+      The F1 visa category is a type of family-based immigration that allows U.S. citizens to sponsor their unmarried sons and daughters over the age of 21 for a U.S. green card. It is a first-preference category, which means there are a limited number of visas available each year, and it typically has a shorter waiting period compared to other family preference categories.
+    
+      **Advantages:**
+    - Provides a path to permanent residency for adult children of U.S. citizens.
+    - Allows applicants to work and study in the U.S.
+    - Includes the applicant's minor children and spouse in derivative status.
+    
+    ## Requirements for F1 Visa
+    
+    To sponsor an adult child for an F1 visa, the U.S. citizen parent must:
+    
+      - Prove their U.S. citizenship.
+      - Establish the qualifying relationship with their son or daughter.
+      - Meet the income requirements to provide financial support.
+    
+    ## Application Requirements for F1 Visa
+    
+    The application process involves:
+    
+      - Filing Form I-130, Petition for Alien Relative, by the U.S. citizen parent.
+      - Providing proof of the relationship, such as a birth certificate.
+      - Demonstrating the ability to financially support the relative in the U.S.
+    
+    ## F1 Visa Application Process
+    
+    The steps to sponsor an adult child for an F1 visa are:
+    
+      1. **Form I-130 Petition:** The U.S. citizen parent files Form I-130.
+      2. **Priority Date and Visa Bulletin:** The applicant waits for their priority date to become current according to the Visa Bulletin.
+      3. **Consular Processing:** Once the priority date is current, the applicant goes through consular processing at a U.S. embassy or consulate in their home country.
+      4. **Green Card Issuance:** After the visa interview and approval, the applicant receives an immigrant visa to enter the U.S. and become a lawful permanent resident.
+    
+    ## Forms
+    
+    - **Form I-130:** Petition for Alien Relative, filed by the U.S. citizen parent.
+    
+    ## FAQs
+    
+    ### How long is the wait time for an F1 visa?
+      
+      Wait times vary depending on the applicant's country of origin and the current priority date, which can be several years.
+      
+      ### Can F1 beneficiaries work in the U.S.?
+      
+      Yes, upon receiving their green card, F1 beneficiaries are allowed to work in the U.S.
+      
+      ### Are F1 applicants allowed to bring dependents?
+      
+      Yes, unmarried children under 21 and spouses of F1 beneficiaries can apply for visas as derivatives.
+      
+      ### What happens if the F1 applicant marries?
+      
+      If the F1 applicant marries, they transition to the third-preference category (F3), which typically has longer wait times.
+      
+      ### Can F1 applicants adjust status if they are already in the U.S.?
+      
+      If the F1 applicant is legally in the U.S. when their priority date becomes current, they may be eligible to adjust their status without returning to their home country.
+      
+      ### Is a lawyer needed for the F1 visa process?
+      
+      While not mandatory, navigating the complexities of family-based immigration can often benefit from the guidance of an experienced immigration attorney.
+      
+      This Markdown document is tailored to provide an overview of the F1 visa process, helping U.S. citizen parents and their adult children understand the steps toward family reunification through permanent residency.
     <SecurityDefinitions />
 
   version: 1.0.0

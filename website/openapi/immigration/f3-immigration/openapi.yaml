@@ -6,38 +6,77 @@ servers:
     description: Sandbox server
 info:
   description: |
-    This is a sample server Petstore server.
-    You can find out more about Swagger at
-    [http://swagger.io](http://swagger.io) or on [irc.freenode.net, #swagger](http://swagger.io/irc/).
-    For this sample, you can use the api key `special-key` to test the authorization filters.
-
-    # Introduction  sss
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # OpenAPI Specification
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # Cross-Origin Resource Sharing   ssssss
-    This API features Cross-Origin Resource Sharing (CORS) implemented in compliance with  [W3C spec](https://www.w3.org/TR/cors/).
-    And that allows cross-domain communication from the browser.
-    All responses have a wildcard same-origin which makes them completely public and accessible to everyone, including any code on any site.
-
-    # Authentication
-
-    Petstore offers two forms of authentication:
-      - API Key
-      - OAuth2
-    OAuth2 - an open protocol to allow secure authorization in a simple
-    and standard method from web, mobile and desktop applications.
-
+    # F3 Visa Overview
+    
+    ## What is the F3 Visa?
+    
+      The F3 visa is a family-based immigration category that allows U.S. citizens to sponsor their married sons and daughters, along with their spouse and minor children, for lawful permanent residency in the United States.
+    
+      **Advantages:**
+    - Enables U.S. citizens to reunite with their married children and their families.
+    - Beneficiaries can live, work, and study in the United States.
+    - Provides a pathway to citizenship for the sponsored relatives.
+    
+    ## Requirements for F3 Visa
+    
+    To sponsor a married son or daughter for an F3 visa, the U.S. citizen parent must:
+    
+      - Establish proof of U.S. citizenship.
+      - Verify the familial relationship with their married child.
+      - Meet the income requirements to support the family member(s) financially.
+    
+    ## Application Requirements for F3 Visa
+    
+    The sponsoring process includes:
+    
+      - Filing Form I-130, Petition for Alien Relative, by the U.S. citizen parent.
+      - Providing evidence of the qualifying familial relationship, such as a birth and marriage certificate.
+      - Demonstrating the ability to financially support the relative(s) in the U.S.
+    
+    ## F3 Visa Application Process
+    
+    The steps to sponsor a married son or daughter under the F3 visa are:
+    
+      1. **Form I-130 Petition:** The U.S. citizen parent files Form I-130 for their married child.
+      2. **Priority Date and Visa Bulletin:** The applicant waits for their priority date to become current according to the Visa Bulletin.
+      3. **Consular Processing:** Once the priority date is current, the applicant and their family undergo consular processing at a U.S. embassy or consulate.
+      4. **Visa Issuance and Entry:** After the visa interview and approval, the applicant and their family members receive immigrant visas to enter the U.S. and become lawful permanent residents.
+    
+    ## Forms
+    
+    - **Form I-130:** Petition for Alien Relative.
+    
+    ## FAQs
+    
+    ### What distinguishes F3 from other family-based categories?
+      
+      F3 is specifically for married children of U.S. citizens, while other categories like F1 and F2 are for unmarried children and spouses of U.S. citizens and permanent residents.
+      
+      ### How long is the waiting period for an F3 visa?
+      
+      The waiting period for the F3 visa category can be significant, often several years, due to annual visa caps and demand.
+      
+      ### Can F3 beneficiaries work in the U.S.?
+      
+      Yes, upon obtaining their green card, F3 beneficiaries are authorized to work in the United States.
+      
+      ### Are derivative beneficiaries allowed under the F3 category?
+      
+      Yes, the spouse and minor children of the married son or daughter are included in the F3 application as derivative beneficiaries.
+      
+      ### What happens if the marriage of an F3 beneficiary ends?
+      
+      If an F3 beneficiary divorces, they could potentially move to another category, such as F1, if they remain unmarried.
+      
+      ### Can F3 applicants adjust their status if they are already in the U.S.?
+      
+      If an F3 applicant is legally present in the U.S. when their priority date becomes current, they may be eligible to adjust their status to a permanent resident without leaving the country.
+      
+      ### Is a lawyer needed for the F3 visa process?
+      
+      While not mandatory, the lengthy and complex nature of family-based immigration often warrants professional legal guidance to ensure compliance and successful navigation of the process.
+      
+      This Markdown document is designed to provide an informative guide for U.S. citizens looking to sponsor their married children and their families for permanent residency under the F3 visa category.
     <SecurityDefinitions />
 
   version: 1.0.0

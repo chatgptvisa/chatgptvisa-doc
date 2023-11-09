@@ -6,38 +6,76 @@ servers:
     description: Sandbox server
 info:
   description: |
-    This is a sample server Petstore server.
-    You can find out more about Swagger at
-    [http://swagger.io](http://swagger.io) or on [irc.freenode.net, #swagger](http://swagger.io/irc/).
-    For this sample, you can use the api key `special-key` to test the authorization filters.
-
-    # Introduction  sss
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # OpenAPI Specification
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # Cross-Origin Resource Sharing   ssssss
-    This API features Cross-Origin Resource Sharing (CORS) implemented in compliance with  [W3C spec](https://www.w3.org/TR/cors/).
-    And that allows cross-domain communication from the browser.
-    All responses have a wildcard same-origin which makes them completely public and accessible to everyone, including any code on any site.
-
-    # Authentication
-
-    Petstore offers two forms of authentication:
-      - API Key
-      - OAuth2
-    OAuth2 - an open protocol to allow secure authorization in a simple
-    and standard method from web, mobile and desktop applications.
-
+    # F2-B Visa Overview
+    
+    ## What is the F2-B Visa?
+    
+      The F2-B visa is a family-based immigration category for unmarried sons and daughters over the age of 21 of lawful permanent residents (green card holders) of the United States. This category allows these adult children to join their parent(s) in the U.S. and ultimately apply for permanent residency.
+    
+      **Advantages:**
+    - Facilitates family reunification for adult children of green card holders.
+    - Permits beneficiaries to live, work, and study in the United States once they receive their green card.
+    
+    ## Requirements for F2-B Visa
+    
+    To be eligible for the F2-B visa:
+    
+      - The petitioner must be a lawful permanent resident of the U.S.
+      - The beneficiary must be an unmarried son or daughter over the age of 21.
+      - The petitioner must have sufficient financial means to support the beneficiary.
+    
+    ## Application Requirements for F2-B Visa
+    
+    The necessary steps in the application process include:
+    
+      - Filing Form I-130, Petition for Alien Relative, by the lawful permanent resident parent.
+      - Providing proof of the relationship, such as a birth certificate.
+      - Affidavit of Support from the petitioner demonstrating the ability to financially support the beneficiary.
+    
+    ## F2-B Visa Application Process
+    
+    The application process for an F2-B visa involves:
+    
+      1. **Form I-130 Petition:** The green card holder parent files Form I-130 for their unmarried adult child.
+      2. **Priority Date and Visa Bulletin:** The beneficiary waits for their priority date to become current as indicated in the Visa Bulletin.
+      3. **Consular Processing or Adjustment of Status:** The beneficiary undergoes consular processing at a U.S. embassy or consulate abroad or applies for an adjustment of status if legally present in the U.S.
+      4. **Visa Issuance and Entry:** Upon visa approval and priority date current, the beneficiary receives the visa to enter the U.S. and can later apply for permanent residency.
+    
+    ## Forms
+    
+    - **Form I-130:** Petition for Alien Relative.
+    
+    ## FAQs
+    
+    ### How is the F2-B category different from F2-A?
+      
+      F2-B is specifically for unmarried adult children (over 21 years) of lawful permanent residents, whereas F2-A includes spouses and minor children (under 21 years).
+      
+      ### What is the waiting time for an F2-B visa?
+      
+      The waiting time can be several years due to annual caps and the backlog of applicants.
+      
+      ### Can F2-B visa holders work in the U.S.?
+      
+      Yes, upon receiving their green card, F2-B beneficiaries are allowed to work in the United States.
+      
+      ### Is a visa immediately available for F2-B applicants?
+      
+      No, F2-B beneficiaries typically experience a waiting period until their priority date becomes current.
+      
+      ### Can F2-B beneficiaries adjust status if they are already in the U.S.?
+      
+      Yes, if the beneficiary is in the U.S. when their priority date becomes current and they have maintained lawful status, they may be eligible to adjust their status to a permanent resident.
+      
+      ### What happens if an F2-B beneficiary gets married?
+      
+      If the F2-B beneficiary marries, they will no longer qualify under this category and would need to find an alternative immigration path.
+      
+      ### Is legal assistance recommended for the F2-B visa process?
+      
+      Given the complexity and length of the family-based immigration process, legal assistance is often beneficial to navigate the system effectively.
+      
+      This Markdown document provides an overview of the F2-B visa process, offering guidance for permanent residents looking to bring their adult unmarried children to the United States for family reunification and residency.
     <SecurityDefinitions />
 
   version: 1.0.0

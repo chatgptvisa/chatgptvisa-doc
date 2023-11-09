@@ -6,38 +6,75 @@ servers:
     description: Sandbox server
 info:
   description: |
-    This is a sample server Petstore server.
-    You can find out more about Swagger at
-    [http://swagger.io](http://swagger.io) or on [irc.freenode.net, #swagger](http://swagger.io/irc/).
-    For this sample, you can use the api key `special-key` to test the authorization filters.
-
-    # Introduction  sss
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # OpenAPI Specification
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # Cross-Origin Resource Sharing   ssssss
-    This API features Cross-Origin Resource Sharing (CORS) implemented in compliance with  [W3C spec](https://www.w3.org/TR/cors/).
-    And that allows cross-domain communication from the browser.
-    All responses have a wildcard same-origin which makes them completely public and accessible to everyone, including any code on any site.
-
-    # Authentication
-
-    Petstore offers two forms of authentication:
-      - API Key
-      - OAuth2
-    OAuth2 - an open protocol to allow secure authorization in a simple
-    and standard method from web, mobile and desktop applications.
-
+    # EB-4 Overview
+    
+    ## What is EB-4?
+      
+      The EB-4 visa is an employment-based, fourth-preference visa that provides lawful permanent residence in the United States to a broad category of special immigrants. These include certain religious workers, employees of U.S. foreign service posts, retired employees of international organizations, alien minors who are wards of courts in the United States, and other classes of aliens.
+      
+      **Advantages:**
+    - Dedicated to a diverse group of special immigrants with specific roles and statuses.
+    - Not as competitive as other employment-based preference categories.
+    
+    ## Requirements for EB-4
+    
+    EB-4 applicants must belong to one of the following subcategories:
+    
+      - **Religious Workers:** Ministers and non-ministers in religious vocations and occupations.
+      - **Special Immigrant Juveniles:** Foreign children in the U.S. foster care system.
+      - **Certain Employees or Former Employees of the U.S. Government Abroad:** This includes a broad range of employees, such as interpreters, broadcasters, and others who have served the U.S. government.
+      - **Certain Retired Employees of International Organizations:** Individuals who have served in certain capacities for international organizations.
+      - **Members of the Armed Forces:** Certain retired NATO-6 civilians and spouses of deceased NATO-6 civilians.
+      - **Other Subcategories:** Include broadcasters, physicians, armed forces members, Panama Canal Zone employees, and others specified in the Immigration and Nationality Act (INA).
+    
+    ## Application Requirements for EB-4
+    
+    The specific requirements for the EB-4 visa can vary widely depending on the subcategory. Generally, applicants need:
+    
+      - Evidence of eligibility under one of the special immigrant categories.
+      - A petition filed on their behalf, often by an employer or other sponsor.
+    
+    ## EB-4 Application Process
+    
+    The application process typically involves:
+      
+      1. **Petition Filing:** Form I-360, Petition for Amerasian, Widow(er), or Special Immigrant, is filed by the applicant or a sponsor.
+      2. **Approval:** Once the petition is approved, applicants wait for a visa to become available.
+      3. **Adjustment of Status or Consular Processing:** Applicants either adjust their status in the U.S. using Form I-485 or proceed with consular processing if outside the U.S.
+      4. **Green Card Issuance:** After approval, the applicant becomes a lawful permanent resident.
+    
+    ## Forms
+    
+    - **Form I-360:** Petition for Amerasian, Widow(er), or Special Immigrant.
+    - **Form I-485:** For applicants within the United States to adjust their status.
+    
+    ## FAQs
+    
+    ### What distinguishes EB-4 from other employment-based categories?
+      
+      EB-4 is reserved for "special immigrants" with specific roles, such as religious workers, certain international organization employees, and special immigrant juveniles, among others.
+      
+      ### How long does the EB-4 process take?
+      
+      The processing time can vary greatly depending on the subcategory and the applicant's country of origin.
+      
+      ### Can family members accompany the EB-4 applicant?
+      
+      Yes, spouses and unmarried children under 21 may apply for green cards as dependents of the EB-4 applicant.
+      
+      ### Is a job offer required for EB-4 applicants?
+      
+      It depends on the subcategory. For example, religious workers typically need a job offer from a qualifying religious organization.
+      
+      ### What happens after the I-360 petition is approved?
+      
+      Applicants must wait for a visa number to become available and then either adjust status within the U.S. or apply for an immigrant visa abroad.
+      
+      ### Is legal representation recommended for EB-4 applications?
+      
+      Given the unique and varied nature of the EB-4 category, legal guidance can be crucial in navigating the application process effectively.
+      
+      This Markdown document is designed to offer an overview of the EB-4 visa category, providing clarity on the process for individuals seeking U.S. permanent residency through this diverse and special immigration pathway.
     <SecurityDefinitions />
 
   version: 1.0.0

@@ -6,38 +6,79 @@ servers:
     description: Sandbox server
 info:
   description: |
-    This is a sample server Petstore server.
-    You can find out more about Swagger at
-    [http://swagger.io](http://swagger.io) or on [irc.freenode.net, #swagger](http://swagger.io/irc/).
-    For this sample, you can use the api key `special-key` to test the authorization filters.
-
-    # Introduction  sss
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # OpenAPI Specification
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # Cross-Origin Resource Sharing   ssssss
-    This API features Cross-Origin Resource Sharing (CORS) implemented in compliance with  [W3C spec](https://www.w3.org/TR/cors/).
-    And that allows cross-domain communication from the browser.
-    All responses have a wildcard same-origin which makes them completely public and accessible to everyone, including any code on any site.
-
-    # Authentication
-
-    Petstore offers two forms of authentication:
-      - API Key
-      - OAuth2
-    OAuth2 - an open protocol to allow secure authorization in a simple
-    and standard method from web, mobile and desktop applications.
-
+    # EB-5 Overview
+    
+    ## What is EB-5?
+    
+     The EB-5 visa program provides a method for eligible immigrant investors to become lawful permanent residents—commonly known as "green card" holders—by investing in a commercial enterprise in the United States that will create or preserve 10 permanent full-time jobs for qualified U.S. workers.
+    
+     **Advantages:**
+    - Direct route to a green card for investors.
+    - Potential for return on investment.
+    - Includes spouse and unmarried children under 21 in the application.
+    
+    ## Requirements for EB-5
+    
+    To qualify for the EB-5 visa, investors must:
+    
+     - Invest $1.8 million or $900,000 if the investment is in a Targeted Employment Area (TEA) with high unemployment or rural area.
+     - Ensure the investment leads to the creation of 10 full-time jobs for U.S. workers.
+     - Invest in a new commercial enterprise or a troubled business.
+    
+    ## Application Requirements for EB-5
+    
+    Investors must provide:
+    
+     - Evidence of the investment amount and source of funds.
+     - A comprehensive business plan demonstrating job creation.
+     - Documentation of the lawful path of funds.
+    
+    ## EB-5 Application Process
+    
+    The steps to obtain an EB-5 visa include:
+    
+     1. **Investment:** Make the qualifying investment in a U.S. enterprise.
+     2. **Form I-526 Petition:** File the Immigrant Petition by Alien Investor (I-526) showing the investment meets all requirements.
+     3. **Approval and Conditional Residence:** Once the I-526 is approved, if outside the U.S., go through consular processing to enter the U.S.; if inside, file Form I-485 for conditional permanent residence.
+     4. **Form I-829 Petition:** After two years, file the Petition by Investor to Remove Conditions on Permanent Resident Status (I-829) to demonstrate job creation and sustainment of the investment.
+     5. **Green Card Issuance:** Once the I-829 is approved, conditions are removed, and the investor, spouse, and eligible children become permanent green card holders.
+    
+    ## Forms
+    
+    - **Form I-526:** Immigrant Petition by Alien Investor.
+    - **Form I-485:** Application to Register Permanent Residence or Adjust Status, for applicants in the United States.
+    - **Form I-829:** Petition by Investor to Remove Conditions on Permanent Resident Status.
+    
+    ## FAQs
+    
+    ### What distinguishes EB-5 from other employment-based visas?
+    
+     The EB-5 program is specifically designed for immigrant investors who make a significant capital investment in the U.S. economy and create jobs.
+    
+     ### How is the investment amount determined?
+    
+     The standard investment amount is $1.8 million, but it's reduced to $900,000 for investments made in TEAs.
+    
+     ### Can EB-5 investments be made in existing businesses?
+    
+     Yes, provided that the investment substantially changes or expands the business, or the business qualifies as "troubled" and the investment saves jobs.
+    
+     ### How are the required jobs counted?
+    
+     The 10 required jobs must be full-time positions for qualifying employees and must be created within two years of the investor’s admission to the United States as a Conditional Permanent Resident.
+    
+     ### What happens if the EB-5 investment fails to create the required jobs?
+    
+     Failure to meet the job creation requirement can result in the denial of the I-829 petition and loss of conditional permanent residence.
+    
+     ### Is the EB-5 investment guaranteed?
+    
+     Like all investments, the capital invested under EB-5 is at risk, and there is no guarantee of a return or the principal investment.
+    
+     ### Is legal assistance recommended for EB-5 applications?
+    
+     Due to the financial and immigration complexities of the EB-5 program, it is strongly recommended to seek legal and financial advice.
+    
     <SecurityDefinitions />
 
   version: 1.0.0

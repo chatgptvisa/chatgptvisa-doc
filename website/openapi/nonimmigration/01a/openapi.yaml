@@ -6,38 +6,76 @@ servers:
     description: Sandbox server
 info:
   description: |
-    This is a sample server Petstore server.
-    You can find out more about Swagger at
-    [http://swagger.io](http://swagger.io) or on [irc.freenode.net, #swagger](http://swagger.io/irc/).
-    For this sample, you can use the api key `special-key` to test the authorization filters.
-
-    # Introduction  sss
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # OpenAPI Specification
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # Cross-Origin Resource Sharing   ssssss
-    This API features Cross-Origin Resource Sharing (CORS) implemented in compliance with  [W3C spec](https://www.w3.org/TR/cors/).
-    And that allows cross-domain communication from the browser.
-    All responses have a wildcard same-origin which makes them completely public and accessible to everyone, including any code on any site.
-
-    # Authentication
-
-    Petstore offers two forms of authentication:
-      - API Key
-      - OAuth2
-    OAuth2 - an open protocol to allow secure authorization in a simple
-    and standard method from web, mobile and desktop applications.
-
+    # O-1A Visa Detailed Overview
+    
+    ## What is the O-1A Visa?
+    
+      The O-1A visa is designed for individuals who demonstrate extraordinary ability in the sciences, education, business, or athletics through sustained national or international acclaim. It is not for those with extraordinary ability in the arts, motion pictures, or television industry, which falls under the O-1B category.
+      
+      ## Qualifications for O-1A Visa
+      
+      To qualify for an O-1A visa, an individual must have a level of expertise indicating that they are one of the small percentage who have risen to the very top of their field. The evidence must show extraordinary ability and recognition.
+    
+    ### Criteria for Demonstrating Extraordinary Ability:
+    
+    - Receipt of nationally or internationally recognized prizes or awards for excellence in the field of expertise.
+    - Membership in associations that require outstanding achievements, as judged by recognized national or international experts.
+    - Published material about the individual and their work in professional, major trade publications, or major media.
+    - Participation as a judge of the work of others in the same or an allied field of specialization.
+    - Original scientific, scholarly, or business-related contributions of major significance in the field.
+    - Authorship of scholarly articles in professional journals or other major media in the field.
+    - A high salary or other significantly high remuneration for services compared to others in the field.
+    - Employment in a critical or essential capacity for organizations and establishments that have a distinguished reputation.
+    
+    ## Application Process for O-1A Visa
+      
+      1. **Petition and Sponsorship:** An O-1A petition can only be filed by a U.S. employer, a U.S. agent, or a foreign employer through a U.S. agent.
+      
+      2. **Form I-129:** The U.S. employer or agent must submit Form I-129, Petition for Nonimmigrant Worker, with the USCIS. The petition should be filed at least 45 days before the employment start date but not more than one year prior.
+      
+      3. **Advisory Opinion:** A written advisory opinion from a peer group or person with expertise in the beneficiary’s area of ability is required.
+      
+      4. **Evidence Submission:** The petition must be accompanied by substantial evidence that the beneficiary meets the criteria for O-1A classification.
+      
+      5. **Visa Application:** Once the petition is approved, the beneficiary can apply for the O-1A visa at a U.S. Embassy or Consulate.
+    
+    ## Duration and Limits of O-1A Visa
+    
+    - The initial period of stay is up to three years, which may be extended in one-year increments, or less, depending on the time necessary to accomplish the initial event or activity.
+    
+    ## FAQs about O-1A Visa
+    
+    ### Can family members accompany O-1A visa holders?
+    
+    - Yes, spouses and children under the age of 21 may be eligible for O-3 nonimmigrant status.
+    
+    ### Can O-1A visa holders apply for a green card?
+    
+    - While the O-1A is a non-immigrant visa, holders may apply for an immigrant visa (green card) if they meet certain criteria under employment-based immigration categories.
+    
+    ### Is there a cap on the number of O-1A visas issued annually?
+    
+    - No, there is no annual cap on the number of O-1A visas that can be issued.
+    
+    ### Can I transition from another visa type to O-1A?
+    
+    - Yes, individuals on a different non-immigrant visa can change their status to O-1A if they qualify.
+    
+    ### Do O-1A visa holders need to maintain a residence in their home country?
+    
+    - No, unlike some other non-immigrant visas, O-1A visa holders do not need to maintain a foreign residence and show intent to return.
+    
+    ### How long does the O-1A visa application process take?
+    
+    - Processing times vary, but expedited processing is available for an additional fee through USCIS's Premium Processing Service.
+    
+    ## Tips for Applying
+    
+    - Document all achievements with evidence such as awards, letters of recommendation, and articles about your work.
+    - Consult with an immigration attorney who specializes in O-1A visas to ensure a well-prepared petition.
+    - Plan for potential delays and start the application process well before the intended start date.
+      
+      This detailed guide is crafted to help individuals understand the O-1A visa, outlining the qualifications, application process, and frequently asked questions for those with extraordinary abilities in the sciences, education, business, or athletics seeking to work in the United States.
     <SecurityDefinitions />
 
   version: 1.0.0

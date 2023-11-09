@@ -6,38 +6,78 @@ servers:
     description: Sandbox server
 info:
   description: |
-    This is a sample server Petstore server.
-    You can find out more about Swagger at
-    [http://swagger.io](http://swagger.io) or on [irc.freenode.net, #swagger](http://swagger.io/irc/).
-    For this sample, you can use the api key `special-key` to test the authorization filters.
-
-    # Introduction  sss
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # OpenAPI Specification
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # Cross-Origin Resource Sharing   ssssss
-    This API features Cross-Origin Resource Sharing (CORS) implemented in compliance with  [W3C spec](https://www.w3.org/TR/cors/).
-    And that allows cross-domain communication from the browser.
-    All responses have a wildcard same-origin which makes them completely public and accessible to everyone, including any code on any site.
-
-    # Authentication
-
-    Petstore offers two forms of authentication:
-      - API Key
-      - OAuth2
-    OAuth2 - an open protocol to allow secure authorization in a simple
-    and standard method from web, mobile and desktop applications.
-
+    # F4 Visa Overview
+    
+    ## What is the F4 Visa?
+      
+      The F4 visa is a family-based immigration category that allows U.S. citizens to sponsor their siblings, along with their siblings' spouses and minor children, for lawful permanent residency in the United States. It is the fourth preference category for family-sponsored immigration.
+      
+      **Advantages:**
+    - Facilitates the reunification of U.S. citizens with their siblings and their families.
+    - Allows beneficiaries to live, work, and study in the U.S.
+    - Offers a pathway to U.S. citizenship for the sponsored relatives after they become permanent residents.
+    
+    ## Requirements for F4 Visa
+    
+    To be eligible to sponsor a sibling for an F4 visa, the U.S. citizen must:
+    
+      - Be at least 21 years old.
+      - Provide proof of U.S. citizenship.
+      - Prove the sibling relationship through birth certificates or other documents.
+      - Meet income requirements to financially support the sibling's family.
+    
+    ## Application Requirements for F4 Visa
+    
+    The sponsorship process involves:
+    
+      - Filing Form I-130, Petition for Alien Relative, by the U.S. citizen.
+      - Submitting the necessary supporting documents, such as birth certificates showing the relationship between the siblings.
+      - Providing an Affidavit of Support indicating the petitioner's financial ability.
+    
+    ## F4 Visa Application Process
+    
+    The application process for an F4 visa includes:
+      
+      1. **Form I-130 Petition:** The U.S. citizen files Form I-130 for their sibling.
+      2. **Priority Date and Visa Bulletin:** The sibling waits for their priority date to become current as per the Visa Bulletin.
+      3. **Consular Processing:** Once the priority date is current, the sibling and their family go through consular processing at a U.S. embassy or consulate in their home country.
+      4. **Visa Issuance and Entry:** After the visa interview and approval, the sibling and their family receive their visas, allowing them to enter the U.S. and become lawful permanent residents.
+    
+    ## Forms
+    
+    - **Form I-130:** Petition for Alien Relative.
+    
+    ## FAQs
+    
+    ### What is the difference between F4 and other family-based categories?
+      
+      F4 is specifically for siblings of U.S. citizens, while F1, F2, and F3 cover children and spouses of U.S. citizens and lawful permanent residents.
+      
+      ### How long is the waiting period for an F4 visa?
+      
+      The F4 category often has a lengthy waiting period due to high demand and annual visa limits, potentially spanning several years.
+      
+      ### Can F4 beneficiaries work in the U.S.?
+      
+      Upon receiving their green card, F4 beneficiaries are authorized to work in the United States.
+      
+      ### Are derivatives included in the F4 visa application?
+      
+      Yes, the spouses and unmarried children under 21 of the sibling are eligible to apply as derivative beneficiaries.
+      
+      ### What if a sibling’s child ages out during the process?
+      
+      The Child Status Protection Act (CSPA) may allow certain beneficiaries to retain the classification of a "child" even if they reach the age of 21 during the immigration process.
+      
+      ### Can F4 applicants adjust their status if they are already in the U.S.?
+      
+      If an F4 applicant is in the U.S. with a legal status when their priority date becomes current, they may be able to adjust their status to a permanent resident without leaving the country.
+      
+      ### Is an immigration attorney necessary for the F4 visa process?
+      
+      While not required, the complexities of immigration law and the potential for lengthy processing times often make it beneficial to have legal representation.
+      
+      This Markdown document serves as an overview for U.S. citizens intending to sponsor their siblings for permanent residency under the F4 visa category, detailing the requirements, application process, and commonly asked questions.
     <SecurityDefinitions />
 
   version: 1.0.0

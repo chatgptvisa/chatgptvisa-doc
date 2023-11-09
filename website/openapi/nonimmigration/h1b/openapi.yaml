@@ -6,38 +6,139 @@ servers:
     description: Sandbox server
 info:
   description: |
-    This is a sample server Petstore server.
-    You can find out more about Swagger at
-    [http://swagger.io](http://swagger.io) or on [irc.freenode.net, #swagger](http://swagger.io/irc/).
-    For this sample, you can use the api key `special-key` to test the authorization filters.
-
-    # Introduction  sss
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # OpenAPI Specification
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # Cross-Origin Resource Sharing   ssssss
-    This API features Cross-Origin Resource Sharing (CORS) implemented in compliance with  [W3C spec](https://www.w3.org/TR/cors/).
-    And that allows cross-domain communication from the browser.
-    All responses have a wildcard same-origin which makes them completely public and accessible to everyone, including any code on any site.
-
-    # Authentication
-
-    Petstore offers two forms of authentication:
-      - API Key
-      - OAuth2
-    OAuth2 - an open protocol to allow secure authorization in a simple
-    and standard method from web, mobile and desktop applications.
-
+    # H-1B Visa Overview
+    
+    ## What is the H-1B Visa?
+      
+      The H-1B visa is a non-immigrant visa that allows U.S. employers to temporarily employ foreign workers in specialty occupations. These occupations typically require expertise in specialized fields such as in IT, finance, engineering, architecture, and more.
+    
+    ## Qualifications for H-1B Visa
+    
+    To qualify for an H-1B visa:
+    
+    1. The job must meet one of the following criteria to qualify as a specialty occupation:
+      - A bachelor’s degree or higher degree or its equivalent is normally the minimum requirement for the position.
+      - The degree requirement is common for the position in the industry, or the job is so complex or unique that it can only be performed by someone with at least a bachelor's degree in a field related to the position.
+      - The employer normally requires a degree or its equivalent for the position.
+      - The nature of the specific duties is so specialized and complex that knowledge required to perform the duties is usually associated with the attainment of a bachelor's or higher degree.
+      
+      2. The worker must hold a U.S. bachelor's degree or higher from an accredited college or university or its foreign equivalent in the specific specialty occupation.
+      
+      3. The employer must pay the prevailing wage for the occupation as determined by the location of the job.
+      
+      ## H-1B Visa Application Process
+      
+      1. **Employer Submits Labor Condition Application (LCA):** The U.S. employer must obtain a certified LCA from the Department of Labor, affirming key wage and labor conditions.
+      
+      2. **Employer Files Form I-129:** The employer must submit Form I-129, Petition for a Nonimmigrant Worker, to USCIS with the appropriate H-1B Visa Petition Supplement and supporting documents.
+      
+      3. **H-1B Cap:** There is an annual cap of 85,000 new H-1B visas each fiscal year (with 20,000 of these visas set aside for applicants holding a master’s degree or higher from a U.S. institution). Applications are often submitted in April for the fiscal year starting in October.
+      
+      4. **Lottery:** If the number of petitions exceeds the H-1B cap, USCIS uses a lottery system to randomly select the number of petitions required to meet the cap.
+      
+      5. **Petition Review:** USCIS reviews the selected petitions. If approved, the foreign worker can start working for the employer on the H-1B visa on October 1st of the fiscal year the petition was filed.
+    
+    ## H-1B Duration and Limits
+    
+    - The H-1B visa has an initial period of stay of three years, which can be extended to a total of six years.
+    - Certain H-1B holders working on Department of Defense projects may extend their stay beyond the 6-year limitation.
+    - H-1B holders may seek permanent residency (green card) while in the U.S. on an H-1B visa.
+    
+    ## FAQs about H-1B Visa
+      
+      1. **Can I apply for an H-1B visa without a sponsor?**
+      - No, a U.S. employer must sponsor the visa and file the petition on behalf of the employee.
+      
+      2. **How long before the start date should the H-1B visa be applied for?**
+      - It’s recommended to apply as soon as the application period opens, usually April 1st for the fiscal year starting October 1st.
+      
+      3. **Can I transfer my H-1B visa to a new employer?**
+      - Yes, H-1B visas can be transferred to new employers by filing a new H-1B petition.
+      
+      4. **What if my H-1B visa petition is denied?**
+      - If denied, the applicant cannot work on an H-1B visa. The employer may choose to file a new petition or the applicant must seek another visa status.
+      
+      5. **Can my family accompany me on an H-1B visa?**
+      - Yes, spouses and unmarried children under 21 can apply for H-4 visas.
+      
+      The H-1B visa process can be complex and competitive, often requiring careful planning and timely action due to the cap and lottery system. Employers and potential H-1B applicants are advised to consult with an immigration attorney to navigate the process.
+    
+    # H-1B to Green Card Overview
+    
+    ## What is the H-1B Visa?
+    
+      The H-1B visa is a non-immigrant visa allowing U.S. companies to employ foreign workers in specialty occupations. Holders of an H-1B visa can apply for a green card to gain permanent residency in the U.S., often referred to as the H-1B to green card process.
+    
+    ## Qualifications for H-1B Visa Holders to Apply for a Green Card
+    
+    ### Requirements:
+    
+    - Valid H-1B status.
+    - A U.S. employer willing to sponsor the green card application.
+    - Employment in a specialty occupation requiring a bachelor's degree or higher.
+    - Fulfillment of specific requirements for the desired green card category.
+    
+    ## H-1B Visa Application Process
+    
+    - **Find a Sponsoring Employer:** Obtain a job offer from a U.S. employer willing to sponsor an H-1B visa.
+    - **Labor Condition Application (LCA):** The employer must secure an LCA from the Department of Labor, confirming the wage offered is comparable to the prevailing wage for the position's location.
+    - **Submit H-1B Petition:** The employer files the H-1B petition with USCIS.
+    - **H-1B Lottery:** If applications exceed the cap, a lottery determines which petitions USCIS will process.
+    - **Approval:** Selected and approved petitions grant the applicant H-1B visa status.
+    
+    ## Green Card Application Process (via Employer Sponsorship)
+      
+      1. **Labor Certification (PERM):** The sponsoring employer files a PERM Labor Certification with the Department of Labor.
+      2. **Immigrant Petition (I-140):** Upon PERM approval, the employer files an I-140 Immigrant Petition with USCIS.
+      3. **Priority Date:** The priority date is typically when the I-140 is filed. Wait for this date to become current.
+      4. **Adjustment of Status (I-485):** File an I-485 with USCIS when the priority date is current to adjust status to permanent resident.
+      5. **Approval:** Once the I-485 is approved, the H-1B holder becomes a U.S. permanent resident.
+      
+      ## FAQs for Transitioning from H-1B to Green Card
+      
+      ### Can I self-apply for a green card?
+      
+      No, a green card application generally requires employer sponsorship, except for certain self-petition categories like EB-1A or EB-2 NIW.
+      
+      ### How long does the green card process take for H-1B holders?
+      
+      The timeframe varies widely depending on the green card category, the applicant's nationality, and current USCIS processing times. It may take several years for some applicants.
+      
+      ### Can I continue working while my green card application is pending?
+      
+      Yes, H-1B visa holders can work while their green card application is in process.
+      
+      ### What happens if I lose my job during the green card application process?
+      
+      If the I-140 has been approved and the I-485 has been pending for more than 180 days, you may change jobs under AC21 portability to a same or similar occupational classification without affecting your green card application.
+      
+      ### Can my family also get green cards?
+      
+      Yes, your spouse and unmarried children under 21 can apply as dependents.
+      
+      ### Can I travel outside the U.S. while my green card application is pending?
+      
+      Yes, but ensure your H-1B visa is valid for re-entry, or apply for Advance Parole for travel while the I-485 is pending.
+      
+      ### Do I need to maintain H-1B status after applying for a green card?
+      
+      Maintaining H-1B status is generally recommended until you receive your green card, although it's not mandatory if your I-485 has been filed and is pending.
+      
+      ## Hypothetical Case Studies for H-1B to Green Card
+      
+      ### Case Study 1: Smooth Transition
+      
+      John, a software engineer, holds an H-1B visa and is sponsored by his employer for a green card. The PERM and I-140 petitions are approved, and after waiting for his priority date to become current, John successfully adjusts his status to become a lawful permanent resident.
+      
+      ### Case Study 2: Job Loss
+      
+      Maria, on an H-1B visa, loses her job during the green card process. Her I-140 was approved, and the I-485 had been pending for over 180 days. She utilizes AC21 portability to switch employers without affecting her green card application, which is eventually approved.
+      
+      ### Case Study 3: Family Considerations
+      
+      Li Wei, an H-1B researcher, includes his wife and child in his green card application. When his priority date becomes current, they all adjust their status and become permanent residents.
+      
+      These scenarios are simplified and the actual H-1B to green card process can be complex. Applicants should seek the assistance of an immigration attorney to navigate this process.
     <SecurityDefinitions />
 
   version: 1.0.0

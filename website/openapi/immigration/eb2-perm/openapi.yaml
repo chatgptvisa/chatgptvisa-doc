@@ -6,38 +6,79 @@ servers:
     description: Sandbox server
 info:
   description: |
-    This is a sample server Petstore server.
-    You can find out more about Swagger at
-    [http://swagger.io](http://swagger.io) or on [irc.freenode.net, #swagger](http://swagger.io/irc/).
-    For this sample, you can use the api key `special-key` to test the authorization filters.
-
-    # Introduction  sss
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # OpenAPI Specification
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # Cross-Origin Resource Sharing   ssssss
-    This API features Cross-Origin Resource Sharing (CORS) implemented in compliance with  [W3C spec](https://www.w3.org/TR/cors/).
-    And that allows cross-domain communication from the browser.
-    All responses have a wildcard same-origin which makes them completely public and accessible to everyone, including any code on any site.
-
-    # Authentication
-
-    Petstore offers two forms of authentication:
-      - API Key
-      - OAuth2
-    OAuth2 - an open protocol to allow secure authorization in a simple
-    and standard method from web, mobile and desktop applications.
-
+    # EB-2 PERM (Program Electronic Review Management) Overview
+    
+    ## What is EB-2 PERM?
+    
+      The EB-2 PERM category is part of the second preference employment-based green card process, which requires a U.S. employer to conduct a rigorous recruitment process under the Program Electronic Review Management (PERM) system. It's designed for professionals holding advanced degrees or individuals with exceptional ability in the sciences, arts, or business.
+    
+      **Advantages:**
+    - Opportunity for individuals with advanced degrees or exceptional ability to gain permanent residency
+    - Allows for a clear path to a green card with employer sponsorship
+    
+    ## Requirements for EB-2 PERM
+    
+    To be eligible for EB-2 PERM, candidates must meet one of the following criteria:
+    
+      - Possess an advanced degree (beyond a bachelor's) or its equivalent in a field related to the job offer
+      - Show exceptional ability in the sciences, arts, or business that will substantially benefit the U.S. economy, cultural or educational interests, or welfare
+    
+    ## Application Requirements for EB-2 PERM
+    
+    The process involves:
+    
+      - A U.S. employer who will act as the petitioner
+      - A job offer for a position requiring an advanced degree or exceptional ability
+      - Completion of the PERM labor certification process, which includes recruitment and prevailing wage determination
+    
+    ## EB-2 PERM Application Process
+    
+    The steps to obtain an EB-2 PERM are:
+    
+      1. **Prevailing Wage Determination:** The employer must obtain from the Department of Labor (DOL) the standard wage for the offered position.
+      2. **Recruitment:** The employer must conduct recruitment efforts to test the labor market.
+      3. **PERM Labor Certification:** The employer files the PERM application with the DOL.
+      4. **Form I-140 Petition:** Once PERM is approved, the employer files Form I-140 with USCIS.
+      5. **Adjustment of Status or Consular Processing:** If the priority date is current and I-140 is approved, the applicant files Form I-485 for adjustment of status or undergoes consular processing if outside the U.S.
+      6. **Green Card Issuance:** Following approval, the applicant and their dependents become lawful permanent residents.
+    
+    ## Forms
+    
+    - **Form ETA-9089:** Application for Permanent Employment Certification (PERM).
+    - **Form I-140:** Immigrant Petition for Alien Worker, filed by the employer after PERM approval.
+    - **Form I-485:** For applicants within the United States to adjust their status to permanent resident.
+    
+    ## FAQs
+    
+    ### What is the difference between EB-2 and EB-2 PERM?
+      
+      While EB-2 is a broader category, EB-2 PERM specifically requires labor certification and a job offer from a U.S. employer.
+      
+      ### How long does the PERM process take?
+      
+      The PERM labor certification process can take several months, depending on the DOL's processing times and any audits that may occur.
+      
+      ### Can the EB-2 PERM process be expedited?
+      
+      Currently, there is no expedited processing for PERM applications. However, premium processing is available for the I-140 petition.
+      
+      ### Are dependents included in the EB-2 PERM application?
+      
+      Yes, spouses and unmarried children under 21 can apply for green cards as dependents of the principal applicant.
+      
+      ### What happens if the labor market test fails to find qualified U.S. workers?
+      
+      If no qualified U.S. workers are found during the recruitment period, the employer may proceed with the PERM application.
+      
+      ### What if the PERM application is denied?
+      
+      The employer may choose to address the reasons for denial and refile or appeal the decision.
+      
+      ### Is legal assistance necessary for the EB-2 PERM process?
+      
+      Due to the complexity of the PERM process, employers and beneficiaries often benefit from legal expertise to navigate the requirements and documentation.
+      
+      This Markdown document is formatted to offer a comprehensive and clear guide to the EB-2 PERM process, helping potential applicants and employers understand the pathway to obtaining a green card through employment.
     <SecurityDefinitions />
 
   version: 1.0.0

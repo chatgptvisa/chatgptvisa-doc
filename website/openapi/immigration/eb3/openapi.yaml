@@ -6,38 +6,79 @@ servers:
     description: Sandbox server
 info:
   description: |
-    This is a sample server Petstore server.
-    You can find out more about Swagger at
-    [http://swagger.io](http://swagger.io) or on [irc.freenode.net, #swagger](http://swagger.io/irc/).
-    For this sample, you can use the api key `special-key` to test the authorization filters.
-
-    # Introduction  sss
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # OpenAPI Specification
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # Cross-Origin Resource Sharing   ssssss
-    This API features Cross-Origin Resource Sharing (CORS) implemented in compliance with  [W3C spec](https://www.w3.org/TR/cors/).
-    And that allows cross-domain communication from the browser.
-    All responses have a wildcard same-origin which makes them completely public and accessible to everyone, including any code on any site.
-
-    # Authentication
-
-    Petstore offers two forms of authentication:
-      - API Key
-      - OAuth2
-    OAuth2 - an open protocol to allow secure authorization in a simple
-    and standard method from web, mobile and desktop applications.
-
+    # EB-3 Overview
+    
+    ## What is EB-3?
+      
+      The EB-3 visa is an employment-based, third-preference visa that provides permanent residence in the United States for skilled workers, professionals, and other workers. It is intended for individuals with less stringent qualifications compared to EB-1 and EB-2 categories.
+      
+      **Advantages:**
+    - Provides a path to permanent residency for a broader range of employment qualifications.
+    - Accommodates skilled workers, professionals, and unskilled workers.
+    
+    ## Requirements for EB-3
+    
+    EB-3 applicants must fall into one of the following subcategories:
+    
+      - **Skilled Workers:** Job requires at least 2 years of training or work experience.
+      - **Professionals:** Job requires at least a U.S. bachelor's degree or foreign equivalent.
+      - **Other Workers (Unskilled Workers):** Jobs that require less than 2 years of training or experience.
+    
+    ## Application Requirements for EB-3
+    
+    The EB-3 process typically involves:
+    
+      - A permanent, full-time job offer from a U.S. employer.
+      - A labor certification (PERM) approved by the Department of Labor (DOL).
+      - Evidence that the worker meets the qualifications for the offered position.
+    
+    ## EB-3 Application Process
+    
+    The application steps for an EB-3 visa are as follows:
+      
+      1. **PERM Labor Certification:** The employer must complete the PERM process, including recruitment and obtaining a prevailing wage determination.
+      2. **Form I-140 Petition:** The employer submits Form I-140 to USCIS on behalf of the applicant.
+      3. **Priority Date and Visa Bulletin:** Applicants wait for their priority date to become current according to the Visa Bulletin.
+      4. **Adjustment of Status or Consular Processing:** If in the U.S., the applicant files Form I-485; if outside the U.S., they proceed with consular processing.
+      5. **Green Card Issuance:** Following approval, the applicant and their dependents receive their green cards.
+    
+    ## Forms
+    
+    - **Form ETA-9089:** PERM application for labor certification.
+    - **Form I-140:** Immigrant Petition for Alien Worker, filed by the U.S. employer.
+    - **Form I-485:** For applicants within the United States to adjust their status.
+    
+    ## FAQs
+    
+    ### What is the difference between EB-2 and EB-3?
+      
+      EB-2 is intended for professionals with advanced degrees or exceptional ability, while EB-3 encompasses skilled workers, professionals, and other workers with less stringent qualifications.
+      
+      ### How long does the EB-3 process take?
+      
+      The processing time varies depending on the applicant's country of chargeability, the current priority date, and USCIS processing times for the I-140 and I-485.
+      
+      ### Can family members accompany the EB-3 applicant?
+      
+      Yes, spouses and unmarried children under 21 may apply for green cards as dependents of the EB-3 applicant.
+      
+      ### Can EB-3 applicants change jobs during the process?
+      
+      Job changes are possible but can be complicated, especially if the I-485 has not yet been approved. It's advisable to consult with an immigration attorney before making changes.
+      
+      ### Is a job offer required for EB-3?
+      
+      Yes, a permanent, full-time job offer from a U.S. employer is required for EB-3 applicants.
+      
+      ### What happens if the PERM application is audited?
+      
+      An audit can extend the processing time of the PERM application. The employer must provide additional information as requested by the DOL.
+      
+      ### Is legal representation recommended for EB-3 applications?
+      
+      While not mandatory, navigating the complexities of the EB-3 immigration process often benefits from the expertise of an experienced immigration attorney.
+      
+      This Markdown document is crafted to provide an informative overview of the EB-3 visa process, offering clear guidance for individuals seeking permanent residency through skilled, professional, or other work in the United States.
     <SecurityDefinitions />
 
   version: 1.0.0

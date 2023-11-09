@@ -6,38 +6,82 @@ servers:
     description: Sandbox server
 info:
   description: |
-    This is a sample server Petstore server.
-    You can find out more about Swagger at
-    [http://swagger.io](http://swagger.io) or on [irc.freenode.net, #swagger](http://swagger.io/irc/).
-    For this sample, you can use the api key `special-key` to test the authorization filters.
-
-    # Introduction  sss
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # OpenAPI Specification
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # Cross-Origin Resource Sharing   ssssss
-    This API features Cross-Origin Resource Sharing (CORS) implemented in compliance with  [W3C spec](https://www.w3.org/TR/cors/).
-    And that allows cross-domain communication from the browser.
-    All responses have a wildcard same-origin which makes them completely public and accessible to everyone, including any code on any site.
-
-    # Authentication
-
-    Petstore offers two forms of authentication:
-      - API Key
-      - OAuth2
-    OAuth2 - an open protocol to allow secure authorization in a simple
-    and standard method from web, mobile and desktop applications.
-
+    # EB-2 NIW (National Interest Waiver) Overview
+    
+    ## What is EB-2 NIW?
+    
+      EB-2 NIW refers to the second preference employment-based immigration category that includes a National Interest Waiver. It is for foreign nationals of exceptional ability in the sciences, arts, or business, and advanced-degree professionals. The NIW allows these individuals to waive the job offer and labor certification requirements if they can demonstrate that their work benefits the United States.
+    
+      **Advantages:**
+    - No job offer or labor certification required
+    - Self-petition is possible; no employer sponsorship needed
+    - Flexibility to change jobs or employers
+    
+    ## Requirements for EB-2 NIW
+    
+    To qualify for an EB-2 NIW, candidates must meet the following criteria:
+    
+      - Hold an advanced degree or its equivalent, or a bachelor's degree with five years of progressive experience
+      - Show exceptional ability in the sciences, arts, or business
+      - Prove that their work has substantial merit and national importance
+      - Demonstrate that they are well-positioned to advance the proposed endeavor
+      - Persuade that it would be beneficial to the United States to waive the job offer and labor certification requirements
+    
+    ## Application Requirements for EB-2 NIW
+    
+    Applicants must submit:
+    
+      - Evidence of an advanced degree or exceptional ability
+      - Documentation supporting the national interest claim
+      - Letters of recommendation from experts in the field
+      - Proof of a past record of achievements and contributions
+    
+    ## EB-2 NIW Application Process
+    
+    The application process typically involves:
+    
+      1. **Evidence Collection:** Gathering documentation to demonstrate qualifications and national interest.
+      2. **Form I-140 Petition:** Self-petitioning to USCIS with a request for a National Interest Waiver.
+      3. **USCIS Adjudication:** Review of the petition by USCIS, which may include a request for additional evidence.
+      4. **Adjustment of Status or Consular Processing:** Upon approval, if in the U.S., file Form I-485 for adjustment of status; if outside, go through consular processing.
+      5. **Green Card Issuance:** After approval, the applicant receives a green card, becoming a lawful permanent resident.
+    
+    ## Forms
+    
+    - **Form I-140:** Petition for an alien worker, filed with a request for a National Interest Waiver.
+    - **Form I-485:** For applicants within the United States to adjust their status to permanent resident.
+    
+    ## FAQs
+    
+    ### What is the difference between EB-2 and EB-2 NIW?
+      
+      The EB-2 NIW is a subset of the EB-2 category that does not require a job offer or labor certification due to the waiver of the national interest.
+      
+      ### What constitutes the 'national interest'?
+      
+      The national interest is not strictly defined but generally includes work that has a significant impact on the U.S. economy, healthcare, education, technology, or other critical sectors.
+      
+      ### How long does the EB-2 NIW process take?
+      
+      The timeline can vary widely, but processing times for Form I-140 under EB-2 NIW can range from several months to over a year.
+      
+      ### Can family members accompany the EB-2 NIW applicant?
+      
+      Yes, spouses and unmarried children under 21 may apply for green cards as dependents.
+      
+      ### Can EB-2 NIW applicants change jobs or employers?
+      
+      Yes, due to the self-petitioning nature of the NIW, visa holders have job flexibility.
+      
+      ### What evidence is required for an EB-2 NIW?
+      
+      Evidence includes a résumé, publications, letters of recommendation, and documentation of work that serves the national interest.
+      
+      ### Is legal assistance recommended for EB-2 NIW applications?
+      
+      While not mandatory, navigating the complexities of an NIW petition often benefits from professional legal guidance.
+      
+      This Markdown document is structured to provide a concise and accessible overview of the EB-2 NIW visa category, suitable for individuals seeking to understand the pathway to U.S. permanent residency through this route.
     <SecurityDefinitions />
 
   version: 1.0.0

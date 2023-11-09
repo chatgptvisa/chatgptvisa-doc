@@ -6,38 +6,79 @@ servers:
     description: Sandbox server
 info:
   description: |
-    This is a sample server Petstore server.
-    You can find out more about Swagger at
-    [http://swagger.io](http://swagger.io) or on [irc.freenode.net, #swagger](http://swagger.io/irc/).
-    For this sample, you can use the api key `special-key` to test the authorization filters.
-
-    # Introduction  sss
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # OpenAPI Specification
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # Cross-Origin Resource Sharing   ssssss
-    This API features Cross-Origin Resource Sharing (CORS) implemented in compliance with  [W3C spec](https://www.w3.org/TR/cors/).
-    And that allows cross-domain communication from the browser.
-    All responses have a wildcard same-origin which makes them completely public and accessible to everyone, including any code on any site.
-
-    # Authentication
-
-    Petstore offers two forms of authentication:
-      - API Key
-      - OAuth2
-    OAuth2 - an open protocol to allow secure authorization in a simple
-    and standard method from web, mobile and desktop applications.
-
+    # EB-1C Overview
+    
+    ## What is EB-1C?
+    
+      EB-1C is a United States immigration category designed for multinational executives and managers. It allows international companies to transfer key personnel to their U.S. operations.
+    
+      **Advantages:**
+    - Direct path to a green card for global company leaders
+    - No labor certification required
+    - Employer sponsorship is necessary
+    
+    ## Requirements for EB-1C
+    
+    To qualify for EB-1C, candidates must meet specific criteria:
+    
+      - Must have been employed outside the United States in the 3 years preceding the petition for at least 1 year by a firm or corporation
+      - Seeking to enter the United States to continue service to that firm or organization
+      - Employment must have been outside the U.S. in a managerial or executive capacity and with the same employer, an affiliate, or a subsidiary of the employer
+    
+    ## Application Requirements for EB-1C
+    
+    Necessary documents for an EB-1C application typically include:
+    
+      - Proof of the foreign company’s affiliation with the U.S. business
+      - Documentation showing that the candidate has been employed in a qualifying managerial or executive position
+      - Evidence that the U.S. company has been doing business for at least 1 year
+    
+    ## EB-1C Application Process
+    
+    The application process for an EB-1C visa can be outlined in the following steps:
+    
+      1. **Employment Verification:** Confirmation of the applicant’s role as an executive or manager in a company outside the U.S.
+      2. **Form I-140 Petition:** Filed by the U.S. employer demonstrating the executive/managerial capacity of the role.
+      3. **USCIS Review:** The petition is evaluated by USCIS, which can take several months.
+      4. **Adjustment of Status or Consular Processing:** If the I-140 is approved and a visa is available, the applicant can either adjust their status in the U.S. using Form I-485 or undergo consular processing if they are outside the U.S.
+      5. **Obtaining the Green Card:** After approval of the adjustment of status or the immigrant visa, the applicant becomes a lawful permanent resident.
+    
+    ## Forms
+    
+    - **Form I-140:** Filed by the U.S. employer for the multinational executive or manager.
+    - **Form I-485:** For applicants within the United States to adjust their status to permanent resident.
+    
+    ## FAQs
+    
+    ### What is the difference between EB-1C and L-1A visas?
+      
+      While both are for multinational managers or executives, the L-1A is a non-immigrant visa allowing temporary stay, whereas EB-1C offers a permanent residency pathway.
+      
+      ### Can a new company qualify for EB-1C?
+      
+      The U.S. company must have been in existence for at least 1 year and be related to the foreign entity.
+      
+      ### How long does the EB-1C process take?
+      
+      Processing times vary based on the service center and individual circumstances, but it generally takes several months for I-140 processing.
+      
+      ### Can family members accompany the EB-1C applicant?
+      
+      Yes, spouses and unmarried children under 21 may seek admission as dependents.
+      
+      ### Is an EB-1C applicant required to maintain a foreign residence?
+      
+      No, EB-1C applicants do not need to maintain a foreign residence and are expected to move permanently to the U.S.
+      
+      ### What evidence is required for EB-1C?
+      
+      Evidence includes documents proving the managerial or executive role, the relationship between the U.S. and foreign company, and the U.S. company's ability to support the executive or managerial position.
+      
+      ### Should applicants use an immigration attorney for EB-1C?
+      
+      Given the complexity of the EB-1C petition and the high stakes for businesses, it is often advisable to work with an experienced immigration attorney.
+      
+      This Markdown document is crafted to provide an informative and clear summary of the EB-1C visa category, formatted for easy reading and accessibility.
     <SecurityDefinitions />
 
   version: 1.0.0
