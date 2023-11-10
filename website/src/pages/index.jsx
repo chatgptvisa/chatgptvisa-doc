@@ -57,7 +57,7 @@ function VisaInfo() {
           <span>
             {/* Ensure this GitHub button is linked to a repository that offers additional resources or code for managing immigration documents */}
             <iframe
-              src="https://ghbtns.com/github-btn.html?user=your-username&repo=your-repo&type=star&count=true&size=large"
+              src="https://github.com/chatgptvisa&repo=chatgptvisa-doc&type=star&count=true&size=large"
               width={160}
               height={30}
               title="GitHub Stars"
