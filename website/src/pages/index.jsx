@@ -36,6 +36,15 @@ const sections = [
   },
 ];
 
+
+/**
+ *
+ * @param {{
+ *   title: string | React.ReactNode;
+ *   description: string | React.ReactNode;
+ *   link?: string;
+ * }} param0
+ */
 function Section({ title, description, link }) {
   const sectionComponent = <h3>{title}</h3>;
   const fullLink = useBaseUrl(link);
@@ -47,17 +56,16 @@ function Section({ title, description, link }) {
   );
 }
 
-function VisaInfo() {
+function Docs() {
   return (
-    <Layout title="US Visa Information Hub" description="Comprehensive guides and resources for US immigration">
+    <Layout title="Redocusaurus" description="OpenAPI documentation solution">
       <header className={clsx('hero hero--primary', styles.heroBanner)}>
         <div className="container">
-          <h1 className="hero__title">US Visa Information Hub</h1>
-          <p>A one-stop resource for all your US immigration and visa information needs.</p>
+          <h1 className="hero__title">Redocusaurus</h1>
+          <p>OpenAPI solution for Docusaurus docs using Redoc</p>
           <span>
-            {/* Ensure this GitHub button is linked to a repository that offers additional resources or code for managing immigration documents */}
             <iframe
-              src="https://github.com/chatgptvisa&repo=chatgptvisa-doc&type=star&count=true&size=large"
+              src="https://ghbtns.com/github-btn.html?user=rohit-gohri&amp;repo=redocusaurus&amp;type=star&amp;count=true&amp;size=large"
               width={160}
               height={30}
               title="GitHub Stars"
@@ -82,4 +90,4 @@ function VisaInfo() {
   );
 }
 
-export default VisaInfo;
+export default Docs;
