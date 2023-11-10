@@ -6,38 +6,70 @@ servers:
     description: Sandbox server
 info:
   description: |
-    This is a sample server Petstore server.
-    You can find out more about Swagger at
-    [http://swagger.io](http://swagger.io) or on [irc.freenode.net, #swagger](http://swagger.io/irc/).
-    For this sample, you can use the api key `special-key` to test the authorization filters.
-
-    # Introduction  sss
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # OpenAPI Specification
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # Cross-Origin Resource Sharing   ssssss
-    This API features Cross-Origin Resource Sharing (CORS) implemented in compliance with  [W3C spec](https://www.w3.org/TR/cors/).
-    And that allows cross-domain communication from the browser.
-    All responses have a wildcard same-origin which makes them completely public and accessible to everyone, including any code on any site.
-
-    # Authentication
-
-    Petstore offers two forms of authentication:
-      - API Key
-      - OAuth2
-    OAuth2 - an open protocol to allow secure authorization in a simple
-    and standard method from web, mobile and desktop applications.
-
+    # U Visa Detailed Overview
+    
+    ## What is the U Visa?
+    
+      The U nonimmigrant status (U visa) is set aside for victims of certain crimes who have suffered mental or physical abuse and are helpful to law enforcement or government officials in the investigation or prosecution of criminal activity. The legislation is intended to strengthen the ability of law enforcement agencies to investigate and prosecute cases of domestic violence, sexual assault, trafficking, and other crimes while also protecting victims of crimes who have suffered substantial mental or physical abuse due to the crime and are willing to help law enforcement authorities in the investigation of criminal activity.
+    
+    ## Qualifications for U Visa
+    
+    To be eligible for a U visa, an individual must:
+    
+      - Have been a victim of qualifying criminal activity.
+      - Have suffered substantial physical or mental abuse as a result of being a victim of these criminal activities.
+      - Have information concerning that criminal activity.
+      - Have been helpful, is being helpful, or is likely to be helpful in the investigation or prosecution of the crime.
+      - The crime occurred in the United States or violated U.S. laws.
+      - Be admissible to the United States, or apply for a waiver of certain grounds of inadmissibility.
+    
+    ## U Visa Application Process
+    
+    1. **Form I-918**: Complete and submit Form I-918, Petition for U Nonimmigrant Status, to USCIS.
+    
+    2. **Personal Statement**: Provide a personal statement describing the criminal activity and how you were a victim.
+    
+    3. **Certification of Helpfulness**: Obtain a certification from a law enforcement agency, prosecutor, judge, or other authority that confirms your helpfulness (Form I-918, Supplement B).
+    
+    4. **Evidence**: Submit evidence documenting the nature of the abuse suffered and your cooperation with law enforcement.
+    
+    5. **Admissibility Waiver**: If applicable, file Form I-192, Application for Advance Permission to Enter as a Nonimmigrant, to request a waiver for inadmissibility.
+    
+    6. **Biometrics Appointment**: Attend a biometrics appointment if requested by USCIS for fingerprinting and background checks.
+    
+      ## Duration and Limits of U Visa
+    
+      - The U visa is initially granted for four years. Extensions are available under certain conditions, such as a request from law enforcement, a pending family petition, or exceptional circumstances.
+    
+      ## FAQs about U Visa
+    
+      ### Can U visa holders apply for a green card?
+    
+      - Yes, U visa holders may be eligible to apply for lawful permanent residence (a green card) after three years of continuous physical presence in the U.S. while in U nonimmigrant status.
+    
+      ### Can U visa holders work in the U.S.?
+    
+      - U visa recipients automatically receive work authorization as part of their U visa status. An Employment Authorization Document (EAD) is issued once the U visa is granted.
+    
+      ### Can family members accompany U visa holders to the U.S.?
+    
+      - Certain qualifying family members may be eligible for a derivative U visa status (U-2, U-3, U-4, U-5 visas) depending on the principal victim’s age and family relationship.
+    
+      ### Are U visa holders eligible for federal and state benefits?
+    
+      - U visa holders may be eligible for certain benefits similar to those provided to refugees.
+    
+      ### What if a U visa holder's circumstances change?
+    
+      - U visa holders should notify USCIS of any changes in their address, legal representation, or other pertinent information.
+    
+      ## Tips for U Visa Applicants
+    
+      - Document all interactions with law enforcement and any contributions to the investigation or prosecution of the crime.
+      - Seek assistance from legal professionals or victim assistance programs experienced in U visa applications.
+      - Ensure to report any changes in your circumstances to USCIS and maintain records of your physical presence in the U.S.
+    
+      This Markdown document serves as a comprehensive guide for individuals seeking the U visa as a form of relief and cooperation with law enforcement in the United States, detailing the application process, eligibility requirements, and providing answers to common questions for victims of crimes.
     <SecurityDefinitions />
 
   version: 1.0.0

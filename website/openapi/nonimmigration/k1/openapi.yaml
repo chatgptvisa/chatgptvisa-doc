@@ -6,38 +6,71 @@ servers:
     description: Sandbox server
 info:
   description: |
-    This is a sample server Petstore server.
-    You can find out more about Swagger at
-    [http://swagger.io](http://swagger.io) or on [irc.freenode.net, #swagger](http://swagger.io/irc/).
-    For this sample, you can use the api key `special-key` to test the authorization filters.
-
-    # Introduction  sss
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # OpenAPI Specification
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # Cross-Origin Resource Sharing   ssssss
-    This API features Cross-Origin Resource Sharing (CORS) implemented in compliance with  [W3C spec](https://www.w3.org/TR/cors/).
-    And that allows cross-domain communication from the browser.
-    All responses have a wildcard same-origin which makes them completely public and accessible to everyone, including any code on any site.
-
-    # Authentication
-
-    Petstore offers two forms of authentication:
-      - API Key
-      - OAuth2
-    OAuth2 - an open protocol to allow secure authorization in a simple
-    and standard method from web, mobile and desktop applications.
-
+    # K-1 Visa Detailed Overview
+    
+    ## What is the K-1 Visa?
+      
+      The K-1 visa, commonly known as the fiancé(e) visa, allows the foreign-citizen fiancé(e) of a United States citizen to travel to the United States to marry their U.S. citizen sponsor within 90 days of arrival. After the marriage, the foreign citizen can apply for adjustment of status to a permanent resident (LPR) with the Department of Homeland Security (DHS), U.S. Citizenship and Immigration Services (USCIS).
+    
+    ## Qualifications for K-1 Visa
+    
+    To qualify for a K-1 visa:
+    
+      - The petitioner must be a U.S. citizen.
+      - Both the U.S. citizen and the foreign-citizen fiancé(e) must be free to marry at the time the petition is filed and must have remained so thereafter.
+      - The couple must have met in person at least once within the two years before filing the visa petition, unless meeting in person would violate strict and long-established customs, or would create extreme hardship for the U.S. citizen.
+      - There must be a genuine intention to marry within 90 days of the fiancé(e)'s arrival in the U.S.
+    
+    ## K-1 Visa Application Process
+    
+    1. **Petition for Alien Fiancé(e)**: The U.S. citizen sponsor must file Form I-129F, Petition for Alien Fiancé(e), with USCIS.
+    
+    2. **Visa Application**: Once the petition is approved, the foreign-citizen fiancé(e) can apply for the K-1 visa.
+    
+    3. **DS-160 Form**: Complete the Online Nonimmigrant Visa Application and print the confirmation page.
+    
+    4. **Visa Fee**: Pay the non-refundable visa application fee.
+    
+    5. **Schedule an Interview**: The fiancé(e) must schedule an interview at the U.S. Embassy or Consulate in their home country.
+    
+    6. **Prepare Documentation**: Gather all required documents, including the DS-160 confirmation page, a passport valid for travel to the United States, birth certificate, divorce or death certificate of any previous spouse for both the applicant and the petitioner, police certificates, medical examination, evidence of financial support, and evidence of the relationship with the U.S. citizen sponsor.
+    
+    7. **Attend the Visa Interview**: The consular officer will determine if the K-1 visa will be issued during the interview.
+      
+      ## Duration and Limits of K-1 Visa
+    
+      - The K-1 visa is a single-entry visa valid for 6 months from the date of issuance.
+      
+      ## FAQs about K-1 Visa
+      
+      ### Can K-1 visa holders work in the U.S.?
+    
+      - Yes, K-1 visa holders can apply for employment authorization using Form I-765, Application for Employment Authorization.
+      
+      ### Can K-1 visa holders travel outside the U.S.?
+    
+      - Once in the U.S., K-1 visa holders are advised to not leave the country until after they are married and have applied for adjustment of status to permanent residence. If necessary, they can apply for Advance Parole.
+      
+      ### What happens if the marriage does not take place within 90 days?
+    
+      - If the marriage does not occur within 90 days, the K-1 visa holder must leave the United States before the visa expires.
+      
+      ### Can K-1 visa holders bring their children?
+    
+      - Unmarried children under 21, known as K-2 visa holders, may accompany or follow to join the K-1 visa holder.
+      
+      ### Can the K-1 visa be extended?
+    
+      - No, the K-1 visa cannot be extended. The marriage must take place within 90 days of entry into the United States.
+      
+      ## Tips for K-1 Visa Applicants
+    
+      - Ensure all documents, especially proof of relationship and intent to marry, are authentic and well-organized.
+      - Be prepared for the interview with comprehensive knowledge of your fiancé(e) and the details of your relationship.
+      - Understand the financial requirements and have evidence of the U.S. citizen's ability to support the fiancé(e).
+      - Be mindful of the timeline once in the U.S. to marry and adjust status to avoid unlawful presence.
+      
+      This Markdown document provides an extensive guide for individuals engaged to U.S. citizens, detailing the K-1 visa process, eligibility requirements, and important considerations for those seeking to enter the United States for marriage and potential permanent residency.
     <SecurityDefinitions />
 
   version: 1.0.0

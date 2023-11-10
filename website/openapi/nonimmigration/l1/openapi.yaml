@@ -6,38 +6,72 @@ servers:
     description: Sandbox server
 info:
   description: |
-    This is a sample server Petstore server.
-    You can find out more about Swagger at
-    [http://swagger.io](http://swagger.io) or on [irc.freenode.net, #swagger](http://swagger.io/irc/).
-    For this sample, you can use the api key `special-key` to test the authorization filters.
-
-    # Introduction  sss
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # OpenAPI Specification
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # Cross-Origin Resource Sharing   ssssss
-    This API features Cross-Origin Resource Sharing (CORS) implemented in compliance with  [W3C spec](https://www.w3.org/TR/cors/).
-    And that allows cross-domain communication from the browser.
-    All responses have a wildcard same-origin which makes them completely public and accessible to everyone, including any code on any site.
-
-    # Authentication
-
-    Petstore offers two forms of authentication:
-      - API Key
-      - OAuth2
-    OAuth2 - an open protocol to allow secure authorization in a simple
-    and standard method from web, mobile and desktop applications.
-
+    # L-1 Visa Detailed Overview
+    
+    ## What is the L-1 Visa?
+    
+      The L-1 visa is a non-immigrant visa that allows companies operating both in the U.S. and abroad to transfer certain classes of employees from its foreign operations to the U.S. operations for up to seven years. The employee must have worked for the subsidiary, parent, affiliate, or branch office of the company outside of the U.S. for at least one year out of the last three years.
+    
+    ## Qualifications for L-1 Visa
+    
+    There are two types of L-1 visa:
+    
+      ### L-1A for Managers and Executives:
+      - The employee must have been employed in a managerial or executive capacity, and is being transferred to the U.S. to serve in a managerial or executive role.
+    
+      ### L-1B for Workers with Specialized Knowledge:
+      - The employee possesses specialized knowledge of the company's products, services, research, equipment, techniques, management, or procedures.
+    
+    ## L-1 Visa Application Process
+    
+    1. **Petition**: The U.S. employer must file Form I-129, Petition for a Nonimmigrant Worker, with USCIS on behalf of the employee.
+    
+    2. **Approval**: Once the I-129 petition is approved, the employee can apply for the L-1 visa at a U.S. Embassy or Consulate.
+    
+    3. **DS-160 Form**: Complete the Online Nonimmigrant Visa Application and print the confirmation page.
+    
+    4. **Visa Fee**: Pay the non-refundable visa application fee.
+    
+    5. **Schedule an Interview**: Book an interview at the U.S. Embassy or Consulate in the employee's home country.
+    
+    6. **Prepare Documentation**: Gather required documents, including the DS-160 confirmation page, a valid passport, the I-129 petition receipt, and supporting evidence of qualification for the L-1 visa.
+    
+    7. **Attend the Visa Interview**: The consular officer will determine eligibility for the L-1 visa during the interview.
+    
+      ## Duration and Limits of L-1 Visa
+    
+      - The L-1A visa is valid for up to seven years, while the L-1B visa is valid for up to five years.
+      - Initially, L-1 visas may be granted for up to three years, with extensions in two-year increments.
+    
+      ## FAQs about L-1 Visa
+    
+      ### Can L-1 visa holders apply for a green card?
+    
+      - Yes, L-1 visa holders can apply for a green card without going through the labor certification process.
+    
+      ### Can L-1 visa holders bring their families to the U.S.?
+    
+      - Yes, spouses and unmarried children under 21 can apply for L-2 visas. Spouses may also apply for work authorization.
+    
+      ### Is there a cap on L-1 visas?
+    
+      - There is currently no annual cap on the number of L-1 visas that can be issued.
+    
+      ### Can L-1 visa holders work for another employer?
+    
+      - No, L-1 visa holders are limited to work for the sponsoring employer in the capacity specified in the visa petition.
+    
+      ### What if the U.S. job ends before the visa expiration?
+    
+      - If the L-1 employment ends, the visa holder must either find another eligible employer to file a new petition or leave the United States.
+    
+      ## Tips for L-1 Visa Applicants
+    
+      - Ensure the petitioning employer provides a detailed description of the managerial, executive, or specialized knowledge role.
+      - Maintain a detailed record of employment for the one-year foreign requirement.
+      - Prepare to demonstrate the intent to depart the U.S. upon visa expiration, despite eligibility for a green card.
+    
+      This Markdown document offers a comprehensive guide for understanding the L-1 visa, outlining the application process, eligibility requirements, and important considerations for foreign nationals being transferred to a U.S. office, as well as for the companies sponsoring such transfers.
     <SecurityDefinitions />
 
   version: 1.0.0

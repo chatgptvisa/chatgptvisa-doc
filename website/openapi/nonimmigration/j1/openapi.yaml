@@ -6,38 +6,71 @@ servers:
     description: Sandbox server
 info:
   description: |
-    This is a sample server Petstore server.
-    You can find out more about Swagger at
-    [http://swagger.io](http://swagger.io) or on [irc.freenode.net, #swagger](http://swagger.io/irc/).
-    For this sample, you can use the api key `special-key` to test the authorization filters.
+    # J-1 Visa Detailed Overview
 
-    # Introduction  sss
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
+    ## What is the J-1 Visa?
 
-    # OpenAPI Specification
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
+    The J-1 visa is a non-immigrant visa for individuals approved to participate in exchange visitor programs in the United States. It's designed for students, scholars, trainees, teachers, professors, research assistants, specialists, or leaders in a field of specialized knowledge or skill, among others.
 
-    # Cross-Origin Resource Sharing   ssssss
-    This API features Cross-Origin Resource Sharing (CORS) implemented in compliance with  [W3C spec](https://www.w3.org/TR/cors/).
-    And that allows cross-domain communication from the browser.
-    All responses have a wildcard same-origin which makes them completely public and accessible to everyone, including any code on any site.
+    ## Qualifications for J-1 Visa
 
-    # Authentication
+    Eligibility for the J-1 visa varies based on the exchange category but generally includes:
 
-    Petstore offers two forms of authentication:
-      - API Key
-      - OAuth2
-    OAuth2 - an open protocol to allow secure authorization in a simple
-    and standard method from web, mobile and desktop applications.
+      - Acceptance into a certified exchange visitor program.
+      - Adequate financial backing to cover all expenses in the U.S.
+      - Sufficient proficiency in English to participate in the program.
+      - A plan to return to the home country after the exchange program ends.
 
+    ## J-1 Visa Application Process
+
+    1. **Program Acceptance**: Secure a position in an approved exchange visitor program and obtain a Form DS-2019, Certificate of Eligibility for Exchange Visitor Status.
+
+    2. **SEVIS Fee**: Pay the SEVIS I-901 fee to enroll in the Student and Exchange Visitor Information System (SEVIS).
+
+    3. **Form DS-160**: Complete the Online Nonimmigrant Visa Application and print the confirmation page.
+
+    4. **Visa Fee**: Pay the non-refundable visa application fee.
+
+    5. **Schedule an Interview**: Book an interview at the U.S. Embassy or Consulate in the applicant's home country.
+
+    6. **Prepare Documentation**: Gather all necessary documents, including passport, DS-160 confirmation page, Form DS-2019, and financial evidence.
+
+    7. **Attend the Visa Interview**: A consular officer will conduct the interview to determine if the applicant is qualified for the J-1 visa.
+
+      ## Duration and Limits of J-1 Visa
+
+      - The duration of the J-1 visa varies by program and can range from a few weeks to several years. Program-specific end dates are outlined on Form DS-2019.
+
+      ## FAQs about J-1 Visa
+
+      ### Can J-1 visa holders work in the U.S.?
+
+      - J-1 visa holders can work as part of their approved exchange program. Unauthorized employment is not allowed.
+
+      ### Can J-1 visa holders travel outside the U.S. and return?
+
+      - Yes, but they must have a valid J-1 visa stamp and a properly endorsed Form DS-2019.
+
+      ### Are J-1 visa holders subject to the Two-Year Home-Country Physical Presence Requirement?
+
+      - Some J-1 visa holders are subject to this requirement, which means they must return to their home country for two years after their program ends. This is dependent on the exchange program's funding and the skills list for the visa holder's home country.
+
+      ### Can J-1 visa holders change their visa status?
+
+      - In some cases, J-1 visa holders can change to a different non-immigrant status or adjust to permanent resident status if they are not subject to the Two-Year Home-Country Physical Presence Requirement.
+
+      ### Can family members accompany J-1 visa holders?
+
+      - Spouses and unmarried children under 21 may apply for J-2 visas, and they may study or work if they obtain employment authorization.
+
+      ## Tips for J-1 Visa Applicants
+
+      - Understand the specific requirements and restrictions of your exchange visitor program.
+      - Maintain health insurance coverage as mandated by the J-1 visa program regulations.
+      - Keep track of your program end date and plan your departure or any status changes accordingly.
+      - Be aware of the rules regarding the Two-Year Home-Country Physical Presence Requirement and its implications for future U.S. visas or status adjustments.
+
+    This Markdown document provides a thorough guide for individuals considering participation in exchange visitor programs in the United States under the J-1 visa, covering the application process, eligibility, program durations, and frequently asked questions about the exchange visitor experience.
     <SecurityDefinitions />
 
   version: 1.0.0

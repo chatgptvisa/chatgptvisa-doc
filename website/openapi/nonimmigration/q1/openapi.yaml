@@ -6,38 +6,70 @@ servers:
     description: Sandbox server
 info:
   description: |
-    This is a sample server Petstore server.
-    You can find out more about Swagger at
-    [http://swagger.io](http://swagger.io) or on [irc.freenode.net, #swagger](http://swagger.io/irc/).
-    For this sample, you can use the api key `special-key` to test the authorization filters.
-
-    # Introduction  sss
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # OpenAPI Specification
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # Cross-Origin Resource Sharing   ssssss
-    This API features Cross-Origin Resource Sharing (CORS) implemented in compliance with  [W3C spec](https://www.w3.org/TR/cors/).
-    And that allows cross-domain communication from the browser.
-    All responses have a wildcard same-origin which makes them completely public and accessible to everyone, including any code on any site.
-
-    # Authentication
-
-    Petstore offers two forms of authentication:
-      - API Key
-      - OAuth2
-    OAuth2 - an open protocol to allow secure authorization in a simple
-    and standard method from web, mobile and desktop applications.
-
+    # Q-1 Visa Detailed Overview
+    
+    ## What is the Q-1 Visa?
+    
+      The Q-1 visa is a non-immigrant visa for individuals seeking to participate in international cultural exchange programs in the United States. The program is designed to provide practical training and employment, and to share the history, culture, and traditions of the participant's home country with the United States.
+    
+    ## Qualifications for Q-1 Visa
+    
+    To be eligible for a Q-1 visa:
+    
+      - The applicant must be at least 18 years old.
+      - The program must be a cultural exchange that takes place at a school, museum, business, or other establishment where the public, or at least a segment of the public, is exposed to aspects of a foreign culture as part of a structured program.
+      - The applicant must have the ability to communicate effectively about the cultural attributes of their country.
+      - The applicant must be qualified to perform the service or labor or receive the type of training stated in the petition.
+    
+    ## Q-1 Visa Application Process
+    
+    1. **Petition**: Unlike most other non-immigrant visas, there is no form to petition for the Q-1 visa. The U.S. employer must submit evidence and documentation directly to USCIS to demonstrate that the cultural exchange program meets the Q-1 requirements.
+    
+    2. **Approval**: Once the petition is approved, the applicant can apply for the Q-1 visa.
+    
+    3. **DS-160 Form**: Complete the Online Nonimmigrant Visa Application and print the confirmation page.
+    
+    4. **Visa Fee**: Pay the non-refundable visa application fee.
+    
+    5. **Schedule an Interview**: Book an interview at the U.S. Embassy or Consulate in the applicant's home country.
+    
+    6. **Prepare Documentation**: Gather required documents, including a valid passport, DS-160 confirmation page, and evidence of the approved cultural exchange program.
+    
+    7. **Attend the Visa Interview**: A consular officer will determine the applicant's eligibility during the interview.
+    
+      ## Duration and Limits of Q-1 Visa
+    
+      - The Q-1 visa is typically granted for the duration of the cultural exchange program, up to a maximum of 15 months.
+    
+      ## FAQs about Q-1 Visa
+    
+      ### Can Q-1 visa holders extend their stay in the U.S.?
+    
+      - No, the Q-1 visa does not allow for extensions. Participants must leave the U.S. within 30 days of the end of their cultural exchange program.
+    
+      ### Can Q-1 visa holders change their status to another non-immigrant visa?
+    
+      - Q-1 visa holders may apply for a change of status to another non-immigrant visa category if they meet the eligibility requirements for that category.
+    
+      ### Can family members accompany Q-1 visa holders to the U.S.?
+    
+      - No, there are no derivative visa categories for the family members of Q-1 visa holders. Family members must qualify for a visa classification on their own.
+    
+      ### Are Q-1 visa holders eligible for a green card?
+    
+      - The Q-1 visa is for cultural exchange purposes and does not directly lead to permanent residence. However, Q-1 visa holders may seek a green card through other eligible avenues, like family-based petitions.
+    
+      ### Can Q-1 visa holders participate in another cultural exchange program after their visa expires?
+    
+      - After completing the Q-1 program and departing the U.S., individuals may apply for another Q-1 visa, but they must be outside the U.S. for at least one year before applying again.
+    
+      ## Tips for Q-1 Visa Applicants
+    
+      - Ensure the cultural exchange program is well-documented, with a clear description of the events and activities that constitute the cultural exchange.
+      - Maintain a record of qualifications and experience that make you eligible to participate in the program.
+      - Prepare to discuss the cultural elements of your program during the visa interview.
+    
+      This Markdown document offers an informative guide for individuals considering the Q-1 visa for participation in cultural exchange programs in the United States, detailing the application process, eligibility requirements, and important considerations for applicants aiming to share their culture while gaining practical training and employment.
     <SecurityDefinitions />
 
   version: 1.0.0

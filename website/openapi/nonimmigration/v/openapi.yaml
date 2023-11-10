@@ -6,38 +6,69 @@ servers:
     description: Sandbox server
 info:
   description: |
-    This is a sample server Petstore server.
-    You can find out more about Swagger at
-    [http://swagger.io](http://swagger.io) or on [irc.freenode.net, #swagger](http://swagger.io/irc/).
-    For this sample, you can use the api key `special-key` to test the authorization filters.
-
-    # Introduction  sss
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # OpenAPI Specification
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # Cross-Origin Resource Sharing   ssssss
-    This API features Cross-Origin Resource Sharing (CORS) implemented in compliance with  [W3C spec](https://www.w3.org/TR/cors/).
-    And that allows cross-domain communication from the browser.
-    All responses have a wildcard same-origin which makes them completely public and accessible to everyone, including any code on any site.
-
-    # Authentication
-
-    Petstore offers two forms of authentication:
-      - API Key
-      - OAuth2
-    OAuth2 - an open protocol to allow secure authorization in a simple
-    and standard method from web, mobile and desktop applications.
-
+    # V Visa Detailed Overview
+    
+    ## What is the V Visa?
+    
+      The V visa is a non-immigrant visa created to allow families to stay together while waiting for the processing of immigrant visas. It's designated for the spouses and unmarried children under the age of 21 of lawful permanent residents (LPRs) of the United States. The V visa was established under the Legal Immigration Family Equity (LIFE) Act and Amendments of 2000.
+    
+    ## Qualifications for V Visa
+    
+    To be eligible for a V visa:
+    
+      - The individual must be the spouse or child of a U.S. lawful permanent resident (LPR).
+      - The LPR must have filed Form I-130, Petition for Alien Relative, on behalf of the family member on or before December 21, 2000.
+      - The individual must have been waiting for at least three years for their immigrant visa to become available or for USCIS to make a decision on their petition.
+    
+    ## V Visa Application Process
+    
+    1. **Form I-130 Approval**: Ensure the LPR family member has an approved Form I-130.
+    
+    2. **V Visa Petition**: File Form I-539, Application to Extend/Change Nonimmigrant Status, with USCIS to apply for the V visa classification.
+    
+    3. **DS-160 Form**: If outside the U.S., complete the Online Nonimmigrant Visa Application and print the confirmation page.
+    
+    4. **Visa Fee**: Pay the non-refundable visa application fee, if applying from outside the U.S.
+    
+    5. **Schedule an Interview**: If applicable, schedule an interview at the U.S. Embassy or Consulate in the applicant's home country.
+    
+    6. **Prepare Documentation**: Gather necessary documents, including the DS-160 confirmation page, a valid passport, and evidence of the relationship to the LPR (marriage or birth certificates).
+    
+    7. **Attend the Visa Interview**: If required, attend the visa interview at the U.S. Embassy or Consulate.
+    
+      ## Duration and Limits of V Visa
+    
+      - The V visa allows individuals to live and work in the U.S. as long as they continue to meet the eligibility requirements. There is no specific end date as it's tied to the pending status of the I-130 petition.
+    
+      ## FAQs about V Visa
+    
+      ### Can V visa holders work in the U.S.?
+    
+      - Yes, V visa holders are authorized to work in the U.S. and may apply for an Employment Authorization Document (EAD).
+    
+      ### Can V visa holders travel outside the U.S.?
+    
+      - V visa holders can travel outside the U.S. and re-enter with a valid V visa.
+    
+      ### Are V visa holders eligible for a green card?
+    
+      - The V visa is intended for individuals who are already on the path to obtaining a green card through family-based immigration. They can adjust their status to a lawful permanent resident when their priority date becomes current.
+    
+      ### What if the I-130 petition is denied?
+    
+      - If the I-130 petition is denied or revoked, the V visa will also be terminated.
+    
+      ### Can family members of V visa holders come to the U.S.?
+    
+      - Only the spouse and unmarried children under 21 of an LPR who have an approved I-130 filed before December 21, 2000, are eligible for the V visa.
+    
+      ## Tips for V Visa Applicants
+    
+      - Keep track of the I-130 petition's status and be aware of priority dates and visa bulletin updates.
+      - Maintain valid immigration status while in the U.S. and comply with all visa regulations.
+      - Document all evidence of the relationship with the LPR and retain records of any legal status changes.
+    
+      This Markdown document serves as an informative guide for spouses and children of U.S. lawful permanent residents seeking to live in the United States under the V visa category, outlining the application process, eligibility criteria, and addressing common questions related to living and working in the U.S. while waiting for immigrant visa availability.
     <SecurityDefinitions />
 
   version: 1.0.0

@@ -6,38 +6,70 @@ servers:
     description: Sandbox server
 info:
   description: |
-    This is a sample server Petstore server.
-    You can find out more about Swagger at
-    [http://swagger.io](http://swagger.io) or on [irc.freenode.net, #swagger](http://swagger.io/irc/).
-    For this sample, you can use the api key `special-key` to test the authorization filters.
-
-    # Introduction  sss
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # OpenAPI Specification
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # Cross-Origin Resource Sharing   ssssss
-    This API features Cross-Origin Resource Sharing (CORS) implemented in compliance with  [W3C spec](https://www.w3.org/TR/cors/).
-    And that allows cross-domain communication from the browser.
-    All responses have a wildcard same-origin which makes them completely public and accessible to everyone, including any code on any site.
-
-    # Authentication
-
-    Petstore offers two forms of authentication:
-      - API Key
-      - OAuth2
-    OAuth2 - an open protocol to allow secure authorization in a simple
-    and standard method from web, mobile and desktop applications.
-
+    # R-1 Visa Detailed Overview
+    
+    ## What is the R-1 Visa?
+    
+      The R-1 visa is a non-immigrant visa that allows religious workers to enter the United States to work in a religious capacity on a temporary basis. Applicants must be employed by a non-profit religious organization in the U.S. or an organization affiliated with the religious denomination in the United States.
+    
+    ## Qualifications for R-1 Visa
+    
+    To be eligible for an R-1 visa, an individual must:
+    
+      - Be a member of a religious denomination having a bona fide non-profit religious organization in the U.S. for at least two years before applying for the visa.
+      - Be coming to the U.S. to work as a minister or in a religious vocation or occupation.
+      - Be employed by the religious organization at least part-time (average of at least 20 hours per week).
+      - Provide evidence of compensation for work to be performed, which can be in the form of a salary, stipend, room and board, or other support.
+    
+    ## R-1 Visa Application Process
+    
+    1. **Petition**: The U.S. employer must file Form I-129, Petition for Nonimmigrant Worker, with USCIS on behalf of the religious worker.
+    
+    2. **Approval**: Once the petition is approved, the applicant can apply for the R-1 visa.
+    
+    3. **DS-160 Form**: Complete the Online Nonimmigrant Visa Application and print the confirmation page.
+    
+    4. **Visa Fee**: Pay the non-refundable visa application fee.
+    
+    5. **Schedule an Interview**: Book an interview at the U.S. Embassy or Consulate in the applicant's home country.
+    
+    6. **Prepare Documentation**: Gather required documents, including the DS-160 confirmation page, a valid passport, approval notice of Form I-129, and evidence of the religious organization’s status and the religious worker's eligibility.
+    
+    7. **Attend the Visa Interview**: During the interview, a consular officer will determine the applicant's eligibility for the R-1 visa based on the qualifications and documents presented.
+    
+      ## Duration and Limits of R-1 Visa
+    
+      - The R-1 visa can be granted for an initial period of up to 30 months, with the possibility of one extension for a total of up to 60 months (five years).
+    
+      ## FAQs about R-1 Visa
+    
+      ### Can R-1 visa holders bring their family members?
+    
+      - Yes, spouses and unmarried children under 21 years of age can apply for R-2 visas. However, R-2 visa holders are not permitted to work in the U.S.
+    
+      ### Can R-1 visa holders apply for a green card?
+    
+      - R-1 visa holders may be eligible to apply for a green card if they meet certain conditions and go through the usual permanent residency application process.
+    
+      ### Is there a cap on R-1 visas?
+    
+      - No, there is no annual cap on the number of R-1 visas that can be issued.
+    
+      ### Can R-1 visa holders work for another employer?
+    
+      - R-1 visa holders are limited to working for the employer that petitioned for them unless a new petition is approved for additional or changed employment.
+    
+      ### What happens if the R-1 visa holder's employment is terminated?
+    
+      - If the R-1 employment ends, the visa holder must either find another eligible employer to file a new petition or leave the United States.
+    
+      ## Tips for R-1 Visa Applicants
+    
+      - Provide clear evidence of both the religious organization’s eligibility and the religious worker’s qualifications.
+      - Maintain documentation of the religious organization’s non-profit status and your membership in the denomination.
+      - Be prepared to explain the nature of the religious work and how you will be supporting yourself financially in the U.S.
+    
+      This Markdown document serves as a guide for religious workers seeking to enter the United States on an R-1 visa, providing a detailed look at the application process, eligibility requirements, and answering common questions related to this visa type for religious vocations.
     <SecurityDefinitions />
 
   version: 1.0.0

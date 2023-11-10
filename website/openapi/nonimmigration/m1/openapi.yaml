@@ -6,38 +6,72 @@ servers:
     description: Sandbox server
 info:
   description: |
-    This is a sample server Petstore server.
-    You can find out more about Swagger at
-    [http://swagger.io](http://swagger.io) or on [irc.freenode.net, #swagger](http://swagger.io/irc/).
-    For this sample, you can use the api key `special-key` to test the authorization filters.
-
-    # Introduction  sss
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # OpenAPI Specification
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # Cross-Origin Resource Sharing   ssssss
-    This API features Cross-Origin Resource Sharing (CORS) implemented in compliance with  [W3C spec](https://www.w3.org/TR/cors/).
-    And that allows cross-domain communication from the browser.
-    All responses have a wildcard same-origin which makes them completely public and accessible to everyone, including any code on any site.
-
-    # Authentication
-
-    Petstore offers two forms of authentication:
-      - API Key
-      - OAuth2
-    OAuth2 - an open protocol to allow secure authorization in a simple
-    and standard method from web, mobile and desktop applications.
-
+    # M-1 Visa Detailed Overview
+    
+    ## What is the M-1 Visa?
+    
+      The M-1 visa is a non-immigrant visa for international students who wish to pursue full-time vocational or non-academic studies, other than language training, in the United States. This visa is specifically tailored for students enrolled in technical and vocational schools.
+    
+    ## Qualifications for M-1 Visa
+    
+    To be eligible for an M-1 visa:
+    
+      - The applicant must be enrolled in a full-time vocational or technical program at a U.S. institution.
+      - The educational institution must be approved by the Student and Exchange Visitors Program, Immigration & Customs Enforcement.
+      - The applicant must demonstrate that they have the financial resources to pay for the educational program and living expenses while in the U.S.
+      - The applicant must have the intent to depart the U.S. upon the completion of the course of study.
+      - The applicant must maintain a residence abroad that they do not intend to abandon.
+    
+    ## M-1 Visa Application Process
+    
+    1. **School Acceptance**: Secure acceptance from a SEVP-certified institution, which will issue Form I-20.
+    
+    2. **SEVIS Fee**: Pay the SEVIS I-901 fee to be enrolled in the Student and Exchange Visitor Information System (SEVIS).
+    
+    3. **Form DS-160**: Complete the Online Nonimmigrant Visa Application and print the confirmation page.
+    
+    4. **Visa Fee**: Pay the non-refundable visa application fee.
+    
+    5. **Schedule an Interview**: Book an interview at the U.S. Embassy or Consulate in your home country.
+    
+    6. **Prepare Documentation**: Assemble the required documents, including the DS-160 confirmation page, a valid passport, Form I-20, and evidence of financial support.
+    
+    7. **Attend the Visa Interview**: A consular officer will conduct the interview to determine if you are qualified to receive an M-1 visa.
+    
+      ## Duration and Limits of M-1 Visa
+    
+      - The M-1 visa is typically valid for the length of the educational program plus 30 days, up to a maximum of one year. Extensions may be granted for up to three years of total study.
+    
+      ## FAQs about M-1 Visa
+    
+      ### Can M-1 visa holders work in the U.S.?
+    
+      - M-1 students may engage in practical training only after completing their studies. Employment is limited to on-campus work and practical training directly related to the vocational field.
+    
+      ### Can M-1 visa holders travel outside the U.S.?
+    
+      - M-1 students may travel and re-enter the U.S. as long as they have a valid visa, a signed Form I-20, and have not completed their course of study.
+    
+      ### Are M-1 visa holders eligible for a green card?
+    
+      - The M-1 visa is a temporary non-immigrant visa, and holders are expected to return home upon completing their studies. However, they may change status or apply for a green card through other eligible avenues.
+    
+      ### Can M-1 visa holders change their status to F-1?
+    
+      - Yes, M-1 students can apply to change their status to F-1 if they meet the requirements and are accepted into an academic program.
+    
+      ### What happens if M-1 students fail to maintain their status?
+    
+      - Violating the terms of the M-1 visa status may result in deportation and could affect future immigration benefits.
+    
+      ## Tips for M-1 Visa Applicants
+    
+      - Ensure the vocational school and program are SEVP-certified before enrolling.
+      - Document your financial resources and ties to your home country to demonstrate non-immigrant intent.
+      - Be aware of the regulations surrounding practical training and employment.
+      - Keep track of your visa expiration date and maintain full-time enrollment in your vocational program.
+    
+      This Markdown document offers an extensive guide for international students considering vocational or technical studies in the United States under the M-1 visa, detailing the application process, eligibility requirements, and important considerations regarding study, work, and maintaining status.
     <SecurityDefinitions />
 
   version: 1.0.0

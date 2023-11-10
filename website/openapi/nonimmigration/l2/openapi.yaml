@@ -6,38 +6,66 @@ servers:
     description: Sandbox server
 info:
   description: |
-    This is a sample server Petstore server.
-    You can find out more about Swagger at
-    [http://swagger.io](http://swagger.io) or on [irc.freenode.net, #swagger](http://swagger.io/irc/).
-    For this sample, you can use the api key `special-key` to test the authorization filters.
-
-    # Introduction  sss
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # OpenAPI Specification
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # Cross-Origin Resource Sharing   ssssss
-    This API features Cross-Origin Resource Sharing (CORS) implemented in compliance with  [W3C spec](https://www.w3.org/TR/cors/).
-    And that allows cross-domain communication from the browser.
-    All responses have a wildcard same-origin which makes them completely public and accessible to everyone, including any code on any site.
-
-    # Authentication
-
-    Petstore offers two forms of authentication:
-      - API Key
-      - OAuth2
-    OAuth2 - an open protocol to allow secure authorization in a simple
-    and standard method from web, mobile and desktop applications.
-
+    # L-2 Visa Detailed Overview
+    
+    ## What is the L-2 Visa?
+    
+      The L-2 visa is a non-immigrant visa that allows the dependent spouse and unmarried children under 21 years of age of L-1 visa holders to enter and reside in the United States. The L-1 visa is issued to employees of an international company with offices in both the United States and abroad, transferring to the U.S. branch for work purposes.
+    
+    ## Qualifications for L-2 Visa
+    
+    To be eligible for an L-2 visa:
+    
+      - The applicant must be the legally married spouse or the unmarried child under 21 years of age of a valid L-1 visa holder.
+      - Proof of the relationship to the L-1 visa holder, such as a marriage certificate or birth certificate, must be provided.
+    
+    ## L-2 Visa Application Process
+    
+    1. **DS-160 Form**: Complete the Online Nonimmigrant Visa Application and print the confirmation page to bring to the visa interview.
+    
+    2. **Visa Fee**: Pay the non-refundable visa application fee prior to the interview.
+    
+    3. **Schedule an Interview**: L-2 visa applicants typically need to schedule an interview at the U.S. Embassy or Consulate in their home country.
+    
+    4. **Prepare Documentation**: Assemble necessary documentation, including the DS-160 confirmation page, current and valid passports, the primary L-1 visa holder's Form I-797 (if applicable), and evidence of the relationship to the L-1 holder (marriage or birth certificates).
+    
+    5. **Attend the Visa Interview**: Applicants are required to attend a visa interview, where a consular officer will determine their eligibility based on the L-2 visa requirements.
+    
+      ## Duration and Limits of L-2 Visa
+    
+      - The L-2 visa is valid for the duration of the L-1 visa holder's authorized stay in the United States.
+      - L-2 visa holders may study, engage in full or part-time employment, and travel in and out of the U.S. as long as their L-2 status remains valid.
+    
+      ## FAQs about L-2 Visa
+    
+      ### Can L-2 visa holders work in the U.S.?
+    
+      - Yes, L-2 visa holders can apply for Employment Authorization Documents (EAD) with USCIS to work without restriction in the U.S.
+    
+      ### Can L-2 visa holders study in the U.S.?
+    
+      - Yes, L-2 visa holders may engage in full or part-time study.
+    
+      ### Are L-2 visa holders eligible for a Social Security Number (SSN)?
+    
+      - L-2 visa holders with an EAD can apply for an SSN.
+    
+      ### Can L-2 visa holders change their status?
+    
+      - L-2 visa holders can apply to change their status to another non-immigrant visa category.
+    
+      ### What if the L-1 visa holder changes employers?
+    
+      - If the L-1 visa holder changes employers, L-2 dependents' status is dependent on the L-1 visa holder maintaining valid L-1 status.
+    
+      ## Tips for L-2 Visa Applicants
+    
+      - Ensure all documents, especially those proving the family relationship, are accurate and up-to-date.
+      - Apply for an EAD promptly if you wish to work in the U.S.
+      - Keep track of the L-1 visa holder's status to ensure continuous lawful status in the U.S.
+      - Be aware of the expiration dates on your visa and EAD to maintain legal employment and residency status.
+    
+      This Markdown document serves as an informative guide for the spouses and children of L-1 visa holders, providing details on the L-2 visa application process, eligibility, and benefits, as well as addressing common questions related to living, working, and studying in the United States as dependents.
     <SecurityDefinitions />
 
   version: 1.0.0

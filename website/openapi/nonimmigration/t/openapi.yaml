@@ -6,38 +6,69 @@ servers:
     description: Sandbox server
 info:
   description: |
-    This is a sample server Petstore server.
-    You can find out more about Swagger at
-    [http://swagger.io](http://swagger.io) or on [irc.freenode.net, #swagger](http://swagger.io/irc/).
-    For this sample, you can use the api key `special-key` to test the authorization filters.
-
-    # Introduction  sss
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # OpenAPI Specification
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # Cross-Origin Resource Sharing   ssssss
-    This API features Cross-Origin Resource Sharing (CORS) implemented in compliance with  [W3C spec](https://www.w3.org/TR/cors/).
-    And that allows cross-domain communication from the browser.
-    All responses have a wildcard same-origin which makes them completely public and accessible to everyone, including any code on any site.
-
-    # Authentication
-
-    Petstore offers two forms of authentication:
-      - API Key
-      - OAuth2
-    OAuth2 - an open protocol to allow secure authorization in a simple
-    and standard method from web, mobile and desktop applications.
-
+    # T Visa Detailed Overview
+    
+    ## What is the T Visa?
+    
+      The T visa is a non-immigrant visa that provides immigration protection to victims of severe forms of trafficking in persons. It allows victims to remain in the United States to assist in an investigation or prosecution of human trafficking cases.
+    
+    ## Qualifications for T Visa
+    
+    To qualify for a T visa, an individual must:
+    
+      - Be or have been a victim of severe trafficking, which includes sex trafficking and labor trafficking.
+      - Be in the United States, American Samoa, the Commonwealth of the Northern Mariana Islands, or at a port of entry due to trafficking.
+      - Comply with any reasonable request from law enforcement for assistance in the investigation or prosecution of human trafficking (unless under the age of 18, or unable to cooperate due to physical or psychological trauma).
+      - Demonstrate that they would suffer extreme hardship involving unusual and severe harm if removed from the United States.
+      - Be admissible to the United States, or obtain a waiver for inadmissibility.
+    
+    ## T Visa Application Process
+    
+    1. **Form I-914**: Complete and submit Form I-914, Application for T Nonimmigrant Status, to USCIS.
+    
+    2. **Declaration**: Provide a personal declaration detailing the circumstances of the trafficking.
+    
+    3. **Evidence**: Submit evidence supporting the T visa application, including any information about the trafficking situation and cooperation with law enforcement.
+    
+    4. **Law Enforcement Agency Endorsement**: If available, include the Law Enforcement Agency (LEA) endorsement.
+    
+    5. **Health and Safety Plan**: Develop a plan to protect your health and safety, including seeking assistance from victim services organizations.
+    
+    6. **Interview**: While interviews are not typically required, USCIS may request one.
+    
+      ## Duration and Limits of T Visa
+    
+      - The T visa can be granted for up to four years. Extensions may be available under certain circumstances, such as if law enforcement requests the presence of the individual in the U.S. for ongoing cooperation.
+    
+      ## FAQs about T Visa
+    
+      ### Can T visa holders apply for a green card?
+    
+      - Yes, T visa holders may be eligible to apply for a green card after three years in T nonimmigrant status or once the investigation or prosecution is complete, whichever occurs earlier.
+    
+      ### Can T visa holders work in the U.S.?
+    
+      - T visa recipients are granted employment authorization. A separate application for an Employment Authorization Document (EAD) is not required.
+    
+      ### Can family members accompany T visa holders to the U.S.?
+    
+      - Certain immediate family members may be eligible for derivative T nonimmigrant status (T-2, T-3, T-4, T-5 visas).
+    
+      ### Are T visa holders eligible for federal and state benefits?
+    
+      - T visa recipients are eligible for certain federal and state benefits and services, such as refugee assistance.
+    
+      ### What if a T visa holder's situation changes?
+    
+      - T visa holders should report any changes, such as address or immigration status, to USCIS and keep all records up to date.
+    
+      ## Tips for T Visa Applicants
+    
+      - Gather comprehensive evidence of the trafficking situation and any interactions with law enforcement.
+      - Seek assistance from legal aid organizations experienced in T visa applications.
+      - Utilize available victim services for support during and after the application process.
+    
+      This Markdown document provides a thorough guide for individuals seeking the T visa as a means of protection and support in the United States, outlining the application process, eligibility criteria, and addressing common questions and considerations for victims of human trafficking.
     <SecurityDefinitions />
 
   version: 1.0.0

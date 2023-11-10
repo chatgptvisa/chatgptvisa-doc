@@ -6,38 +6,64 @@ servers:
     description: Sandbox server
 info:
   description: |
-    This is a sample server Petstore server.
-    You can find out more about Swagger at
-    [http://swagger.io](http://swagger.io) or on [irc.freenode.net, #swagger](http://swagger.io/irc/).
-    For this sample, you can use the api key `special-key` to test the authorization filters.
+    # R-2 Visa Detailed Overview
 
-    # Introduction  sss
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # OpenAPI Specification
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # Cross-Origin Resource Sharing   ssssss
-    This API features Cross-Origin Resource Sharing (CORS) implemented in compliance with  [W3C spec](https://www.w3.org/TR/cors/).
-    And that allows cross-domain communication from the browser.
-    All responses have a wildcard same-origin which makes them completely public and accessible to everyone, including any code on any site.
-
-    # Authentication
-
-    Petstore offers two forms of authentication:
-      - API Key
-      - OAuth2
-    OAuth2 - an open protocol to allow secure authorization in a simple
-    and standard method from web, mobile and desktop applications.
-
+    ## What is the R-2 Visa?
+    
+      The R-2 visa is a non-immigrant visa issued to the dependents of R-1 visa holders. It allows the spouse and unmarried children under 21 years of age of R-1 visa holders to enter and reside in the United States during the R-1 holder's authorized period of stay.
+    
+    ## Qualifications for R-2 Visa
+    
+    To be eligible for an R-2 visa:
+    
+      - The applicant must be the legally married spouse or the unmarried child under 21 years of age of a valid R-1 visa holder.
+      - The R-1 visa holder must be in or approved for R-1 status and working for a non-profit religious organization in the U.S. or an organization affiliated with the religious denomination.
+    
+    ## R-2 Visa Application Process
+    
+    1. **DS-160 Form**: Each dependent must complete the Online Nonimmigrant Visa Application and print the confirmation page.
+    
+    2. **Visa Fee**: Pay the non-refundable visa application fee for each R-2 applicant.
+    
+    3. **Schedule an Interview**: R-2 visa applicants typically need to schedule an interview at the U.S. Embassy or Consulate in their home country, often concurrently with the R-1 visa holder.
+    
+    4. **Prepare Documentation**: Assemble necessary documents, including the DS-160 confirmation page, valid passports, the R-1 visa holder's Form I-797 (if applicable), and proof of relationship to the R-1 holder (marriage or birth certificates).
+    
+    5. **Attend the Visa Interview**: If required, attend the interview where a consular officer will determine eligibility for the R-2 visa based on the qualifications and documents presented.
+    
+      ## Duration and Limits of R-2 Visa
+    
+      - The validity of the R-2 visa is tied to the principal R-1 visa holder's authorized period of stay. R-2 visa holders may stay in the U.S. as long as the R-1 visa holder maintains valid status.
+    
+      ## FAQs about R-2 Visa
+    
+      ### Can R-2 visa holders work in the U.S.?
+    
+      - No, R-2 visa holders are not authorized to work in the United States.
+    
+      ### Can R-2 visa holders study in the U.S.?
+    
+      - Yes, R-2 visa holders can enroll in schools in the U.S. without changing their visa status.
+    
+      ### Can R-2 visa holders change their status?
+    
+      - R-2 visa holders can apply to change their status to another non-immigrant visa category if eligible.
+    
+      ### Are R-2 visa holders eligible for a Social Security Number (SSN)?
+    
+      - R-2 visa holders are not eligible for an SSN since they cannot work. However, for tax purposes, they may apply for an Individual Taxpayer Identification Number (ITIN).
+    
+      ### What happens if the R-1 visa holder's status changes or ends?
+    
+      - If the R-1 visa holder's status changes or ends, the R-2 dependents' status will also change or end. They must change to another visa status or depart the United States.
+    
+      ## Tips for R-2 Visa Applicants
+    
+      - Ensure that all documentation is accurate and up-to-date, reflecting the current status of the R-1 visa holder.
+      - Understand your non-immigrant status limitations, especially regarding employment and study.
+      - Keep track of the R-1 visa holder's period of stay and extensions to maintain lawful status.
+    
+      This Markdown document serves as a guide for the spouses and children of R-1 religious worker visa holders, detailing the R-2 visa application process, eligibility, and benefits, as well as addressing common questions related to living in the United States as dependents under this visa category.
     <SecurityDefinitions />
 
   version: 1.0.0

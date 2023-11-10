@@ -6,38 +6,70 @@ servers:
     description: Sandbox server
 info:
   description: |
-    This is a sample server Petstore server.
-    You can find out more about Swagger at
-    [http://swagger.io](http://swagger.io) or on [irc.freenode.net, #swagger](http://swagger.io/irc/).
-    For this sample, you can use the api key `special-key` to test the authorization filters.
-
-    # Introduction  sss
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # OpenAPI Specification
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # Cross-Origin Resource Sharing   ssssss
-    This API features Cross-Origin Resource Sharing (CORS) implemented in compliance with  [W3C spec](https://www.w3.org/TR/cors/).
-    And that allows cross-domain communication from the browser.
-    All responses have a wildcard same-origin which makes them completely public and accessible to everyone, including any code on any site.
-
-    # Authentication
-
-    Petstore offers two forms of authentication:
-      - API Key
-      - OAuth2
-    OAuth2 - an open protocol to allow secure authorization in a simple
-    and standard method from web, mobile and desktop applications.
-
+    # P-1 Visa Detailed Overview
+    
+    ## What is the P-1 Visa?
+    
+    The P-1 visa is a non-immigrant visa designed for certain athletes, entertainers, and artists coming to the United States to perform at a specific competition or event. The P-1 classification is divided into two categories: P-1A for athletes and P-1B for members of an entertainment group.
+      
+      ## Qualifications for P-1 Visa
+      
+      ### P-1A Athlete:
+      - The athlete must be coming to the U.S. to participate in individual events, competitions, or performances in an athletic field that is internationally recognized.
+      
+      ### P-1B Entertainer or Artist:
+      - The performer must be part of an entertainment group that has been recognized internationally as outstanding for a sustained period.
+      - The group must have a substantial relationship with the performer, generally a minimum of one year, and the performer must have a significant role within the group.
+    
+    ## P-1 Visa Application Process
+    
+    1. **Petition**: The U.S. employer or sponsoring organization must file Form I-129, Petition for Nonimmigrant Worker, with USCIS.
+    
+    2. **Approval**: Once the petition is approved, the athlete, artist, or entertainer can apply for the P-1 visa.
+    
+    3. **DS-160 Form**: Complete the Online Nonimmigrant Visa Application and print the confirmation page.
+    
+    4. **Visa Fee**: Pay the non-refundable visa application fee.
+    
+    5. **Schedule an Interview**: Book an interview at the U.S. Embassy or Consulate in the applicant's home country.
+    
+    6. **Prepare Documentation**: Gather required documents, including a valid passport, DS-160 confirmation page, approval notice of the Form I-129 petition, and evidence of the event, competition, or performance.
+    
+    7. **Attend the Visa Interview**: A consular officer will determine the applicant's eligibility during the interview.
+      
+      ## Duration and Limits of P-1 Visa
+    
+      - The P-1 visa is generally granted for the time needed to complete the event, competition, or performance, up to a maximum of one year for athletes and the duration of the event (up to a year) for entertainers and artists. Extensions are possible.
+      
+      ## FAQs about P-1 Visa
+      
+      ### Can P-1 visa holders bring their family members?
+    
+      - Yes, spouses and unmarried children under the age of 21 can obtain P-4 status but are not allowed to work in the U.S.
+      
+      ### Can P-1 visa holders work for additional employers?
+    
+      - P-1 visa holders may only work for the employer or organization that filed the original petition unless a new petition is approved for additional employers.
+      
+      ### Are individual athletes also eligible for the P-1A visa?
+    
+      - Yes, individual athletes may qualify if they are internationally recognized.
+      
+      ### Can P-1 visa holders transition to a green card?
+    
+      - While the P-1 visa is a non-immigrant visa, holders may pursue a green card through employment or family-based petitions.
+      
+      ### What happens if a P-1 visa holder's event is canceled?
+    
+      - If the specific event for which the visa was granted is canceled, the visa holder must depart the U.S. or seek a change of status.
+      
+      ## Tips for P-1 Visa Applicants
+    
+      - Ensure the petition includes all necessary documentation of the event and the athlete or group's qualifications.
+      - Keep copies of contracts, itineraries, and other evidence of scheduled events in the U.S.
+      - Be prepared to explain the nature of the event and your role in it during the visa interview.
+      
+      This Markdown document offers a detailed guide for athletes, entertainers, and artists considering the P-1 visa for their temporary performance or competition engagements in the United States, outlining the application process, eligibility requirements, and key considerations for ensuring compliance with visa regulations.
     <SecurityDefinitions />
 
   version: 1.0.0

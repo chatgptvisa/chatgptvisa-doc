@@ -6,38 +6,69 @@ servers:
     description: Sandbox server
 info:
   description: |
-    This is a sample server Petstore server.
-    You can find out more about Swagger at
-    [http://swagger.io](http://swagger.io) or on [irc.freenode.net, #swagger](http://swagger.io/irc/).
-    For this sample, you can use the api key `special-key` to test the authorization filters.
-
-    # Introduction  sss
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # OpenAPI Specification
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # Cross-Origin Resource Sharing   ssssss
-    This API features Cross-Origin Resource Sharing (CORS) implemented in compliance with  [W3C spec](https://www.w3.org/TR/cors/).
-    And that allows cross-domain communication from the browser.
-    All responses have a wildcard same-origin which makes them completely public and accessible to everyone, including any code on any site.
-
-    # Authentication
-
-    Petstore offers two forms of authentication:
-      - API Key
-      - OAuth2
-    OAuth2 - an open protocol to allow secure authorization in a simple
-    and standard method from web, mobile and desktop applications.
-
+    # J-2 Visa Detailed Overview
+    
+    ## What is the J-2 Visa?
+    
+      The J-2 visa is a non-immigrant visa issued to the dependents of J-1 visa holders, which includes the spouse and unmarried children under the age of 21. It allows them to accompany or join the J-1 visa holder in the United States for the duration of the J-1 holder's stay.
+    
+    ## Qualifications for J-2 Visa
+    
+    To be eligible for a J-2 visa:
+    
+      - The applicant must be the legally married spouse or the unmarried child under 21 years of age of a J-1 visa holder.
+      - The J-1 visa holder must be participating in an approved exchange visitor program.
+    
+    ## J-2 Visa Application Process
+    
+    1. **Form DS-2019**: Obtain a Form DS-2019, Certificate of Eligibility for Exchange Visitor Status, for each J-2 dependent from the J-1's program sponsor.
+    
+    2. **SEVIS Fee**: Pay the SEVIS I-901 fee for the J-1 principal and any J-2 dependents.
+    
+    3. **Form DS-160**: Each J-2 dependent must complete the Online Nonimmigrant Visa Application and print the confirmation page.
+    
+    4. **Visa Fee**: Pay the non-refundable visa application fee for each J-2 applicant.
+    
+    5. **Schedule an Interview**: Typically, J-2 applicants should schedule an interview at the U.S. Embassy or Consulate, often concurrently with the J-1 visa holder.
+    
+    6. **Prepare Documentation**: Collect necessary documents, including valid passports, DS-160 confirmation pages, the primary J-1 visa holder's Form DS-2019, and financial evidence.
+    
+    7. **Attend the Visa Interview**: If required, attend the interview where a consular officer will determine eligibility for the J-2 visa.
+    
+      ## Duration and Limits of J-2 Visa
+    
+      - The validity of the J-2 visa is tied to the J-1 visa holder's status and program end date as indicated on Form DS-2019.
+    
+      ## FAQs about J-2 Visa
+    
+      ### Can J-2 visa holders work in the U.S.?
+    
+      - J-2 visa holders may apply for work authorization from USCIS. Once granted, there is no restriction on where the J-2 visa holder can work.
+    
+      ### Can J-2 visa holders study in the U.S.?
+    
+      - Yes, J-2 visa holders may study part-time or full-time.
+    
+      ### Are J-2 visa holders subject to the Two-Year Home-Country Physical Presence Requirement?
+    
+      - J-2 dependents are subject to the requirement if the primary J-1 visa holder is, impacting their ability to change status or adjust to permanent residency.
+    
+      ### Can J-2 visa holders travel outside the U.S. and return?
+    
+      - Yes, they can travel independently from the J-1 visa holder but must have valid J-2 visas and endorsed DS-2019 forms.
+    
+      ### What happens if the J-1 visa holder's status changes or ends?
+    
+      - The J-2 visa holder's status is dependent on the J-1 visa holder. If the J-1 visa holder's status ends or changes, the J-2 visa holder must change their status or leave the U.S. accordingly.
+    
+      ## Tips for J-2 Visa Applicants
+    
+      - Ensure you have access to sufficient financial resources to support your stay in the U.S.
+      - Maintain comprehensive health insurance coverage, which is a requirement for maintaining J visa status.
+      - Keep all immigration documents current and valid, including passports and DS-2019 forms.
+      - Be mindful of the Two-Year Home-Country Physical Presence Requirement and its implications for your future in the U.S.
+    
+      This Markdown document offers a detailed guide for the spouses and children of J-1 visa holders, explaining the J-2 visa application process, eligibility, and the benefits and considerations for dependents accompanying exchange visitors to the United States.
     <SecurityDefinitions />
 
   version: 1.0.0

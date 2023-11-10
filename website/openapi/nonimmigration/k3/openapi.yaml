@@ -6,38 +6,70 @@ servers:
     description: Sandbox server
 info:
   description: |
-    This is a sample server Petstore server.
-    You can find out more about Swagger at
-    [http://swagger.io](http://swagger.io) or on [irc.freenode.net, #swagger](http://swagger.io/irc/).
-    For this sample, you can use the api key `special-key` to test the authorization filters.
-
-    # Introduction  sss
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # OpenAPI Specification
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # Cross-Origin Resource Sharing   ssssss
-    This API features Cross-Origin Resource Sharing (CORS) implemented in compliance with  [W3C spec](https://www.w3.org/TR/cors/).
-    And that allows cross-domain communication from the browser.
-    All responses have a wildcard same-origin which makes them completely public and accessible to everyone, including any code on any site.
-
-    # Authentication
-
-    Petstore offers two forms of authentication:
-      - API Key
-      - OAuth2
-    OAuth2 - an open protocol to allow secure authorization in a simple
-    and standard method from web, mobile and desktop applications.
-
+    # K-3 Visa Detailed Overview
+    
+    ## What is the K-3 Visa?
+      
+      The K-3 visa is a non-immigrant visa designed for foreign-citizen spouses of United States citizens. It allows the spouse to enter the U.S. while awaiting the approval of an immigrant visa petition, thus offering a faster route for them to reunite with their U.S. citizen spouse instead of waiting abroad for immigrant visa processing.
+    
+    ## Qualifications for K-3 Visa
+    
+    To be eligible for a K-3 visa:
+    
+      - The applicant must be legally married to a U.S. citizen.
+      - An immigrant visa petition (Form I-130, Petition for Alien Relative) must have been filed on behalf of the foreign-citizen spouse and must be pending approval by USCIS.
+      - The U.S. citizen spouse must have filed Form I-129F, Petition for Alien Fiancé(e), on behalf of the foreign-citizen spouse.
+    
+    ## K-3 Visa Application Process
+    
+    1. **Immigrant Visa Petition**: The U.S. citizen spouse must first file Form I-130 with USCIS.
+    
+    2. **Petition for Alien Fiancé(e)**: Once USCIS issues a receipt for the I-130, the U.S. citizen must file Form I-129F, Petition for Alien Fiancé(e), for the foreign-citizen spouse.
+    
+    3. **DS-160 Form**: The K-3 visa applicant must complete the Online Nonimmigrant Visa Application.
+    
+    4. **Visa Fee**: Pay the non-refundable visa application fee.
+    
+    5. **Schedule an Interview**: The spouse must schedule an interview at the U.S. Embassy or Consulate in their home country.
+    
+    6. **Prepare Documentation**: Gather necessary documents, including a valid passport, DS-160 confirmation page, civil documents, marriage certificate, and proof of the relationship and ongoing immigrant visa application.
+    
+    7. **Attend the Visa Interview**: The applicant will undergo an interview with a consular officer who will determine their eligibility for the K-3 visa.
+      
+      ## Duration and Limits of K-3 Visa
+    
+      - The K-3 visa is valid for two years with multiple entries allowed. If the immigrant visa is not approved within the two-year period, visa holders may apply for extensions in two-year increments.
+      
+      ## FAQs about K-3 Visa
+      
+      ### Can K-3 visa holders work in the U.S.?
+    
+      - Yes, upon entering the U.S., K-3 visa holders can apply for work authorization using Form I-765.
+      
+      ### Can K-3 visa holders travel outside the U.S.?
+    
+      - K-3 visa holders may travel in and out of the U.S. as long as their visa is valid.
+      
+      ### What if the immigrant visa petition is denied?
+    
+      - If the I-130 petition is denied, the K-3 visa will also be terminated.
+      
+      ### Can children of K-3 visa holders come to the U.S.?
+    
+      - Children of K-3 applicants may apply for the K-4 visa to join their parent in the U.S.
+      
+      ### How does the K-3 visa affect the immigration process?
+    
+      - The K-3 visa allows spouses to complete the immigration process in the U.S., adjusting status to permanent resident after the approval of their immigrant visa petition.
+      
+      ## Tips for K-3 Visa Applicants
+    
+      - Stay informed about the status of your immigrant visa petition and keep all related documents organized.
+      - Maintain open communication with your U.S. citizen spouse to ensure all forms and petitions are filed correctly.
+      - Be prepared to demonstrate the bona fide nature of your marriage during the visa interview.
+      - Understand that the K-3 visa is a temporary solution and start preparing for the adjustment of status process once you arrive in the U.S.
+      
+      This Markdown document serves as a guide for foreign-citizen spouses of U.S. citizens who are seeking to live with their spouse in the United States while awaiting approval of their immigrant visa petition, outlining the K-3 visa application process, eligibility criteria, and key considerations.
     <SecurityDefinitions />
 
   version: 1.0.0

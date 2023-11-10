@@ -6,38 +6,64 @@ servers:
     description: Sandbox server
 info:
   description: |
-    This is a sample server Petstore server.
-    You can find out more about Swagger at
-    [http://swagger.io](http://swagger.io) or on [irc.freenode.net, #swagger](http://swagger.io/irc/).
-    For this sample, you can use the api key `special-key` to test the authorization filters.
-
-    # Introduction  sss
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # OpenAPI Specification
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # Cross-Origin Resource Sharing   ssssss
-    This API features Cross-Origin Resource Sharing (CORS) implemented in compliance with  [W3C spec](https://www.w3.org/TR/cors/).
-    And that allows cross-domain communication from the browser.
-    All responses have a wildcard same-origin which makes them completely public and accessible to everyone, including any code on any site.
-
-    # Authentication
-
-    Petstore offers two forms of authentication:
-      - API Key
-      - OAuth2
-    OAuth2 - an open protocol to allow secure authorization in a simple
-    and standard method from web, mobile and desktop applications.
-
+    # M-2 Visa Detailed Overview
+    
+    ## What is the M-2 Visa?
+    
+      The M-2 visa is a non-immigrant visa issued to the dependents (spouse and unmarried children under the age of 21) of an M-1 visa holder. This visa allows the dependents to accompany the M-1 student during their stay in the United States.
+    
+    ## Qualifications for M-2 Visa
+    
+    To be eligible for an M-2 visa:
+    
+      - The applicant must be the legally married spouse or the unmarried child under 21 years of age of an M-1 visa holder.
+      - The M-1 visa holder must be enrolled in a full-time vocational or non-academic program at a U.S. institution.
+    
+    ## M-2 Visa Application Process
+    
+    1. **Form DS-160**: Complete the Online Nonimmigrant Visa Application and print the confirmation page to bring to the interview.
+    
+    2. **Visa Fee**: Pay the non-refundable visa application fee prior to scheduling an interview.
+    
+    3. **Schedule an Interview**: M-2 visa applicants typically need to schedule an interview at the U.S. Embassy or Consulate in their home country, usually at the same time as the M-1 visa holder.
+    
+    4. **Prepare Documentation**: Assemble necessary documents, including the DS-160 confirmation page, valid passports, the M-1 visa holder's Form I-20, and evidence of the relationship to the M-1 holder (marriage or birth certificates).
+    
+    5. **Attend the Visa Interview**: Applicants are required to attend a visa interview, where a consular officer will determine eligibility based on the M-2 visa requirements.
+    
+      ## Duration and Limits of M-2 Visa
+    
+      - The M-2 visa's validity is tied to the principal M-1 visa holder's status and ends concurrently with the M-1's period of stay, including any granted extensions.
+    
+      ## FAQs about M-2 Visa
+    
+      ### Can M-2 visa holders study in the U.S.?
+    
+      - Yes, M-2 spouses and children can enroll in recreational or vocational studies. M-2 children can also engage in full-time study at an elementary or secondary school. However, M-2 spouses are not permitted to engage in full-time study, and M-2 children can only engage in full-time study at the K-12 level.
+    
+      ### Can M-2 visa holders work in the U.S.?
+    
+      - No, M-2 visa holders are not authorized to work in the United States.
+    
+      ### Can M-2 visa holders change their status?
+    
+      - M-2 visa holders may apply to change their status to another non-immigrant visa category if eligible.
+    
+      ### Are M-2 visa holders eligible to apply for a driver's license?
+    
+      - Yes, they can apply for a driver's license, provided they have proof of their legal status and residency in the state where they are applying.
+    
+      ### What happens to M-2 dependents if the M-1 visa holder's status changes?
+    
+      - If the M-1 visa holder's status changes or ends, the M-2 dependents' status will also change or end. They must change to another visa status or depart the United States.
+    
+      ## Tips for M-2 Visa Applicants
+    
+      - Ensure that all documentation is accurate and up-to-date, reflecting the current status of the M-1 visa holder.
+      - Be aware of your non-immigrant status limitations, especially regarding employment and full-time study.
+      - Keep track of the M-1 visa holder's educational program end date and any extensions to maintain lawful status.
+    
+      This Markdown document serves as a guide for the spouses and children of M-1 vocational student visa holders, providing detailed information on the M-2 visa application process, eligibility criteria, and the rights and restrictions associated with this dependent visa type in the United States.
     <SecurityDefinitions />
 
   version: 1.0.0

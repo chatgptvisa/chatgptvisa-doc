@@ -6,38 +6,67 @@ servers:
     description: Sandbox server
 info:
   description: |
-    This is a sample server Petstore server.
-    You can find out more about Swagger at
-    [http://swagger.io](http://swagger.io) or on [irc.freenode.net, #swagger](http://swagger.io/irc/).
-    For this sample, you can use the api key `special-key` to test the authorization filters.
-
-    # Introduction  sss
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # OpenAPI Specification
-    This API is documented in **OpenAPI format** and is based on
-    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
-    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
-    tool and [ReDoc](https://github.com/Redocly/redoc) documentation. In addition to standard
-    OpenAPI syntax we use a few [vendor extensions](https://github.com/Redocly/redoc/blob/master/docs/redoc-vendor-extensions.md).
-
-    # Cross-Origin Resource Sharing   ssssss
-    This API features Cross-Origin Resource Sharing (CORS) implemented in compliance with  [W3C spec](https://www.w3.org/TR/cors/).
-    And that allows cross-domain communication from the browser.
-    All responses have a wildcard same-origin which makes them completely public and accessible to everyone, including any code on any site.
-
-    # Authentication
-
-    Petstore offers two forms of authentication:
-      - API Key
-      - OAuth2
-    OAuth2 - an open protocol to allow secure authorization in a simple
-    and standard method from web, mobile and desktop applications.
-
+    # NATO Visa Detailed Overview
+    
+    ## What is the NATO Visa?
+    
+      The NATO visa is a non-immigrant visa category for representatives, officials, and employees of the North Atlantic Treaty Organization (NATO) who are traveling to the United States under official orders. It also covers their immediate family members. There are different categories within the NATO visa classification, such as NATO-1 through NATO-7, each tailored to specific roles and functions related to NATO.
+    
+    ## Qualifications for NATO Visa
+    
+    Eligibility for a NATO visa typically requires:
+    
+      - Official proof of status as a NATO representative, official, expert, or employee.
+      - A valid assignment or travel order from NATO.
+      - The primary purpose of travel to the U.S. must be official NATO business.
+    
+    ## NATO Visa Application Process
+    
+    1. **Visa Exemption**: Certain NATO personnel may be exempt from visa requirements. However, those who need visas follow a similar process to other non-immigrant visas.
+    
+    2. **DS-160 Form**: Complete the Online Nonimmigrant Visa Application and print the confirmation page.
+    
+    3. **Visa Fee**: Most applicants for NATO visas are exempt from the visa application fee.
+    
+    4. **Schedule an Interview**: While some NATO visa applicants may be exempt from the interview requirement, it is typically necessary to schedule an interview at the U.S. Embassy or Consulate.
+    
+    5. **Prepare Documentation**: Gather necessary documents, including military or official orders, a diplomatic note from NATO or the relevant member state, and passports.
+    
+    6. **Attend the Visa Interview**: If required, attend the interview where eligibility will be determined based on NATO visa requirements.
+    
+      ## Duration and Limits of NATO Visa
+    
+      - The validity of NATO visas varies based on the specific assignment and role of the individual. The visa is typically issued for the length of the assignment.
+    
+      ## FAQs about NATO Visa
+    
+      ### Can NATO visa holders bring their family members?
+    
+      - Yes, immediate family members, including spouses and children, can obtain derivative NATO visas.
+    
+      ### Are NATO visa holders permitted to work in the U.S.?
+    
+      - NATO visa holders can work for NATO or on NATO-related activities but are not generally authorized to undertake employment outside of this context.
+    
+      ### Can NATO visa holders study in the U.S.?
+    
+      - Yes, they may engage in study while in the U.S. on a NATO visa.
+    
+      ### Can NATO visa holders travel outside the U.S. and re-enter?
+    
+      - Yes, NATO visa holders can travel and re-enter the U.S. provided their visa and official orders remain valid.
+    
+      ### What happens if a NATO assignment is extended?
+    
+      - The visa can be extended to match the length of the assignment by submitting appropriate documentation from NATO.
+    
+      ## Tips for NATO Visa Applicants
+    
+      - Verify if you are exempt from visa requirements based on your NATO role and travel orders.
+      - Maintain an official copy of your NATO orders and assignment details for travel to the U.S.
+      - Ensure that your passport is valid for the entire duration of your assignment.
+    
+      This Markdown document provides a comprehensive guide to the NATO visa, explaining the application process, eligibility criteria, and benefits for NATO representatives, officials, and employees, as well as their family members, for their temporary assignments in the United States.
     <SecurityDefinitions />
 
   version: 1.0.0
