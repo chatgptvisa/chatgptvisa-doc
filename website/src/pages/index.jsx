@@ -58,14 +58,14 @@ function Section({ title, description, link }) {
 
 function Docs() {
   return (
-    <Layout title="Redocusaurus" description="OpenAPI documentation solution">
+    <Layout title="US Visa Information Hub" description="OpenAPI documentation solution">
       <header className={clsx('hero hero--primary', styles.heroBanner)}>
         <div className="container">
-          <h1 className="hero__title">Redocusaurus</h1>
-          <p>OpenAPI solution for Docusaurus docs using Redoc</p>
+          <h1 className="hero__title">US Visa Information Hub</h1>
+          <p>A one-stop resource for all your US immigration and visa information needs.</p>
           <span>
             <iframe
-              src="https://ghbtns.com/github-btn.html?user=rohit-gohri&amp;repo=redocusaurus&amp;type=star&amp;count=true&amp;size=large"
+              src="https://ghbtns.com/github-btn.html?user=chatgptvisa&amp;repo=chatgptvisa-doc&amp;type=star&amp;count=true&amp;size=large"
               width={160}
               height={30}
               title="GitHub Stars"
