@@ -257,8 +257,8 @@ if (process.env.VERCEL_URL) {
 }
 
 const config: Config = {
-  title: 'Redocusaurus',
-  tagline: 'OpenAPI solution for Docusaurus docs with Redoc',
+  title: 'VisaVista',
+  tagline: 'AI solution for the visa of united states',
   customFields: {
     meta: {
       description: 'Integrate Redoc easily into your Docusaurus Site',
@@ -285,7 +285,7 @@ const config: Config = {
   ],
   themeConfig: {
     navbar: {
-      title: 'Redocusaurus',
+      title: 'VisaVista',
       items: [
         {
           label: 'Immigration',
@@ -490,21 +490,7 @@ const config: Config = {
           ],
         },
         {
-          label: 'v1+',
-          position: 'right',
-          items: [
-            {
-              label: 'v0',
-              href: 'https://redocusaurus-v0.vercel.app/',
-            },
-            {
-              label: 'v1+',
-              href: 'https://redocusaurus.vercel.app',
-            },
-          ],
-        },
-        {
-          href: 'https://github.com/rohit-gohri/redocusaurus',
+          href: 'https://github.com/chatgptvisa/chatgptvisa-doc',
           position: 'right',
           className: 'header-github-logo',
           'aria-label': 'GitHub Repo',
@@ -540,7 +526,7 @@ const config: Config = {
           items: [
             {
               label: 'Github',
-              href: 'https://github.com/rohit-gohri/redocusaurus/',
+              href: 'https://github.com/chatgptvisa/chatgptvisa-doc/',
             },
             {
               label: 'Blog Post',
@@ -553,7 +539,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} <a href="https://rohit.page" target="_blank" rel="noopener noreferrer">Rohit Gohri</a>. Built with <a href="https://github.com/facebook/docusaurus" target="_blank" rel="noopener noreferrer">Docusaurus</a>`,
+      copyright: `Copyright © ${new Date().getFullYear()} <a href="https://rohit.page" target="_blank" rel="noopener noreferrer">VisaVista Team</a>. Built with <a href="https://github.com/facebook/docusaurus" target="_blank" rel="noopener noreferrer">Docusaurus</a>`,
     },
   } satisfies Preset.ThemeConfig,
 };

@@ -7,45 +7,35 @@ import styles from './styles.module.css';
 
 const sections = [
   {
-    title: <>🌚 Dark Mode Support</>,
+    title: <>🗽 US Immigration Guides</>,
     description: (
-      <>Inbuilt support for Docusaurus Classic Theme&apos;s Dark Mode!</>
+      <>Detailed guides and resources to navigate the US immigration process.</>
     ),
   },
   {
-    title: <>🧩 Customizable</>,
+    title: <>📜 Visa Categories Explained</>,
     description: (
       <>
-        Pass in your custom theme colors or options and it will be merged. All
-        components can be swizzled to suit your needs (with Typescript support)
+        Comprehensive explanations of various US visa categories, eligibility, and application procedures.
       </>
     ),
   },
   {
-    title: <>📑 Schema Definitions</>,
+    title: <>🛂 Visa Application Tips</>,
     description: (
-      <>Use individual schema definitions directly in your MDX docs</>
+      <>Practical tips and best practices for a successful US visa application.</>
     ),
   },
   {
-    title: <>⚡️ Blazing Fast</>,
+    title: <>🔗 Useful Links & Resources</>,
     description: (
       <>
-        Support for
-        <a href="/docs/guides/build-time-rendering"> Build Time Rendering!</a>
+        A curated list of official links and helpful resources for prospective US immigrants.
       </>
     ),
   },
 ];
 
-/**
- *
- * @param {{
- *   title: string | React.ReactNode;
- *   description: string | React.ReactNode;
- *   link?: string;
- * }} param0
- */
 function Section({ title, description, link }) {
   const sectionComponent = <h3>{title}</h3>;
   const fullLink = useBaseUrl(link);
@@ -57,16 +47,17 @@ function Section({ title, description, link }) {
   );
 }
 
-function Docs() {
+function VisaInfo() {
   return (
-    <Layout title="Redocusaurus" description="OpenAPI documentation solution">
+    <Layout title="US Visa Information Hub" description="Comprehensive guides and resources for US immigration">
       <header className={clsx('hero hero--primary', styles.heroBanner)}>
         <div className="container">
-          <h1 className="hero__title">Redocusaurus</h1>
-          <p>OpenAPI solution for Docusaurus docs using Redoc</p>
+          <h1 className="hero__title">US Visa Information Hub</h1>
+          <p>A one-stop resource for all your US immigration and visa information needs.</p>
           <span>
+            {/* Ensure this GitHub button is linked to a repository that offers additional resources or code for managing immigration documents */}
             <iframe
-              src="https://ghbtns.com/github-btn.html?user=rohit-gohri&amp;repo=redocusaurus&amp;type=star&amp;count=true&amp;size=large"
+              src="https://ghbtns.com/github-btn.html?user=your-username&repo=your-repo&type=star&count=true&size=large"
               width={160}
               height={30}
               title="GitHub Stars"
@@ -91,4 +82,4 @@ function Docs() {
   );
 }
 
-export default Docs;
+export default VisaInfo;

@@ -1,14 +1,14 @@
 {
-  "name": "redocusaurus-website",
+  "name": "visavista-website",
   "version": "0.0.2",
-  "homepage": "https://github.com/rohit-gohri/redocusaurus",
+  "homepage": "https://github.com/chatgptvisa/chatgptvisa-doc",
   "bugs": {
-    "url": "https://github.com/rohit-gohri/redocusaurus/issues"
+    "url": "https://github.com/chatgptvisa/chatgptvisa-doc/issues"
   },
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/rohit-gohri/redocusaurus.git"
+    "url": "https://github.com/chatgptvisa/chatgptvisa-doc.git"
   },
   "license": "MIT",
   "author": "Rohit Gohri <code@rohit.page>",
