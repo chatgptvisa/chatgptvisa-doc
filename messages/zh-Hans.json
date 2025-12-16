@@ -1,0 +1,15 @@
+{
+  "HomePage": {
+    "title": "美国签证信息中心",
+    "subtitle": "您的一站式美国签证指南"
+  },
+  "Navigation": {
+    "knowledge": "知识库",
+    "about": "关于我们"
+  },
+  "VisaSelector": {
+    "title": "选择您的途径",
+    "immigrant": "移民签证 (绿卡)",
+    "non_immigrant": "非移民签证"
+  }
+}

@@ -1,55 +1,36 @@
-# Redocusaurus
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-[![npm](https://img.shields.io/npm/v/redocusaurus)](https://www.npmjs.com/package/redocusaurus/)
-![npm](https://img.shields.io/npm/dw/redocusaurus)
-![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/npm/redocusaurus)
-[![Typed with TypeScript](https://img.shields.io/badge/Typed-555555.svg?logo=typescript&labelColor=fff)](https://www.typescriptlang.org/)
-[![Build and Deploy](https://github.com/rohit-gohri/redocusaurus/actions/workflows/build.yml/badge.svg)](https://github.com/rohit-gohri/redocusaurus/actions/workflows/build.yml)
-![GitHub branch checks state](https://img.shields.io/github/checks-status/rohit-gohri/redocusaurus/main?logo=github)
-[![This project is using Percy.io for visual regression testing.](https://percy.io/static/images/percy-badge.svg)](https://percy.io/fef74697/redocusaurus)
+## Getting Started
 
-[Redoc](https://github.com/redocly/redoc) for [Docusaurus v2](https://v2.docusaurus.io/).
+First, run the development server:
 
-## Usage
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
 
-Check the [documentation on the website](https://redocusaurus.vercel.app/docs).
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## Demo
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-See [Examples](https://redocusaurus.vercel.app/examples/)
+This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## Packages
+## Learn More
 
-### [Redocusaurus](./packages/redocusaurus)
+To learn more about Next.js, take a look at the following resources:
 
-A Docusaurus Preset that combines the below 2 packages to easily add API doc(s) to your docs site.
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-### [Docusaurus Theme Redoc](./packages/docusaurus-theme-redoc)
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-A wrapper around `RedocStandalone` to make it match the Dcousaurus Theme with added support for Dark Mode.
+## Deploy on Vercel
 
-### [Docusaurus Plugin Redoc](./packages/docusaurus-plugin-redoc)
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-A content plugin that creates pages from your OpenAPI files or URLs and renders them using the Redoc component from the theme.
-
-### [Website](./website)
-
-Docs website and example project show casing the preset in action with multiple different OpenAPI specs.
-
-#### Who is using Redocusaurus?
-
-See [**Who is using Redocusaurus?** section in docs.](https://redocusaurus.vercel.app/docs/who-is-using-redocusaurus)
-
-## Contributing
-
-Any help is greatly appreciated, check the [DEVELOPMENT.md](./DEVELOPMENT.md) for help on how to setup the project in your local and [CONTRIBUTING.md](./CONTRIBUTING.md) for general info about the contribution workflow.
-
-## Motivation
-
-To have the documentation and API reference in the same site with the same headers/footers. Read more in the blog post, [OpenAPI for Docusaurus](https://rohit.page/blog/projects/openapi-for-docusaurus/?utm_source=github&utm_medium=repo&utm_campaign=redocusaurus).
-
-See this issue, [https://github.com/facebook/docusaurus/issues/638](https://github.com/facebook/docusaurus/issues/638#issuecomment-762502498), and this gist, <https://gist.github.com/rohit-gohri/b1a19f37702cfe4a6c5a47933a11785b> for more details and history.
-
-## License
-
-[MIT License. Copyright (c) 2023 Rohit Gohri](./LICENSE)
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.

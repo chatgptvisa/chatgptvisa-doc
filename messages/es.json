@@ -1,0 +1,15 @@
+{
+    "HomePage": {
+        "title": "Centro de Información de Visas de EE. UU.",
+        "subtitle": "Su guía completa sobre visas de EE. UU."
+    },
+    "Navigation": {
+        "knowledge": "Base de Conocimientos",
+        "about": "Sobre Nosotros"
+    },
+    "VisaSelector": {
+        "title": "Elija su Camino",
+        "immigrant": "Visas de Inmigrante (Green Card)",
+        "non_immigrant": "Visas de No Inmigrante"
+    }
+}

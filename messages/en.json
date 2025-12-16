@@ -1,0 +1,15 @@
+{
+  "HomePage": {
+    "title": "US Visa Information Hub",
+    "subtitle": "Your comprehensive guide to US Visas"
+  },
+  "Navigation": {
+    "knowledge": "Knowledge Space",
+    "about": "About Us"
+  },
+  "VisaSelector": {
+    "title": "Choose Your Path",
+    "immigrant": "Immigrant Visas (Green Card)",
+    "non_immigrant": "Non-Immigrant Visas"
+  }
+}
